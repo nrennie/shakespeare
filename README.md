@@ -11,6 +11,7 @@ The data is scraped from [shakespeare.mit.edu](https://shakespeare.mit.edu/), an
 This repository is a work-in-progress. Works currently included in CSV format:
 
 * Romeo and Juliet
+* Macbeth
 
 ## Analysis
 

@@ -14,3 +14,10 @@ romeo_juliet_script <- extract_data(romeo_juliet_raw) |>
     )
   )
 readr::write_csv(romeo_juliet_script, "data/romeo_juliet.csv")
+
+
+# Macbeth -----------------------------------------------------------------
+
+macbeth_raw <- rvest::read_html("https://shakespeare.mit.edu/macbeth/full.html")
+macbeth_script <- extract_data(macbeth_raw) 
+readr::write_csv(macbeth_script, "data/macbeth.csv")
