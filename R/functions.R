@@ -68,6 +68,7 @@ extract_data <- function(raw_html) {
       character = tidyr::replace_na(character, "Chorus")
     ) |>
     tidyr::drop_na(dialogue) |>
+    dplyr::mutate(dialogue = stringr::str_trim(dialogue)) |> 
     dplyr::mutate(line_number = dplyr::row_number())
   return(script)
 }
