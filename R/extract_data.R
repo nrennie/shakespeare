@@ -21,3 +21,12 @@ readr::write_csv(romeo_juliet_script, "data/romeo_juliet.csv")
 macbeth_raw <- rvest::read_html("https://shakespeare.mit.edu/macbeth/full.html")
 macbeth_script <- extract_data(macbeth_raw) 
 readr::write_csv(macbeth_script, "data/macbeth.csv")
+
+
+# Othello -----------------------------------------------------------------
+
+othello_raw <- rvest::read_html("https://shakespeare.mit.edu/othello/full.html")
+othello_script <- extract_data(othello_raw) 
+readr::write_csv(othello_script, "data/othello.csv")
+
+
