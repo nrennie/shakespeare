@@ -4,7 +4,7 @@ This repository contains data on the plays of William Shakespeare.
 
 ## Data
 
-The data is scraped from [shakespeare.mit.edu](https://shakespeare.mit.edu/), and processed into CSV format. The processing code can be found in the `R/functions.R` file.
+The data is scraped from [shakespeare.mit.edu](https://shakespeare.mit.edu/), and processed into CSV format. The processing code can be found in the `R/functions.R` file. The website [shakespeare.mit.edu](https://shakespeare.mit.edu/) states that the HTML versions of the plays provided there are placed in the public domain, and the versions here follow suit.
 
 ### Works included
 
