@@ -29,4 +29,3 @@ othello_raw <- rvest::read_html("https://shakespeare.mit.edu/othello/full.html")
 othello_script <- extract_data(othello_raw) 
 readr::write_csv(othello_script, "data/othello.csv")
 
-
