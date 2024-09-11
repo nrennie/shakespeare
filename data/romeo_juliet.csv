@@ -13,6 +13,7 @@ Act I,Prologue,Chorus,"Which, but their children's end, nought could remove,",11
 Act I,Prologue,Chorus,Is now the two hours' traffic of our stage;,12
 Act I,Prologue,Chorus,"The which if you with patient ears attend,",13
 Act I,Prologue,Chorus,"What here shall miss, our toil shall strive to mend.",14
+Act I,Scene I,[stage direction],"Enter SAMPSON and GREGORY, of the house of Capulet, armed with swords and bucklers",NA
 Act I,Scene I,Sampson,"Gregory, o' my word, we'll not carry coals.",15
 Act I,Scene I,Gregory,"No, for then we should be colliers.",16
 Act I,Scene I,Sampson,"I mean, an we be in choler, we'll draw.",17
@@ -52,6 +53,7 @@ Act I,Scene I,Gregory,"I will frown as I pass by, and let them take it as",50
 Act I,Scene I,Gregory,they list.,51
 Act I,Scene I,Sampson,"Nay, as they dare. I will bite my thumb at them;",52
 Act I,Scene I,Sampson,"which is a disgrace to them, if they bear it.",53
+Act I,Scene I,[stage direction],Enter ABRAHAM and BALTHASAR,NA
 Act I,Scene I,Abraham,"Do you bite your thumb at us, sir?",54
 Act I,Scene I,Sampson,"I do bite my thumb, sir.",55
 Act I,Scene I,Abraham,"Do you bite your thumb at us, sir?",56
@@ -69,8 +71,12 @@ Act I,Scene I,Gregory,Say 'better:' here comes one of my master's kinsmen.,67
 Act I,Scene I,Sampson,"Yes, better, sir.",68
 Act I,Scene I,Abraham,You lie.,69
 Act I,Scene I,Sampson,"Draw, if you be men. Gregory, remember thy swashing blow.",70
+Act I,Scene I,[stage direction],They fight,NA
+Act I,Scene I,[stage direction],Enter BENVOLIO,NA
 Act I,Scene I,Benvolio,"Part, fools!",71
 Act I,Scene I,Benvolio,Put up your swords; you know not what you do.,72
+Act I,Scene I,[stage direction],Beats down their swords,NA
+Act I,Scene I,[stage direction],Enter TYBALT,NA
 Act I,Scene I,Tybalt,"What, art thou drawn among these heartless hinds?",73
 Act I,Scene I,Tybalt,"Turn thee, Benvolio, look upon thy death.",74
 Act I,Scene I,Benvolio,"I do but keep the peace: put up thy sword,",75
@@ -78,14 +84,19 @@ Act I,Scene I,Benvolio,Or manage it to part these men with me.,76
 Act I,Scene I,Tybalt,"What, drawn, and talk of peace! I hate the word,",77
 Act I,Scene I,Tybalt,"As I hate hell, all Montagues, and thee:",78
 Act I,Scene I,Tybalt,"Have at thee, coward!",79
+Act I,Scene I,[stage direction],They fight,NA
+Act I,Scene I,[stage direction],"Enter, several of both houses, who join the fray; then enter Citizens, with clubs",NA
 Act I,Scene I,First Citizen,"Clubs, bills, and partisans! strike! beat them down!",80
 Act I,Scene I,First Citizen,Down with the Capulets! down with the Montagues!,81
+Act I,Scene I,[stage direction],"Enter CAPULET in his gown, and LADY CAPULET",NA
 Act I,Scene I,Capulet,"What noise is this? Give me my long sword, ho!",82
 Act I,Scene I,Lady Capulet,"A crutch, a crutch! why call you for a sword?",83
 Act I,Scene I,Capulet,"My sword, I say! Old Montague is come,",84
 Act I,Scene I,Capulet,And flourishes his blade in spite of me.,85
+Act I,Scene I,[stage direction],Enter MONTAGUE and LADY MONTAGUE,NA
 Act I,Scene I,Montague,"Thou villain Capulet,--Hold me not, let me go.",86
 Act I,Scene I,Lady Montague,Thou shalt not stir a foot to seek a foe.,87
+Act I,Scene I,[stage direction],"Enter PRINCE, with Attendants",NA
 Act I,Scene I,Prince,"Rebellious subjects, enemies to peace,",88
 Act I,Scene I,Prince,"Profaners of this neighbour-stained steel,--",89
 Act I,Scene I,Prince,"Will they not hear? What, ho! you men, you beasts,",90
@@ -109,6 +120,7 @@ Act I,Scene I,Prince,"And, Montague, come you this afternoon,",107
 Act I,Scene I,Prince,"To know our further pleasure in this case,",108
 Act I,Scene I,Prince,"To old Free-town, our common judgment-place.",109
 Act I,Scene I,Prince,"Once more, on pain of death, all men depart.",110
+Act I,Scene I,[stage direction],"Exeunt all but MONTAGUE, LADY MONTAGUE, and BENVOLIO",NA
 Act I,Scene I,Montague,Who set this ancient quarrel new abroach?,111
 Act I,Scene I,Montague,"Speak, nephew, were you by when it began?",112
 Act I,Scene I,Benvolio,"Here were the servants of your adversary,",113
@@ -160,10 +172,12 @@ Act I,Scene I,Montague,"Ere he can spread his sweet leaves to the air,",158
 Act I,Scene I,Montague,Or dedicate his beauty to the sun.,159
 Act I,Scene I,Montague,Could we but learn from whence his sorrows grow.,160
 Act I,Scene I,Montague,We would as willingly give cure as know.,161
+Act I,Scene I,[stage direction],Enter ROMEO,NA
 Act I,Scene I,Benvolio,"See, where he comes: so please you, step aside;",162
 Act I,Scene I,Benvolio,"I'll know his grievance, or be much denied.",163
 Act I,Scene I,Montague,"I would thou wert so happy by thy stay,",164
 Act I,Scene I,Montague,"To hear true shrift. Come, madam, let's away.",165
+Act I,Scene I,[stage direction],Exeunt MONTAGUE and LADY MONTAGUE,NA
 Act I,Scene I,Benvolio,"Good-morrow, cousin.",166
 Act I,Scene I,Romeo,Is the day so young?,167
 Act I,Scene I,Benvolio,But new struck nine.,168
@@ -251,6 +265,8 @@ Act I,Scene I,Romeo,"What doth her beauty serve, but as a note",249
 Act I,Scene I,Romeo,Where I may read who pass'd that passing fair?,250
 Act I,Scene I,Romeo,Farewell: thou canst not teach me to forget.,251
 Act I,Scene I,Benvolio,"I'll pay that doctrine, or else die in debt.",252
+Act I,Scene I,[stage direction],Exeunt,NA
+Act I,Scene II,[stage direction],"Enter CAPULET, PARIS, and Servant",NA
 Act I,Scene II,Capulet,"But Montague is bound as well as I,",253
 Act I,Scene II,Capulet,"In penalty alike; and 'tis not hard, I think,",254
 Act I,Scene II,Capulet,For men so old as we to keep the peace.,255
@@ -285,10 +301,12 @@ Act I,Scene II,Capulet,And like her most whose merit most shall be:,283
 Act I,Scene II,Capulet,"Which on more view, of many mine being one",284
 Act I,Scene II,Capulet,"May stand in number, though in reckoning none,",285
 Act I,Scene II,Capulet,"Come, go with me.",286
+Act I,Scene II,[stage direction],"To Servant, giving a paper",NA
 Act I,Scene II,Capulet,"Go, sirrah, trudge about",287
 Act I,Scene II,Capulet,Through fair Verona; find those persons out,288
 Act I,Scene II,Capulet,"Whose names are written there, and to them say,",289
 Act I,Scene II,Capulet,My house and welcome on their pleasure stay.,290
+Act I,Scene II,[stage direction],Exeunt CAPULET and PARIS,NA
 Act I,Scene II,Servant,Find them out whose names are written here! It is,291
 Act I,Scene II,Servant,"written, that the shoemaker should meddle with his",292
 Act I,Scene II,Servant,"yard, and the tailor with his last, the fisher with",293
@@ -296,6 +314,7 @@ Act I,Scene II,Servant,"his pencil, and the painter with his nets; but I am",294
 Act I,Scene II,Servant,sent to find those persons whose names are here,295
 Act I,Scene II,Servant,"writ, and can never find what names the writing",296
 Act I,Scene II,Servant,person hath here writ. I must to the learned.--In good time.,297
+Act I,Scene II,[stage direction],Enter BENVOLIO and ROMEO,NA
 Act I,Scene II,Benvolio,"Tut, man, one fire burns out another's burning,",298
 Act I,Scene II,Benvolio,One pain is lessen'd by another's anguish;,299
 Act I,Scene II,Benvolio,"Turn giddy, and be holp by backward turning;",300
@@ -316,6 +335,7 @@ Act I,Scene II,Servant,"pray, can you read any thing you see?",314
 Act I,Scene II,Romeo,"Ay, if I know the letters and the language.",315
 Act I,Scene II,Servant,Ye say honestly: rest you merry!,316
 Act I,Scene II,Romeo,"Stay, fellow; I can read.",317
+Act I,Scene II,[stage direction],Reads,NA
 Act I,Scene II,Romeo,'Signior Martino and his wife and daughters;,318
 Act I,Scene II,Romeo,County Anselme and his beauteous sisters; the lady,319
 Act I,Scene II,Romeo,widow of Vitravio; Signior Placentio and his lovely,320
@@ -334,6 +354,7 @@ Act I,Scene II,Servant,Now I'll tell you without asking: my master is the,332
 Act I,Scene II,Servant,great rich Capulet; and if you be not of the house,333
 Act I,Scene II,Servant,"of Montagues, I pray, come and crush a cup of wine.",334
 Act I,Scene II,Servant,Rest you merry!,335
+Act I,Scene II,[stage direction],Exit,NA
 Act I,Scene II,Benvolio,At this same ancient feast of Capulet's,336
 Act I,Scene II,Benvolio,"Sups the fair Rosaline whom thou so lovest,",337
 Act I,Scene II,Benvolio,With all the admired beauties of Verona:,338
@@ -354,10 +375,13 @@ Act I,Scene II,Benvolio,"That I will show you shining at this feast,",352
 Act I,Scene II,Benvolio,And she shall scant show well that now shows best.,353
 Act I,Scene II,Romeo,"I'll go along, no such sight to be shown,",354
 Act I,Scene II,Romeo,But to rejoice in splendor of mine own.,355
+Act I,Scene II,[stage direction],Exeunt,NA
+Act I,Scene III,[stage direction],Enter LADY CAPULET and Nurse,NA
 Act I,Scene III,Lady Capulet,"Nurse, where's my daughter? call her forth to me.",356
 Act I,Scene III,Nurse,"Now, by my maidenhead, at twelve year old,",357
 Act I,Scene III,Nurse,"I bade her come. What, lamb! what, ladybird!",358
 Act I,Scene III,Nurse,"God forbid! Where's this girl? What, Juliet!",359
+Act I,Scene III,[stage direction],Enter JULIET,NA
 Act I,Scene III,Juliet,How now! who calls?,360
 Act I,Scene III,Nurse,Your mother.,361
 Act I,Scene III,Juliet,"Madam, I am here.",362
@@ -457,13 +481,17 @@ Act I,Scene III,Lady Capulet,"Speak briefly, can you like of Paris' love?",455
 Act I,Scene III,Juliet,"I'll look to like, if looking liking move:",456
 Act I,Scene III,Juliet,But no more deep will I endart mine eye,457
 Act I,Scene III,Juliet,Than your consent gives strength to make it fly.,458
+Act I,Scene III,[stage direction],Enter a Servant,NA
 Act I,Scene III,Servant,"Madam, the guests are come, supper served up, you",459
 Act I,Scene III,Servant,"called, my young lady asked for, the nurse cursed in",460
 Act I,Scene III,Servant,"the pantry, and every thing in extremity. I must",461
 Act I,Scene III,Servant,"hence to wait; I beseech you, follow straight.",462
 Act I,Scene III,Lady Capulet,We follow thee.,463
+Act I,Scene III,[stage direction],Exit Servant,NA
 Act I,Scene III,Lady Capulet,"Juliet, the county stays.",464
 Act I,Scene III,Nurse,"Go, girl, seek happy nights to happy days.",465
+Act I,Scene III,[stage direction],Exeunt,NA
+Act I,Scene IV,[stage direction],"Enter ROMEO, MERCUTIO, BENVOLIO, with five or six Maskers, Torch-bearers, and others",NA
 Act I,Scene IV,Romeo,"What, shall this speech be spoke for our excuse?",466
 Act I,Scene IV,Romeo,Or shall we on without a apology?,467
 Act I,Scene IV,Benvolio,The date is out of such prolixity:,468
@@ -584,6 +612,8 @@ Act I,Scene IV,Romeo,By some vile forfeit of untimely death.,582
 Act I,Scene IV,Romeo,"But He, that hath the steerage of my course,",583
 Act I,Scene IV,Romeo,"Direct my sail! On, lusty gentlemen.",584
 Act I,Scene IV,Benvolio,"Strike, drum.",585
+Act I,Scene IV,[stage direction],Exeunt,NA
+Act I,Scene V,[stage direction],Musicians waiting. Enter Servingmen with napkins,NA
 Act I,Scene V,First Servant,"Where's Potpan, that he helps not to take away? He",586
 Act I,Scene V,First Servant,shift a trencher? he scrape a trencher!,587
 Act I,Scene V,Second Servant,When good manners shall lie all in one or two men's,588
@@ -598,6 +628,7 @@ Act I,Scene V,First Servant,"You are looked for and called for, asked for and",5
 Act I,Scene V,First Servant,"sought for, in the great chamber.",597
 Act I,Scene V,Second Servant,"We cannot be here and there too. Cheerly, boys; be",598
 Act I,Scene V,Second Servant,"brisk awhile, and the longer liver take all.",599
+Act I,Scene V,[stage direction],"Enter CAPULET, with JULIET and others of his house, meeting the Guests and Maskers",NA
 Act I,Scene V,Capulet,"Welcome, gentlemen! ladies that have their toes",600
 Act I,Scene V,Capulet,Unplagued with corns will have a bout with you.,601
 Act I,Scene V,Capulet,"Ah ha, my mistresses! which of you all",602
@@ -609,6 +640,7 @@ Act I,Scene V,Capulet,"A whispering tale in a fair lady's ear,",607
 Act I,Scene V,Capulet,"Such as would please: 'tis gone, 'tis gone, 'tis gone:",608
 Act I,Scene V,Capulet,"You are welcome, gentlemen! come, musicians, play.",609
 Act I,Scene V,Capulet,"A hall, a hall! give room! and foot it, girls.",610
+Act I,Scene V,[stage direction],"Music plays, and they dance",NA
 Act I,Scene V,Capulet,"More light, you knaves; and turn the tables up,",611
 Act I,Scene V,Capulet,"And quench the fire, the room is grown too hot.",612
 Act I,Scene V,Capulet,"Ah, sirrah, this unlook'd-for sport comes well.",613
@@ -681,6 +713,7 @@ Act I,Scene V,Tybalt,Patience perforce with wilful choler meeting,679
 Act I,Scene V,Tybalt,Makes my flesh tremble in their different greeting.,680
 Act I,Scene V,Tybalt,I will withdraw: but this intrusion shall,681
 Act I,Scene V,Tybalt,Now seeming sweet convert to bitter gall.,682
+Act I,Scene V,[stage direction],Exit,NA
 Act I,Scene V,Romeo,[To JULIET]  If I profane with my unworthiest hand,683
 Act I,Scene V,Romeo,"This holy shrine, the gentle fine is this:",684
 Act I,Scene V,Romeo,"My lips, two blushing pilgrims, ready stand",685
@@ -719,6 +752,7 @@ Act I,Scene V,Capulet,"I thank you, honest gentlemen; good night.",717
 Act I,Scene V,Capulet,"More torches here! Come on then, let's to bed.",718
 Act I,Scene V,Capulet,"Ah, sirrah, by my fay, it waxes late:",719
 Act I,Scene V,Capulet,I'll to my rest.,720
+Act I,Scene V,[stage direction],Exeunt all but JULIET and Nurse,NA
 Act I,Scene V,Juliet,"Come hither, nurse. What is yond gentleman?",721
 Act I,Scene V,Nurse,The son and heir of old Tiberio.,722
 Act I,Scene V,Juliet,What's he that now is going out of door?,723
@@ -736,8 +770,11 @@ Act I,Scene V,Juliet,That I must love a loathed enemy.,734
 Act I,Scene V,Nurse,What's this? what's this?,735
 Act I,Scene V,Juliet,A rhyme I learn'd even now,736
 Act I,Scene V,Juliet,Of one I danced withal.,737
+Act I,Scene V,[stage direction],One calls within 'Juliet.',NA
 Act I,Scene V,Nurse,"Anon, anon!",738
 Act I,Scene V,Nurse,"Come, let's away; the strangers all are gone.",739
+Act I,Scene V,[stage direction],Exeunt,NA
+Act II,Prologue,[stage direction],Enter Chorus,NA
 Act II,Prologue,Chorus,"Now old desire doth in his death-bed lie,",740
 Act II,Prologue,Chorus,And young affection gapes to be his heir;,741
 Act II,Prologue,Chorus,"That fair for which love groan'd for and would die,",742
@@ -752,8 +789,12 @@ Act II,Prologue,Chorus,"And she as much in love, her means much less",750
 Act II,Prologue,Chorus,To meet her new-beloved any where:,751
 Act II,Prologue,Chorus,"But passion lends them power, time means, to meet",752
 Act II,Prologue,Chorus,Tempering extremities with extreme sweet.,753
+Act II,Prologue,[stage direction],Exit,NA
+Act II,Scene I,[stage direction],Enter ROMEO,NA
 Act II,Scene I,Romeo,Can I go forward when my heart is here?,754
 Act II,Scene I,Romeo,"Turn back, dull earth, and find thy centre out.",755
+Act II,Scene I,[stage direction],"He climbs the wall, and leaps down within it",NA
+Act II,Scene I,[stage direction],Enter BENVOLIO and MERCUTIO,NA
 Act II,Scene I,Benvolio,Romeo! my cousin Romeo!,756
 Act II,Scene I,Mercutio,He is wise;,757
 Act II,Scene I,Mercutio,"And, on my lie, hath stol'n him home to bed.",758
@@ -797,7 +838,10 @@ Act II,Scene I,Mercutio,This field-bed is too cold for me to sleep:,795
 Act II,Scene I,Mercutio,"Come, shall we go?",796
 Act II,Scene I,Benvolio,"Go, then; for 'tis in vain",797
 Act II,Scene I,Benvolio,To seek him here that means not to be found.,798
+Act II,Scene I,[stage direction],Exeunt,NA
+Act II,Scene II,[stage direction],Enter ROMEO,NA
 Act II,Scene II,Romeo,He jests at scars that never felt a wound.,799
+Act II,Scene II,[stage direction],JULIET appears above at a window,NA
 Act II,Scene II,Romeo,"But, soft! what light through yonder window breaks?",800
 Act II,Scene II,Romeo,"It is the east, and Juliet is the sun.",801
 Act II,Scene II,Romeo,"Arise, fair sun, and kill the envious moon,",802
@@ -938,12 +982,15 @@ Act II,Scene II,Juliet,And yet I wish but for the thing I have:,936
 Act II,Scene II,Juliet,"My bounty is as boundless as the sea,",937
 Act II,Scene II,Juliet,"My love as deep; the more I give to thee,",938
 Act II,Scene II,Juliet,"The more I have, for both are infinite.",939
+Act II,Scene II,[stage direction],Nurse calls within,NA
 Act II,Scene II,Juliet,"I hear some noise within; dear love, adieu!",940
 Act II,Scene II,Juliet,"Anon, good nurse! Sweet Montague, be true.",941
 Act II,Scene II,Juliet,"Stay but a little, I will come again.",942
+Act II,Scene II,[stage direction],"Exit, above",NA
 Act II,Scene II,Romeo,"O blessed, blessed night! I am afeard.",943
 Act II,Scene II,Romeo,"Being in night, all this is but a dream,",944
 Act II,Scene II,Romeo,Too flattering-sweet to be substantial.,945
+Act II,Scene II,[stage direction],"Re-enter JULIET, above",NA
 Act II,Scene II,Juliet,"Three words, dear Romeo, and good night indeed.",946
 Act II,Scene II,Juliet,"If that thy bent of love be honourable,",947
 Act II,Scene II,Juliet,"Thy purpose marriage, send me word to-morrow,",948
@@ -960,10 +1007,13 @@ Act II,Scene II,Juliet,"To cease thy suit, and leave me to my grief:",958
 Act II,Scene II,Juliet,To-morrow will I send.,959
 Act II,Scene II,Romeo,So thrive my soul--,960
 Act II,Scene II,Juliet,A thousand times good night!,961
+Act II,Scene II,[stage direction],"Exit, above",NA
 Act II,Scene II,Romeo,"A thousand times the worse, to want thy light.",962
 Act II,Scene II,Romeo,"Love goes toward love, as schoolboys from",963
 Act II,Scene II,Romeo,"their books,",964
 Act II,Scene II,Romeo,"But love from love, toward school with heavy looks.",965
+Act II,Scene II,[stage direction],Retiring,NA
+Act II,Scene II,[stage direction],"Re-enter JULIET, above",NA
 Act II,Scene II,Juliet,"Hist! Romeo, hist! O, for a falconer's voice,",966
 Act II,Scene II,Juliet,To lure this tassel-gentle back again!,967
 Act II,Scene II,Juliet,"Bondage is hoarse, and may not speak aloud;",968
@@ -997,10 +1047,13 @@ Act II,Scene II,Juliet,Yet I should kill thee with much cherishing.,995
 Act II,Scene II,Juliet,"Good night, good night! parting is such",996
 Act II,Scene II,Juliet,"sweet sorrow,",997
 Act II,Scene II,Juliet,That I shall say good night till it be morrow.,998
+Act II,Scene II,[stage direction],Exit above,NA
 Act II,Scene II,Romeo,"Sleep dwell upon thine eyes, peace in thy breast!",999
 Act II,Scene II,Romeo,"Would I were sleep and peace, so sweet to rest!",1000
 Act II,Scene II,Romeo,"Hence will I to my ghostly father's cell,",1001
 Act II,Scene II,Romeo,"His help to crave, and my dear hap to tell.",1002
+Act II,Scene II,[stage direction],Exit,NA
+Act II,Scene III,[stage direction],"Enter FRIAR LAURENCE, with a basket",NA
 Act II,Scene III,Friar Laurence,"The grey-eyed morn smiles on the frowning night,",1003
 Act II,Scene III,Friar Laurence,"Chequering the eastern clouds with streaks of light,",1004
 Act II,Scene III,Friar Laurence,And flecked darkness like a drunkard reels,1005
@@ -1031,6 +1084,7 @@ Act II,Scene III,Friar Laurence,Two such opposed kings encamp them still,1029
 Act II,Scene III,Friar Laurence,"In man as well as herbs, grace and rude will;",1030
 Act II,Scene III,Friar Laurence,"And where the worser is predominant,",1031
 Act II,Scene III,Friar Laurence,Full soon the canker death eats up that plant.,1032
+Act II,Scene III,[stage direction],Enter ROMEO,NA
 Act II,Scene III,Romeo,"Good morrow, father.",1033
 Act II,Scene III,Friar Laurence,Benedicite!,1034
 Act II,Scene III,Friar Laurence,What early tongue so sweet saluteth me?,1035
@@ -1098,6 +1152,8 @@ Act II,Scene III,Friar Laurence,"For this alliance may so happy prove,",1096
 Act II,Scene III,Friar Laurence,To turn your households' rancour to pure love.,1097
 Act II,Scene III,Romeo,"O, let us hence; I stand on sudden haste.",1098
 Act II,Scene III,Friar Laurence,Wisely and slow; they stumble that run fast.,1099
+Act II,Scene III,[stage direction],Exeunt,NA
+Act II,Scene IV,[stage direction],Enter BENVOLIO and MERCUTIO,NA
 Act II,Scene IV,Mercutio,Where the devil should this Romeo be?,1100
 Act II,Scene IV,Mercutio,Came he not home to-night?,1101
 Act II,Scene IV,Benvolio,Not to his father's; I spoke with his man.,1102
@@ -1135,6 +1191,7 @@ Act II,Scene IV,Mercutio,"these strange flies, these fashion-mongers, these",113
 Act II,Scene IV,Mercutio,"perdona-mi's, who stand so much on the new form,",1134
 Act II,Scene IV,Mercutio,"that they cannot at ease on the old bench? O, their",1135
 Act II,Scene IV,Mercutio,"bones, their bones!",1136
+Act II,Scene IV,[stage direction],Enter ROMEO,NA
 Act II,Scene IV,Benvolio,"Here comes Romeo, here comes Romeo.",1137
 Act II,Scene IV,Mercutio,"Without his roe, like a dried herring: flesh, flesh,",1138
 Act II,Scene IV,Mercutio,how art thou fishified! Now is he for the numbers,1139
@@ -1193,6 +1250,7 @@ Act II,Scene IV,Mercutio,"O, thou art deceived; I would have made it short:",119
 Act II,Scene IV,Mercutio,for I was come to the whole depth of my tale; and,1192
 Act II,Scene IV,Mercutio,"meant, indeed, to occupy the argument no longer.",1193
 Act II,Scene IV,Romeo,Here's goodly gear!,1194
+Act II,Scene IV,[stage direction],Enter Nurse and PETER,NA
 Act II,Scene IV,Mercutio,"A sail, a sail!",1195
 Act II,Scene IV,Benvolio,"Two, two; a shirt and a smock.",1196
 Act II,Scene IV,Nurse,Peter!,1197
@@ -1224,6 +1282,7 @@ Act II,Scene IV,Mercutio,"A bawd, a bawd, a bawd! so ho!",1222
 Act II,Scene IV,Romeo,What hast thou found?,1223
 Act II,Scene IV,Mercutio,"No hare, sir; unless a hare, sir, in a lenten pie,",1224
 Act II,Scene IV,Mercutio,that is something stale and hoar ere it be spent.,1225
+Act II,Scene IV,[stage direction],Sings,NA
 Act II,Scene IV,Mercutio,"An old hare hoar,",1226
 Act II,Scene IV,Mercutio,"And an old hare hoar,",1227
 Act II,Scene IV,Mercutio,Is very good meat in lent,1228
@@ -1234,7 +1293,9 @@ Act II,Scene IV,Mercutio,"Romeo, will you come to your father's? we'll",1232
 Act II,Scene IV,Mercutio,"to dinner, thither.",1233
 Act II,Scene IV,Romeo,I will follow you.,1234
 Act II,Scene IV,Mercutio,"Farewell, ancient lady; farewell,",1235
+Act II,Scene IV,[stage direction],Singing,NA
 Act II,Scene IV,Mercutio,"'lady, lady, lady.'",1236
+Act II,Scene IV,[stage direction],Exeunt MERCUTIO and BENVOLIO,NA
 Act II,Scene IV,Nurse,"Marry, farewell! I pray you, sir, what saucy",1237
 Act II,Scene IV,Nurse,"merchant was this, that was so full of his ropery?",1238
 Act II,Scene IV,Romeo,"A gentleman, nurse, that loves to hear himself talk,",1239
@@ -1303,9 +1364,12 @@ Act II,Scene IV,Nurse,"it, of you and rosemary, that it would do you good",1301
 Act II,Scene IV,Nurse,to hear it.,1302
 Act II,Scene IV,Romeo,Commend me to thy lady.,1303
 Act II,Scene IV,Nurse,"Ay, a thousand times.",1304
+Act II,Scene IV,[stage direction],Exit Romeo,NA
 Act II,Scene IV,Nurse,Peter!,1305
 Act II,Scene IV,Peter,Anon!,1306
 Act II,Scene IV,Nurse,"Peter, take my fan, and go before and apace.",1307
+Act II,Scene IV,[stage direction],Exeunt,NA
+Act II,Scene V,[stage direction],Enter JULIET,NA
 Act II,Scene V,Juliet,The clock struck nine when I did send the nurse;,1308
 Act II,Scene V,Juliet,In half an hour she promised to return.,1309
 Act II,Scene V,Juliet,Perchance she cannot meet him: that's not so.,1310
@@ -1324,9 +1388,11 @@ Act II,Scene V,Juliet,And his to me:,1322
 Act II,Scene V,Juliet,"But old folks, many feign as they were dead;",1323
 Act II,Scene V,Juliet,"Unwieldy, slow, heavy and pale as lead.",1324
 Act II,Scene V,Juliet,"O God, she comes!",1325
+Act II,Scene V,[stage direction],Enter Nurse and PETER,NA
 Act II,Scene V,Juliet,"O honey nurse, what news?",1326
 Act II,Scene V,Juliet,Hast thou met with him? Send thy man away.,1327
 Act II,Scene V,Nurse,"Peter, stay at the gate.",1328
+Act II,Scene V,[stage direction],Exit PETER,NA
 Act II,Scene V,Juliet,"Now, good sweet nurse,--O Lord, why look'st thou sad?",1329
 Act II,Scene V,Juliet,"Though news be sad, yet tell them merrily;",1330
 Act II,Scene V,Juliet,"If good, thou shamest the music of sweet news",1331
@@ -1386,6 +1452,8 @@ Act II,Scene V,Nurse,"I am the drudge and toil in your delight,",1384
 Act II,Scene V,Nurse,But you shall bear the burden soon at night.,1385
 Act II,Scene V,Nurse,Go; I'll to dinner: hie you to the cell.,1386
 Act II,Scene V,Juliet,"Hie to high fortune! Honest nurse, farewell.",1387
+Act II,Scene V,[stage direction],Exeunt,NA
+Act II,Scene VI,[stage direction],Enter FRIAR LAURENCE and ROMEO,NA
 Act II,Scene VI,Friar Laurence,"So smile the heavens upon this holy act,",1388
 Act II,Scene VI,Friar Laurence,That after hours with sorrow chide us not!,1389
 Act II,Scene VI,Romeo,"Amen, amen! but come what sorrow can,",1390
@@ -1401,6 +1469,7 @@ Act II,Scene VI,Friar Laurence,Is loathsome in his own deliciousness,1399
 Act II,Scene VI,Friar Laurence,And in the taste confounds the appetite:,1400
 Act II,Scene VI,Friar Laurence,Therefore love moderately; long love doth so;,1401
 Act II,Scene VI,Friar Laurence,Too swift arrives as tardy as too slow.,1402
+Act II,Scene VI,[stage direction],Enter JULIET,NA
 Act II,Scene VI,Friar Laurence,"Here comes the lady: O, so light a foot",1403
 Act II,Scene VI,Friar Laurence,Will ne'er wear out the everlasting flint:,1404
 Act II,Scene VI,Friar Laurence,A lover may bestride the gossamer,1405
@@ -1423,6 +1492,8 @@ Act II,Scene VI,Juliet,I cannot sum up sum of half my wealth.,1421
 Act II,Scene VI,Friar Laurence,"Come, come with me, and we will make short work;",1422
 Act II,Scene VI,Friar Laurence,"For, by your leaves, you shall not stay alone",1423
 Act II,Scene VI,Friar Laurence,Till holy church incorporate two in one.,1424
+Act II,Scene VI,[stage direction],Exeunt,NA
+Act III,Scene I,[stage direction],"Enter MERCUTIO, BENVOLIO, Page, and Servants",NA
 Act III,Scene I,Benvolio,"I pray thee, good Mercutio, let's retire:",1425
 Act III,Scene I,Benvolio,"The day is hot, the Capulets abroad,",1426
 Act III,Scene I,Benvolio,"And, if we meet, we shall not scape a brawl;",1427
@@ -1458,6 +1529,7 @@ Act III,Scene I,Benvolio,should buy the fee-simple of my life for an hour and a 
 Act III,Scene I,Mercutio,The fee-simple! O simple!,1457
 Act III,Scene I,Benvolio,"By my head, here come the Capulets.",1458
 Act III,Scene I,Mercutio,"By my heel, I care not.",1459
+Act III,Scene I,[stage direction],Enter TYBALT and others,NA
 Act III,Scene I,Tybalt,"Follow me close, for I will speak to them.",1460
 Act III,Scene I,Tybalt,"Gentlemen, good den: a word with one of you.",1461
 Act III,Scene I,Mercutio,And but one word with one of us? couple it with,1462
@@ -1476,6 +1548,7 @@ Act III,Scene I,Benvolio,"And reason coldly of your grievances,",1474
 Act III,Scene I,Benvolio,Or else depart; here all eyes gaze on us.,1475
 Act III,Scene I,Mercutio,"Men's eyes were made to look, and let them gaze;",1476
 Act III,Scene I,Mercutio,"I will not budge for no man's pleasure, I.",1477
+Act III,Scene I,[stage direction],Enter ROMEO,NA
 Act III,Scene I,Tybalt,"Well, peace be with you, sir: here comes my man.",1478
 Act III,Scene I,Mercutio,"But I'll be hanged, sir, if he wear your livery:",1479
 Act III,Scene I,Mercutio,"Marry, go before to field, he'll be your follower;",1480
@@ -1495,6 +1568,7 @@ Act III,Scene I,Romeo,"And so, good Capulet,--which name I tender",1493
 Act III,Scene I,Romeo,"As dearly as my own,--be satisfied.",1494
 Act III,Scene I,Mercutio,"O calm, dishonourable, vile submission!",1495
 Act III,Scene I,Mercutio,Alla stoccata carries it away.,1496
+Act III,Scene I,[stage direction],Draws,NA
 Act III,Scene I,Mercutio,"Tybalt, you rat-catcher, will you walk?",1497
 Act III,Scene I,Tybalt,What wouldst thou have with me?,1498
 Act III,Scene I,Mercutio,"Good king of cats, nothing but one of your nine",1499
@@ -1504,19 +1578,23 @@ Act III,Scene I,Mercutio,eight. Will you pluck your sword out of his pitcher,150
 Act III,Scene I,Mercutio,"by the ears? make haste, lest mine be about your",1503
 Act III,Scene I,Mercutio,ears ere it be out.,1504
 Act III,Scene I,Tybalt,I am for you.,1505
+Act III,Scene I,[stage direction],Drawing,NA
 Act III,Scene I,Romeo,"Gentle Mercutio, put thy rapier up.",1506
 Act III,Scene I,Mercutio,"Come, sir, your passado.",1507
+Act III,Scene I,[stage direction],They fight,NA
 Act III,Scene I,Romeo,"Draw, Benvolio; beat down their weapons.",1508
 Act III,Scene I,Romeo,"Gentlemen, for shame, forbear this outrage!",1509
 Act III,Scene I,Romeo,"Tybalt, Mercutio, the prince expressly hath",1510
 Act III,Scene I,Romeo,Forbidden bandying in Verona streets:,1511
 Act III,Scene I,Romeo,"Hold, Tybalt! good Mercutio!",1512
+Act III,Scene I,[stage direction],"TYBALT under ROMEO's arm stabs MERCUTIO, and flies with his followers",NA
 Act III,Scene I,Mercutio,I am hurt.,1513
 Act III,Scene I,Mercutio,A plague o' both your houses! I am sped.,1514
 Act III,Scene I,Mercutio,"Is he gone, and hath nothing?",1515
 Act III,Scene I,Benvolio,"What, art thou hurt?",1516
 Act III,Scene I,Mercutio,"Ay, ay, a scratch, a scratch; marry, 'tis enough.",1517
 Act III,Scene I,Mercutio,"Where is my page? Go, villain, fetch a surgeon.",1518
+Act III,Scene I,[stage direction],Exit Page,NA
 Act III,Scene I,Romeo,"Courage, man; the hurt cannot be much.",1519
 Act III,Scene I,Mercutio,"No, 'tis not so deep as a well, nor so wide as a",1520
 Act III,Scene I,Mercutio,"church-door; but 'tis enough,'twill serve: ask for",1521
@@ -1532,6 +1610,7 @@ Act III,Scene I,Mercutio,"Help me into some house, Benvolio,",1530
 Act III,Scene I,Mercutio,Or I shall faint. A plague o' both your houses!,1531
 Act III,Scene I,Mercutio,"They have made worms' meat of me: I have it,",1532
 Act III,Scene I,Mercutio,And soundly too: your houses!,1533
+Act III,Scene I,[stage direction],Exeunt MERCUTIO and BENVOLIO,NA
 Act III,Scene I,Romeo,"This gentleman, the prince's near ally,",1534
 Act III,Scene I,Romeo,"My very friend, hath got his mortal hurt",1535
 Act III,Scene I,Romeo,In my behalf; my reputation stain'd,1536
@@ -1539,6 +1618,7 @@ Act III,Scene I,Romeo,"With Tybalt's slander,--Tybalt, that an hour",1537
 Act III,Scene I,Romeo,"Hath been my kinsman! O sweet Juliet,",1538
 Act III,Scene I,Romeo,Thy beauty hath made me effeminate,1539
 Act III,Scene I,Romeo,And in my temper soften'd valour's steel!,1540
+Act III,Scene I,[stage direction],Re-enter BENVOLIO,NA
 Act III,Scene I,Benvolio,"O Romeo, Romeo, brave Mercutio's dead!",1541
 Act III,Scene I,Benvolio,"That gallant spirit hath aspired the clouds,",1542
 Act III,Scene I,Benvolio,Which too untimely here did scorn the earth.,1543
@@ -1548,6 +1628,7 @@ Act III,Scene I,Benvolio,Here comes the furious Tybalt back again.,1546
 Act III,Scene I,Romeo,"Alive, in triumph! and Mercutio slain!",1547
 Act III,Scene I,Romeo,"Away to heaven, respective lenity,",1548
 Act III,Scene I,Romeo,And fire-eyed fury be my conduct now!,1549
+Act III,Scene I,[stage direction],Re-enter TYBALT,NA
 Act III,Scene I,Romeo,"Now, Tybalt, take the villain back again,",1550
 Act III,Scene I,Romeo,That late thou gavest me; for Mercutio's soul,1551
 Act III,Scene I,Romeo,"Is but a little way above our heads,",1552
@@ -1556,17 +1637,21 @@ Act III,Scene I,Romeo,"Either thou, or I, or both, must go with him.",1554
 Act III,Scene I,Tybalt,"Thou, wretched boy, that didst consort him here,",1555
 Act III,Scene I,Tybalt,Shalt with him hence.,1556
 Act III,Scene I,Romeo,This shall determine that.,1557
+Act III,Scene I,[stage direction],They fight; TYBALT falls,NA
 Act III,Scene I,Benvolio,"Romeo, away, be gone!",1558
 Act III,Scene I,Benvolio,"The citizens are up, and Tybalt slain.",1559
 Act III,Scene I,Benvolio,"Stand not amazed: the prince will doom thee death,",1560
 Act III,Scene I,Benvolio,"If thou art taken: hence, be gone, away!",1561
 Act III,Scene I,Romeo,"O, I am fortune's fool!",1562
 Act III,Scene I,Benvolio,Why dost thou stay?,1563
+Act III,Scene I,[stage direction],Exit ROMEO,NA
+Act III,Scene I,[stage direction],"Enter Citizens,  &amp; c",NA
 Act III,Scene I,First Citizen,Which way ran he that kill'd Mercutio?,1564
 Act III,Scene I,First Citizen,"Tybalt, that murderer, which way ran he?",1565
 Act III,Scene I,Benvolio,There lies that Tybalt.,1566
 Act III,Scene I,First Citizen,"Up, sir, go with me;",1567
 Act III,Scene I,First Citizen,"I charge thee in the princes name, obey.",1568
+Act III,Scene I,[stage direction],"Enter Prince, attended; MONTAGUE, CAPULET, their Wives, and others",NA
 Act III,Scene I,Prince,Where are the vile beginners of this fray?,1569
 Act III,Scene I,Benvolio,"O noble prince, I can discover all",1570
 Act III,Scene I,Benvolio,The unlucky manage of this fatal brawl:,1571
@@ -1626,6 +1711,8 @@ Act III,Scene I,Prince,"Therefore use none: let Romeo hence in haste,",1624
 Act III,Scene I,Prince,"Else, when he's found, that hour is his last.",1625
 Act III,Scene I,Prince,Bear hence this body and attend our will:,1626
 Act III,Scene I,Prince,"Mercy but murders, pardoning those that kill.",1627
+Act III,Scene I,[stage direction],Exeunt,NA
+Act III,Scene II,[stage direction],Enter JULIET,NA
 Act III,Scene II,Juliet,"Gallop apace, you fiery-footed steeds,",1628
 Act III,Scene II,Juliet,Towards Phoebus' lodging: such a wagoner,1629
 Act III,Scene II,Juliet,"As Phaethon would whip you to the west,",1630
@@ -1659,9 +1746,11 @@ Act III,Scene II,Juliet,To an impatient child that hath new robes,1657
 Act III,Scene II,Juliet,"And may not wear them. O, here comes my nurse,",1658
 Act III,Scene II,Juliet,And she brings news; and every tongue that speaks,1659
 Act III,Scene II,Juliet,But Romeo's name speaks heavenly eloquence.,1660
+Act III,Scene II,[stage direction],"Enter Nurse, with cords",NA
 Act III,Scene II,Juliet,"Now, nurse, what news? What hast thou there? the cords",1661
 Act III,Scene II,Juliet,That Romeo bid thee fetch?,1662
 Act III,Scene II,Nurse,"Ay, ay, the cords.",1663
+Act III,Scene II,[stage direction],Throws them down,NA
 Act III,Scene II,Juliet,Ay me! what news? why dost thou wring thy hands?,1664
 Act III,Scene II,Nurse,"Ah, well-a-day! he's dead, he's dead, he's dead!",1665
 Act III,Scene II,Nurse,"We are undone, lady, we are undone!",1666
@@ -1773,9 +1862,12 @@ Act III,Scene II,Nurse,"Hark ye, your Romeo will be here at night:",1771
 Act III,Scene II,Nurse,I'll to him; he is hid at Laurence' cell.,1772
 Act III,Scene II,Juliet,"O, find him! give this ring to my true knight,",1773
 Act III,Scene II,Juliet,And bid him come to take his last farewell.,1774
+Act III,Scene II,[stage direction],Exeunt,NA
+Act III,Scene III,[stage direction],Enter FRIAR LAURENCE,NA
 Act III,Scene III,Friar Laurence,"Romeo, come forth; come forth, thou fearful man:",1775
 Act III,Scene III,Friar Laurence,"Affliction is enamour'd of thy parts,",1776
 Act III,Scene III,Friar Laurence,And thou art wedded to calamity.,1777
+Act III,Scene III,[stage direction],Enter ROMEO,NA
 Act III,Scene III,Romeo,"Father, what news? what is the prince's doom?",1778
 Act III,Scene III,Romeo,"What sorrow craves acquaintance at my hand,",1779
 Act III,Scene III,Romeo,That I yet know not?,1780
@@ -1844,18 +1936,23 @@ Act III,Scene III,Romeo,"Doting like me and like me banished,",1842
 Act III,Scene III,Romeo,"Then mightst thou speak, then mightst thou tear thy hair,",1843
 Act III,Scene III,Romeo,"And fall upon the ground, as I do now,",1844
 Act III,Scene III,Romeo,Taking the measure of an unmade grave.,1845
+Act III,Scene III,[stage direction],Knocking within,NA
 Act III,Scene III,Friar Laurence,"Arise; one knocks; good Romeo, hide thyself.",1846
 Act III,Scene III,Romeo,"Not I; unless the breath of heartsick groans,",1847
 Act III,Scene III,Romeo,"Mist-like, infold me from the search of eyes.",1848
+Act III,Scene III,[stage direction],Knocking,NA
 Act III,Scene III,Friar Laurence,"Hark, how they knock! Who's there? Romeo, arise;",1849
 Act III,Scene III,Friar Laurence,Thou wilt be taken. Stay awhile! Stand up;,1850
+Act III,Scene III,[stage direction],Knocking,NA
 Act III,Scene III,Friar Laurence,"Run to my study. By and by! God's will,",1851
 Act III,Scene III,Friar Laurence,"What simpleness is this! I come, I come!",1852
+Act III,Scene III,[stage direction],Knocking,NA
 Act III,Scene III,Friar Laurence,Who knocks so hard? whence come you? what's your will?,1853
 Act III,Scene III,Nurse,"[Within]  Let me come in, and you shall know",1854
 Act III,Scene III,Nurse,my errand;,1855
 Act III,Scene III,Nurse,I come from Lady Juliet.,1856
 Act III,Scene III,Friar Laurence,"Welcome, then.",1857
+Act III,Scene III,[stage direction],Enter Nurse,NA
 Act III,Scene III,Nurse,"O holy friar, O, tell me, holy friar,",1858
 Act III,Scene III,Nurse,"Where is my lady's lord, where's Romeo?",1859
 Act III,Scene III,Friar Laurence,"There on the ground, with his own tears made drunk.",1860
@@ -1885,6 +1982,7 @@ Act III,Scene III,Romeo,"Murder'd her kinsman. O, tell me, friar, tell me,",1883
 Act III,Scene III,Romeo,In what vile part of this anatomy,1884
 Act III,Scene III,Romeo,"Doth my name lodge? tell me, that I may sack",1885
 Act III,Scene III,Romeo,The hateful mansion.,1886
+Act III,Scene III,[stage direction],Drawing his sword,NA
 Act III,Scene III,Friar Laurence,Hold thy desperate hand:,1887
 Act III,Scene III,Friar Laurence,Art thou a man? thy form cries out thou art:,1888
 Act III,Scene III,Friar Laurence,Thy tears are womanish; thy wild acts denote,1889
@@ -1942,6 +2040,7 @@ Act III,Scene III,Nurse,"My lord, I'll tell my lady you will come.",1940
 Act III,Scene III,Romeo,"Do so, and bid my sweet prepare to chide.",1941
 Act III,Scene III,Nurse,"Here, sir, a ring she bid me give you, sir:",1942
 Act III,Scene III,Nurse,"Hie you, make haste, for it grows very late.",1943
+Act III,Scene III,[stage direction],Exit,NA
 Act III,Scene III,Romeo,How well my comfort is revived by this!,1944
 Act III,Scene III,Friar Laurence,Go hence; good night; and here stands all your state:,1945
 Act III,Scene III,Friar Laurence,"Either be gone before the watch be set,",1946
@@ -1952,6 +2051,8 @@ Act III,Scene III,Friar Laurence,Every good hap to you that chances here:,1950
 Act III,Scene III,Friar Laurence,Give me thy hand; 'tis late: farewell; good night.,1951
 Act III,Scene III,Romeo,"But that a joy past joy calls out on me,",1952
 Act III,Scene III,Romeo,"It were a grief, so brief to part with thee: Farewell.",1953
+Act III,Scene III,[stage direction],Exeunt,NA
+Act III,Scene IV,[stage direction],"Enter CAPULET, LADY CAPULET, and PARIS",NA
 Act III,Scene IV,Capulet,"Things have fall'n out, sir, so unluckily,",1954
 Act III,Scene IV,Capulet,That we have had no time to move our daughter:,1955
 Act III,Scene IV,Capulet,"Look you, she loved her kinsman Tybalt dearly,",1956
@@ -1989,6 +2090,8 @@ Act III,Scene IV,Capulet,"Farewell, my lord. Light to my chamber, ho!",1987
 Act III,Scene IV,Capulet,"Afore me! it is so very very late,",1988
 Act III,Scene IV,Capulet,That we may call it early by and by.,1989
 Act III,Scene IV,Capulet,Good night.,1990
+Act III,Scene IV,[stage direction],Exeunt,NA
+Act III,Scene V,[stage direction],"Enter ROMEO and JULIET above, at the window",NA
 Act III,Scene V,Juliet,Wilt thou be gone? it is not yet near day:,1991
 Act III,Scene V,Juliet,"It was the nightingale, and not the lark,",1992
 Act III,Scene V,Juliet,That pierced the fearful hollow of thine ear;,1993
@@ -2025,12 +2128,15 @@ Act III,Scene V,Juliet,"Since arm from arm that voice doth us affray,",2023
 Act III,Scene V,Juliet,"Hunting thee hence with hunt's-up to the day,",2024
 Act III,Scene V,Juliet,"O, now be gone; more light and light it grows.",2025
 Act III,Scene V,Romeo,More light and light; more dark and dark our woes!,2026
+Act III,Scene V,[stage direction],"Enter Nurse, to the chamber",NA
 Act III,Scene V,Nurse,Madam!,2027
 Act III,Scene V,Juliet,Nurse?,2028
 Act III,Scene V,Nurse,Your lady mother is coming to your chamber:,2029
 Act III,Scene V,Nurse,"The day is broke; be wary, look about.",2030
+Act III,Scene V,[stage direction],Exit,NA
 Act III,Scene V,Juliet,"Then, window, let day in, and let life out.",2031
 Act III,Scene V,Romeo,"Farewell, farewell! one kiss, and I'll descend.",2032
+Act III,Scene V,[stage direction],He goeth down,NA
 Act III,Scene V,Juliet,"Art thou gone so? love, lord, ay, husband, friend!",2033
 Act III,Scene V,Juliet,"I must hear from thee every day in the hour,",2034
 Act III,Scene V,Juliet,For in a minute there are many days:,2035
@@ -2048,6 +2154,7 @@ Act III,Scene V,Juliet,As one dead in the bottom of a tomb:,2046
 Act III,Scene V,Juliet,"Either my eyesight fails, or thou look'st pale.",2047
 Act III,Scene V,Romeo,"And trust me, love, in my eye so do you:",2048
 Act III,Scene V,Romeo,"Dry sorrow drinks our blood. Adieu, adieu!",2049
+Act III,Scene V,[stage direction],Exit,NA
 Act III,Scene V,Juliet,"O fortune, fortune! all men call thee fickle:",2050
 Act III,Scene V,Juliet,"If thou art fickle, what dost thou with him.",2051
 Act III,Scene V,Juliet,"That is renown'd for faith? Be fickle, fortune;",2052
@@ -2057,6 +2164,7 @@ Act III,Scene V,Lady Capulet,"[Within]         Ho, daughter! are you up?",2055
 Act III,Scene V,Juliet,Who is't that calls? is it my lady mother?,2056
 Act III,Scene V,Juliet,"Is she not down so late, or up so early?",2057
 Act III,Scene V,Juliet,What unaccustom'd cause procures her hither?,2058
+Act III,Scene V,[stage direction],Enter LADY CAPULET,NA
 Act III,Scene V,Lady Capulet,"Why, how now, Juliet!",2059
 Act III,Scene V,Juliet,"Madam, I am not well.",2060
 Act III,Scene V,Lady Capulet,Evermore weeping for your cousin's death?,2061
@@ -2118,6 +2226,7 @@ Act III,Scene V,Juliet,"It shall be Romeo, whom you know I hate,",2116
 Act III,Scene V,Juliet,Rather than Paris. These are news indeed!,2117
 Act III,Scene V,Lady Capulet,"Here comes your father; tell him so yourself,",2118
 Act III,Scene V,Lady Capulet,And see how he will take it at your hands.,2119
+Act III,Scene V,[stage direction],Enter CAPULET and Nurse,NA
 Act III,Scene V,Capulet,"When the sun sets, the air doth drizzle dew;",2120
 Act III,Scene V,Capulet,But for the sunset of my brother's son,2121
 Act III,Scene V,Capulet,It rains downright.,2122
@@ -2195,6 +2304,7 @@ Act III,Scene V,Capulet,"the streets,",2193
 Act III,Scene V,Capulet,"For, by my soul, I'll ne'er acknowledge thee,",2194
 Act III,Scene V,Capulet,Nor what is mine shall never do thee good:,2195
 Act III,Scene V,Capulet,"Trust to't, bethink you; I'll not be forsworn.",2196
+Act III,Scene V,[stage direction],Exit,NA
 Act III,Scene V,Juliet,"Is there no pity sitting in the clouds,",2197
 Act III,Scene V,Juliet,That sees into the bottom of my grief?,2198
 Act III,Scene V,Juliet,"O, sweet my mother, cast me not away!",2199
@@ -2203,6 +2313,7 @@ Act III,Scene V,Juliet,"Or, if you do not, make the bridal bed",2201
 Act III,Scene V,Juliet,In that dim monument where Tybalt lies.,2202
 Act III,Scene V,Lady Capulet,"Talk not to me, for I'll not speak a word:",2203
 Act III,Scene V,Lady Capulet,"Do as thou wilt, for I have done with thee.",2204
+Act III,Scene V,[stage direction],Exit,NA
 Act III,Scene V,Juliet,"O God!--O nurse, how shall this be prevented?",2205
 Act III,Scene V,Juliet,"My husband is on earth, my faith in heaven;",2206
 Act III,Scene V,Juliet,"How shall that faith return again to earth,",2207
@@ -2236,6 +2347,7 @@ Act III,Scene V,Juliet,"Go in: and tell my lady I am gone,",2234
 Act III,Scene V,Juliet,"Having displeased my father, to Laurence' cell,",2235
 Act III,Scene V,Juliet,To make confession and to be absolved.,2236
 Act III,Scene V,Nurse,"Marry, I will; and this is wisely done.",2237
+Act III,Scene V,[stage direction],Exit,NA
 Act III,Scene V,Juliet,Ancient damnation! O most wicked fiend!,2238
 Act III,Scene V,Juliet,"Is it more sin to wish me thus forsworn,",2239
 Act III,Scene V,Juliet,Or to dispraise my lord with that same tongue,2240
@@ -2244,6 +2356,8 @@ Act III,Scene V,Juliet,"So many thousand times? Go, counsellor;",2242
 Act III,Scene V,Juliet,Thou and my bosom henceforth shall be twain.,2243
 Act III,Scene V,Juliet,"I'll to the friar, to know his remedy:",2244
 Act III,Scene V,Juliet,"If all else fail, myself have power to die.",2245
+Act III,Scene V,[stage direction],Exit,NA
+Act IV,Scene I,[stage direction],Enter FRIAR LAURENCE and PARIS,NA
 Act IV,Scene I,Friar Laurence,"On Thursday, sir? the time is very short.",2246
 Act IV,Scene I,Paris,My father Capulet will have it so;,2247
 Act IV,Scene I,Paris,And I am nothing slow to slack his haste.,2248
@@ -2261,6 +2375,7 @@ Act IV,Scene I,Paris,May be put from her by society:,2259
 Act IV,Scene I,Paris,Now do you know the reason of this haste.,2260
 Act IV,Scene I,Friar Laurence,[Aside]  I would I knew not why it should be slow'd.,2261
 Act IV,Scene I,Friar Laurence,"Look, sir, here comes the lady towards my cell.",2262
+Act IV,Scene I,[stage direction],Enter JULIET,NA
 Act IV,Scene I,Paris,"Happily met, my lady and my wife!",2263
 Act IV,Scene I,Juliet,"That may be, sir, when I may be a wife.",2264
 Act IV,Scene I,Paris,"That may be must be, love, on Thursday next.",2265
@@ -2288,6 +2403,7 @@ Act IV,Scene I,Friar Laurence,"My lord, we must entreat the time alone.",2286
 Act IV,Scene I,Paris,God shield I should disturb devotion!,2287
 Act IV,Scene I,Paris,"Juliet, on Thursday early will I rouse ye:",2288
 Act IV,Scene I,Paris,"Till then, adieu; and keep this holy kiss.",2289
+Act IV,Scene I,[stage direction],Exit,NA
 Act IV,Scene I,Juliet,"O shut the door! and when thou hast done so,",2290
 Act IV,Scene I,Juliet,"Come weep with me; past hope, past cure, past help!",2291
 Act IV,Scene I,Friar Laurence,"Ah, Juliet, I already know thy grief;",2292
@@ -2371,7 +2487,10 @@ Act IV,Scene I,Friar Laurence,In this resolve: I'll send a friar with speed,2369
 Act IV,Scene I,Friar Laurence,"To Mantua, with my letters to thy lord.",2370
 Act IV,Scene I,Juliet,Love give me strength! and strength shall help afford.,2371
 Act IV,Scene I,Juliet,"Farewell, dear father!",2372
+Act IV,Scene I,[stage direction],Exeunt,NA
+Act IV,Scene II,[stage direction],"Enter CAPULET, LADY  CAPULET, Nurse, and two Servingmen",NA
 Act IV,Scene II,Capulet,So many guests invite as here are writ.,2373
+Act IV,Scene II,[stage direction],Exit First Servant,NA
 Act IV,Scene II,Capulet,"Sirrah, go hire me twenty cunning cooks.",2374
 Act IV,Scene II,Second Servant,"You shall have none ill, sir; for I'll try if they",2375
 Act IV,Scene II,Second Servant,can lick their fingers.,2376
@@ -2380,12 +2499,14 @@ Act IV,Scene II,Second Servant,"Marry, sir, 'tis an ill cook that cannot lick hi
 Act IV,Scene II,Second Servant,own fingers: therefore he that cannot lick his,2379
 Act IV,Scene II,Second Servant,fingers goes not with me.,2380
 Act IV,Scene II,Capulet,"Go, be gone.",2381
+Act IV,Scene II,[stage direction],Exit Second Servant,NA
 Act IV,Scene II,Capulet,We shall be much unfurnished for this time.,2382
 Act IV,Scene II,Capulet,"What, is my daughter gone to Friar Laurence?",2383
 Act IV,Scene II,Nurse,"Ay, forsooth.",2384
 Act IV,Scene II,Capulet,"Well, he may chance to do some good on her:",2385
 Act IV,Scene II,Capulet,A peevish self-will'd harlotry it is.,2386
 Act IV,Scene II,Nurse,See where she comes from shrift with merry look.,2387
+Act IV,Scene II,[stage direction],Enter JULIET,NA
 Act IV,Scene II,Capulet,"How now, my headstrong! where have you been gadding?",2388
 Act IV,Scene II,Juliet,Where I have learn'd me to repent the sin,2389
 Act IV,Scene II,Juliet,Of disobedient opposition,2390
@@ -2408,6 +2529,7 @@ Act IV,Scene II,Juliet,To help me sort such needful ornaments,2406
 Act IV,Scene II,Juliet,As you think fit to furnish me to-morrow?,2407
 Act IV,Scene II,Lady Capulet,"No, not till Thursday; there is time enough.",2408
 Act IV,Scene II,Capulet,"Go, nurse, go with her: we'll to church to-morrow.",2409
+Act IV,Scene II,[stage direction],Exeunt JULIET and Nurse,NA
 Act IV,Scene II,Lady Capulet,We shall be short in our provision:,2410
 Act IV,Scene II,Lady Capulet,'Tis now near night.,2411
 Act IV,Scene II,Capulet,"Tush, I will stir about,",2412
@@ -2419,11 +2541,14 @@ Act IV,Scene II,Capulet,"They are all forth. Well, I will walk myself",2417
 Act IV,Scene II,Capulet,"To County Paris, to prepare him up",2418
 Act IV,Scene II,Capulet,"Against to-morrow: my heart is wondrous light,",2419
 Act IV,Scene II,Capulet,Since this same wayward girl is so reclaim'd.,2420
+Act IV,Scene II,[stage direction],Exeunt,NA
+Act IV,Scene III,[stage direction],Enter JULIET and Nurse,NA
 Act IV,Scene III,Juliet,"Ay, those attires are best: but, gentle nurse,",2421
 Act IV,Scene III,Juliet,"I pray thee, leave me to my self to-night,",2422
 Act IV,Scene III,Juliet,For I have need of many orisons,2423
 Act IV,Scene III,Juliet,"To move the heavens to smile upon my state,",2424
 Act IV,Scene III,Juliet,"Which, well thou know'st, is cross, and full of sin.",2425
+Act IV,Scene III,[stage direction],Enter LADY CAPULET,NA
 Act IV,Scene III,Lady Capulet,"What, are you busy, ho? need you my help?",2426
 Act IV,Scene III,Juliet,"No, madam; we have cull'd such necessaries",2427
 Act IV,Scene III,Juliet,As are behoveful for our state to-morrow:,2428
@@ -2433,6 +2558,7 @@ Act IV,Scene III,Juliet,"For, I am sure, you have your hands full all,",2431
 Act IV,Scene III,Juliet,In this so sudden business.,2432
 Act IV,Scene III,Lady Capulet,Good night:,2433
 Act IV,Scene III,Lady Capulet,"Get thee to bed, and rest; for thou hast need.",2434
+Act IV,Scene III,[stage direction],Exeunt LADY CAPULET and Nurse,NA
 Act IV,Scene III,Juliet,Farewell! God knows when we shall meet again.,2435
 Act IV,Scene III,Juliet,"I have a faint cold fear thrills through my veins,",2436
 Act IV,Scene III,Juliet,That almost freezes up the heat of life:,2437
@@ -2443,6 +2569,7 @@ Act IV,Scene III,Juliet,"Come, vial.",2441
 Act IV,Scene III,Juliet,What if this mixture do not work at all?,2442
 Act IV,Scene III,Juliet,Shall I be married then to-morrow morning?,2443
 Act IV,Scene III,Juliet,"No, no: this shall forbid it: lie thou there.",2444
+Act IV,Scene III,[stage direction],Laying down her dagger,NA
 Act IV,Scene III,Juliet,"What if it be a poison, which the friar",2445
 Act IV,Scene III,Juliet,"Subtly hath minister'd to have me dead,",2446
 Act IV,Scene III,Juliet,"Lest in this marriage he should be dishonour'd,",2447
@@ -2478,8 +2605,11 @@ Act IV,Scene III,Juliet,"O, look! methinks I see my cousin's ghost",2476
 Act IV,Scene III,Juliet,"Seeking out Romeo, that did spit his body",2477
 Act IV,Scene III,Juliet,"Upon a rapier's point: stay, Tybalt, stay!",2478
 Act IV,Scene III,Juliet,"Romeo, I come! this do I drink to thee.",2479
+Act IV,Scene III,[stage direction],"She falls upon her bed, within the curtains",NA
+Act IV,Scene IV,[stage direction],Enter LADY CAPULET and Nurse,NA
 Act IV,Scene IV,Lady Capulet,"Hold, take these keys, and fetch more spices, nurse.",2480
 Act IV,Scene IV,Nurse,They call for dates and quinces in the pastry.,2481
+Act IV,Scene IV,[stage direction],Enter CAPULET,NA
 Act IV,Scene IV,Capulet,"Come, stir, stir, stir! the second cock hath crow'd,",2482
 Act IV,Scene IV,Capulet,"The curfew-bell hath rung, 'tis three o'clock:",2483
 Act IV,Scene IV,Capulet,"Look to the baked meats, good Angelica:",2484
@@ -2491,24 +2621,32 @@ Act IV,Scene IV,Capulet,"No, not a whit: what! I have watch'd ere now",2489
 Act IV,Scene IV,Capulet,"All night for lesser cause, and ne'er been sick.",2490
 Act IV,Scene IV,Lady Capulet,"Ay, you have been a mouse-hunt in your time;",2491
 Act IV,Scene IV,Lady Capulet,But I will watch you from such watching now.,2492
+Act IV,Scene IV,[stage direction],Exeunt LADY CAPULET and Nurse,NA
 Act IV,Scene IV,Capulet,"A jealous hood, a jealous hood!",2493
+Act IV,Scene IV,[stage direction],"Enter three or four Servingmen, with spits, logs, and baskets",NA
 Act IV,Scene IV,Capulet,"Now, fellow,",2494
 Act IV,Scene IV,Capulet,What's there?,2495
 Act IV,Scene IV,First Servant,"Things for the cook, sir; but I know not what.",2496
 Act IV,Scene IV,Capulet,"Make haste, make haste.",2497
+Act IV,Scene IV,[stage direction],Exit First Servant,NA
 Act IV,Scene IV,Capulet,"Sirrah, fetch drier logs:",2498
 Act IV,Scene IV,Capulet,"Call Peter, he will show thee where they are.",2499
 Act IV,Scene IV,Second Servant,"I have a head, sir, that will find out logs,",2500
 Act IV,Scene IV,Second Servant,And never trouble Peter for the matter.,2501
+Act IV,Scene IV,[stage direction],Exit,NA
 Act IV,Scene IV,Capulet,"Mass, and well said; a merry whoreson, ha!",2502
 Act IV,Scene IV,Capulet,"Thou shalt be logger-head. Good faith, 'tis day:",2503
 Act IV,Scene IV,Capulet,"The county will be here with music straight,",2504
 Act IV,Scene IV,Capulet,For so he said he would: I hear him near.,2505
+Act IV,Scene IV,[stage direction],Music within,NA
 Act IV,Scene IV,Capulet,"Nurse! Wife! What, ho! What, nurse, I say!",2506
+Act IV,Scene IV,[stage direction],Re-enter Nurse,NA
 Act IV,Scene IV,Capulet,"Go waken Juliet, go and trim her up;",2507
 Act IV,Scene IV,Capulet,"I'll go and chat with Paris: hie, make haste,",2508
 Act IV,Scene IV,Capulet,Make haste; the bridegroom he is come already:,2509
 Act IV,Scene IV,Capulet,"Make haste, I say.",2510
+Act IV,Scene IV,[stage direction],Exeunt,NA
+Act IV,Scene V,[stage direction],Enter Nurse,NA
 Act IV,Scene V,Nurse,"Mistress! what, mistress! Juliet! fast, I warrant her, she:",2511
 Act IV,Scene V,Nurse,"Why, lamb! why, lady! fie, you slug-a-bed!",2512
 Act IV,Scene V,Nurse,"Why, love, I say! madam! sweet-heart! why, bride!",2513
@@ -2520,11 +2658,13 @@ Act IV,Scene V,Nurse,"Marry, and amen, how sound is she asleep!",2518
 Act IV,Scene V,Nurse,"I must needs wake her. Madam, madam, madam!",2519
 Act IV,Scene V,Nurse,"Ay, let the county take you in your bed;",2520
 Act IV,Scene V,Nurse,"He'll fright you up, i' faith. Will it not be?",2521
+Act IV,Scene V,[stage direction],Undraws the curtains,NA
 Act IV,Scene V,Nurse,"What, dress'd! and in your clothes! and down again!",2522
 Act IV,Scene V,Nurse,I must needs wake you; Lady! lady! lady!,2523
 Act IV,Scene V,Nurse,"Alas, alas! Help, help! my lady's dead!",2524
 Act IV,Scene V,Nurse,"O, well-a-day, that ever I was born!",2525
 Act IV,Scene V,Nurse,"Some aqua vitae, ho! My lord! my lady!",2526
+Act IV,Scene V,[stage direction],Enter LADY CAPULET,NA
 Act IV,Scene V,Lady Capulet,What noise is here?,2527
 Act IV,Scene V,Nurse,O lamentable day!,2528
 Act IV,Scene V,Lady Capulet,What is the matter?,2529
@@ -2532,6 +2672,7 @@ Act IV,Scene V,Nurse,"Look, look! O heavy day!",2530
 Act IV,Scene V,Lady Capulet,"O me, O me! My child, my only life,",2531
 Act IV,Scene V,Lady Capulet,"Revive, look up, or I will die with thee!",2532
 Act IV,Scene V,Lady Capulet,"Help, help! Call help.",2533
+Act IV,Scene V,[stage direction],Enter CAPULET,NA
 Act IV,Scene V,Capulet,"For shame, bring Juliet forth; her lord is come.",2534
 Act IV,Scene V,Nurse,"She's dead, deceased, she's dead; alack the day!",2535
 Act IV,Scene V,Lady Capulet,"Alack the day, she's dead, she's dead, she's dead!",2536
@@ -2544,6 +2685,7 @@ Act IV,Scene V,Nurse,O lamentable day!,2542
 Act IV,Scene V,Lady Capulet,O woful time!,2543
 Act IV,Scene V,Capulet,"Death, that hath ta'en her hence to make me wail,",2544
 Act IV,Scene V,Capulet,"Ties up my tongue, and will not let me speak.",2545
+Act IV,Scene V,[stage direction],"Enter FRIAR LAURENCE and PARIS, with Musicians",NA
 Act IV,Scene V,Friar Laurence,"Come, is the bride ready to go to church?",2546
 Act IV,Scene V,Capulet,"Ready to go, but never to return.",2547
 Act IV,Scene V,Capulet,O son! the night before thy wedding-day,2548
@@ -2607,10 +2749,13 @@ Act IV,Scene V,Friar Laurence,"And go, Sir Paris; every one prepare",2605
 Act IV,Scene V,Friar Laurence,To follow this fair corse unto her grave:,2606
 Act IV,Scene V,Friar Laurence,The heavens do lour upon you for some ill;,2607
 Act IV,Scene V,Friar Laurence,Move them no more by crossing their high will.,2608
+Act IV,Scene V,[stage direction],"Exeunt CAPULET, LADY CAPULET, PARIS, and FRIAR LAURENCE",NA
 Act IV,Scene V,First Musician,"Faith, we may put up our pipes, and be gone.",2609
 Act IV,Scene V,Nurse,"Honest goodfellows, ah, put up, put up;",2610
 Act IV,Scene V,Nurse,"For, well you know, this is a pitiful case.",2611
+Act IV,Scene V,[stage direction],Exit,NA
 Act IV,Scene V,First Musician,"Ay, by my troth, the case may be amended.",2612
+Act IV,Scene V,[stage direction],Enter PETER,NA
 Act IV,Scene V,Peter,"Musicians, O, musicians, 'Heart's ease, Heart's",2613
 Act IV,Scene V,Peter,"ease:' O, an you will have me live, play 'Heart's ease.'",2614
 Act IV,Scene V,First Musician,Why 'Heart's ease?',2615
@@ -2648,9 +2793,12 @@ Act IV,Scene V,Peter,"for you. It is 'music with her silver sound,'",2646
 Act IV,Scene V,Peter,because musicians have no gold for sounding:,2647
 Act IV,Scene V,Peter,'Then music with her silver sound,2648
 Act IV,Scene V,Peter,With speedy help doth lend redress.',2649
+Act IV,Scene V,[stage direction],Exit,NA
 Act IV,Scene V,First Musician,What a pestilent knave is this same!,2650
 Act IV,Scene V,Second Musician,"Hang him, Jack! Come, we'll in here; tarry for the",2651
 Act IV,Scene V,Second Musician,"mourners, and stay dinner.",2652
+Act IV,Scene V,[stage direction],Exeunt,NA
+Act V,Scene I,[stage direction],Enter ROMEO,NA
 Act V,Scene I,Romeo,"If I may trust the flattering truth of sleep,",2653
 Act V,Scene I,Romeo,My dreams presage some joyful news at hand:,2654
 Act V,Scene I,Romeo,My bosom's lord sits lightly in his throne;,2655
@@ -2663,6 +2811,7 @@ Act V,Scene I,Romeo,"And breathed such life with kisses in my lips,",2661
 Act V,Scene I,Romeo,"That I revived, and was an emperor.",2662
 Act V,Scene I,Romeo,"Ah me! how sweet is love itself possess'd,",2663
 Act V,Scene I,Romeo,When but love's shadows are so rich in joy!,2664
+Act V,Scene I,[stage direction],"Enter BALTHASAR, booted",NA
 Act V,Scene I,Romeo,"News from Verona!--How now, Balthasar!",2665
 Act V,Scene I,Romeo,Dost thou not bring me letters from the friar?,2666
 Act V,Scene I,Romeo,How doth my lady? Is my father well?,2667
@@ -2687,6 +2836,7 @@ Act V,Scene I,Romeo,Hast thou no letters to me from the friar?,2685
 Act V,Scene I,Balthasar,"No, my good lord.",2686
 Act V,Scene I,Romeo,"No matter: get thee gone,",2687
 Act V,Scene I,Romeo,And hire those horses; I'll be with thee straight.,2688
+Act V,Scene I,[stage direction],Exit BALTHASAR,NA
 Act V,Scene I,Romeo,"Well, Juliet, I will lie with thee to-night.",2689
 Act V,Scene I,Romeo,"Let's see for means: O mischief, thou art swift",2690
 Act V,Scene I,Romeo,To enter in the thoughts of desperate men!,2691
@@ -2711,6 +2861,7 @@ Act V,Scene I,Romeo,And this same needy man must sell it me.,2709
 Act V,Scene I,Romeo,"As I remember, this should be the house.",2710
 Act V,Scene I,Romeo,"Being holiday, the beggar's shop is shut.",2711
 Act V,Scene I,Romeo,"What, ho! apothecary!",2712
+Act V,Scene I,[stage direction],Enter Apothecary,NA
 Act V,Scene I,Apothecary,Who calls so loud?,2713
 Act V,Scene I,Romeo,"Come hither, man. I see that thou art poor:",2714
 Act V,Scene I,Romeo,"Hold, there is forty ducats: let me have",2715
@@ -2741,7 +2892,10 @@ Act V,Scene I,Romeo,I sell thee poison; thou hast sold me none.,2739
 Act V,Scene I,Romeo,"Farewell: buy food, and get thyself in flesh.",2740
 Act V,Scene I,Romeo,"Come, cordial and not poison, go with me",2741
 Act V,Scene I,Romeo,To Juliet's grave; for there must I use thee.,2742
+Act V,Scene I,[stage direction],Exeunt,NA
+Act V,Scene II,[stage direction],Enter FRIAR JOHN,NA
 Act V,Scene II,Friar John,"Holy Franciscan friar! brother, ho!",2743
+Act V,Scene II,[stage direction],Enter FRIAR LAURENCE,NA
 Act V,Scene II,Friar Laurence,This same should be the voice of Friar John.,2744
 Act V,Scene II,Friar Laurence,Welcome from Mantua: what says Romeo?,2745
 Act V,Scene II,Friar Laurence,"Or, if his mind be writ, give me his letter.",2746
@@ -2764,6 +2918,7 @@ Act V,Scene II,Friar Laurence,"May do much danger. Friar John, go hence;",2762
 Act V,Scene II,Friar Laurence,"Get me an iron crow, and bring it straight",2763
 Act V,Scene II,Friar Laurence,Unto my cell.,2764
 Act V,Scene II,Friar John,"Brother, I'll go and bring it thee.",2765
+Act V,Scene II,[stage direction],Exit,NA
 Act V,Scene II,Friar Laurence,Now must I to the monument alone;,2766
 Act V,Scene II,Friar Laurence,Within three hours will fair Juliet wake:,2767
 Act V,Scene II,Friar Laurence,She will beshrew me much that Romeo,2768
@@ -2771,6 +2926,8 @@ Act V,Scene II,Friar Laurence,Hath had no notice of these accidents;,2769
 Act V,Scene II,Friar Laurence,"But I will write again to Mantua,",2770
 Act V,Scene II,Friar Laurence,And keep her at my cell till Romeo come;,2771
 Act V,Scene II,Friar Laurence,"Poor living corse, closed in a dead man's tomb!",2772
+Act V,Scene II,[stage direction],Exit,NA
+Act V,Scene III,[stage direction],"Enter PARIS, and his Page bearing flowers and a torch",NA
 Act V,Scene III,Paris,"Give me thy torch, boy: hence, and stand aloof:",2773
 Act V,Scene III,Paris,"Yet put it out, for I would not be seen.",2774
 Act V,Scene III,Paris,"Under yond yew-trees lay thee all along,",2775
@@ -2782,16 +2939,20 @@ Act V,Scene III,Paris,As signal that thou hear'st something approach.,2780
 Act V,Scene III,Paris,"Give me those flowers. Do as I bid thee, go.",2781
 Act V,Scene III,Page,[Aside]  I am almost afraid to stand alone,2782
 Act V,Scene III,Page,Here in the churchyard; yet I will adventure.,2783
+Act V,Scene III,[stage direction],Retires,NA
 Act V,Scene III,Paris,"Sweet flower, with flowers thy bridal bed I strew,--",2784
 Act V,Scene III,Paris,O woe! thy canopy is dust and stones;--,2785
 Act V,Scene III,Paris,"Which with sweet water nightly I will dew,",2786
 Act V,Scene III,Paris,"Or, wanting that, with tears distill'd by moans:",2787
 Act V,Scene III,Paris,The obsequies that I for thee will keep,2788
 Act V,Scene III,Paris,Nightly shall be to strew thy grave and weep.,2789
+Act V,Scene III,[stage direction],The Page whistles,NA
 Act V,Scene III,Paris,The boy gives warning something doth approach.,2790
 Act V,Scene III,Paris,"What cursed foot wanders this way to-night,",2791
 Act V,Scene III,Paris,To cross my obsequies and true love's rite?,2792
 Act V,Scene III,Paris,"What with a torch! muffle me, night, awhile.",2793
+Act V,Scene III,[stage direction],Retires,NA
+Act V,Scene III,[stage direction],"Enter ROMEO and BALTHASAR, with a torch, mattock,  &amp; c",NA
 Act V,Scene III,Romeo,Give me that mattock and the wrenching iron.,2794
 Act V,Scene III,Romeo,"Hold, take this letter; early in the morning",2795
 Act V,Scene III,Romeo,See thou deliver it to my lord and father.,2796
@@ -2815,15 +2976,18 @@ Act V,Scene III,Romeo,So shalt thou show me friendship. Take thou that:,2813
 Act V,Scene III,Romeo,"Live, and be prosperous: and farewell, good fellow.",2814
 Act V,Scene III,Balthasar,"[Aside]  For all this same, I'll hide me hereabout:",2815
 Act V,Scene III,Balthasar,"His looks I fear, and his intents I doubt.",2816
+Act V,Scene III,[stage direction],Retires,NA
 Act V,Scene III,Romeo,"Thou detestable maw, thou womb of death,",2817
 Act V,Scene III,Romeo,"Gorged with the dearest morsel of the earth,",2818
 Act V,Scene III,Romeo,"Thus I enforce thy rotten jaws to open,",2819
 Act V,Scene III,Romeo,"And, in despite, I'll cram thee with more food!",2820
+Act V,Scene III,[stage direction],Opens the tomb,NA
 Act V,Scene III,Paris,"This is that banish'd haughty Montague,",2821
 Act V,Scene III,Paris,"That murder'd my love's cousin, with which grief,",2822
 Act V,Scene III,Paris,"It is supposed, the fair creature died;",2823
 Act V,Scene III,Paris,And here is come to do some villanous shame,2824
 Act V,Scene III,Paris,To the dead bodies: I will apprehend him.,2825
+Act V,Scene III,[stage direction],Comes forward,NA
 Act V,Scene III,Paris,"Stop thy unhallow'd toil, vile Montague!",2826
 Act V,Scene III,Paris,Can vengeance be pursued further than death?,2827
 Act V,Scene III,Paris,"Condemned villain, I do apprehend thee:",2828
@@ -2841,10 +3005,14 @@ Act V,Scene III,Romeo,A madman's mercy bade thee run away.,2839
 Act V,Scene III,Paris,"I do defy thy conjurations,",2840
 Act V,Scene III,Paris,And apprehend thee for a felon here.,2841
 Act V,Scene III,Romeo,"Wilt thou provoke me? then have at thee, boy!",2842
+Act V,Scene III,[stage direction],They fight,NA
 Act V,Scene III,Page,"O Lord, they fight! I will go call the watch.",2843
+Act V,Scene III,[stage direction],Exit,NA
 Act V,Scene III,Paris,"O, I am slain!",2844
+Act V,Scene III,[stage direction],Falls,NA
 Act V,Scene III,Paris,"If thou be merciful,",2845
 Act V,Scene III,Paris,"Open the tomb, lay me with Juliet.",2846
+Act V,Scene III,[stage direction],Dies,NA
 Act V,Scene III,Romeo,"In faith, I will. Let me peruse this face.",2847
 Act V,Scene III,Romeo,"Mercutio's kinsman, noble County Paris!",2848
 Act V,Scene III,Romeo,"What said my man, when my betossed soul",2849
@@ -2859,6 +3027,7 @@ Act V,Scene III,Romeo,"A grave? O no! a lantern, slaughter'd youth,",2857
 Act V,Scene III,Romeo,"For here lies Juliet, and her beauty makes",2858
 Act V,Scene III,Romeo,This vault a feasting presence full of light.,2859
 Act V,Scene III,Romeo,"Death, lie thou there, by a dead man interr'd.",2860
+Act V,Scene III,[stage direction],Laying PARIS in the tomb,NA
 Act V,Scene III,Romeo,How oft when men are at the point of death,2861
 Act V,Scene III,Romeo,Have they been merry! which their keepers call,2862
 Act V,Scene III,Romeo,"A lightning before death: O, how may I",2863
@@ -2891,8 +3060,11 @@ Act V,Scene III,Romeo,"Come, bitter conduct, come, unsavoury guide!",2889
 Act V,Scene III,Romeo,"Thou desperate pilot, now at once run on",2890
 Act V,Scene III,Romeo,The dashing rocks thy sea-sick weary bark!,2891
 Act V,Scene III,Romeo,Here's to my love!,2892
+Act V,Scene III,[stage direction],Drinks,NA
 Act V,Scene III,Romeo,O true apothecary!,2893
 Act V,Scene III,Romeo,Thy drugs are quick. Thus with a kiss I die.,2894
+Act V,Scene III,[stage direction],Dies,NA
+Act V,Scene III,[stage direction],"Enter, at the other end of the churchyard, FRIAR LAURENCE, with a lantern, crow, and spade",NA
 Act V,Scene III,Friar Laurence,Saint Francis be my speed! how oft to-night,2895
 Act V,Scene III,Friar Laurence,Have my old feet stumbled at graves! Who's there?,2896
 Act V,Scene III,Balthasar,"Here's one, a friend, and one that knows you well.",2897
@@ -2917,17 +3089,21 @@ Act V,Scene III,Balthasar,"As I did sleep under this yew-tree here,",2915
 Act V,Scene III,Balthasar,"I dreamt my master and another fought,",2916
 Act V,Scene III,Balthasar,And that my master slew him.,2917
 Act V,Scene III,Friar Laurence,Romeo!,2918
+Act V,Scene III,[stage direction],Advances,NA
 Act V,Scene III,Friar Laurence,"Alack, alack, what blood is this, which stains",2919
 Act V,Scene III,Friar Laurence,The stony entrance of this sepulchre?,2920
 Act V,Scene III,Friar Laurence,What mean these masterless and gory swords,2921
 Act V,Scene III,Friar Laurence,To lie discolour'd by this place of peace?,2922
+Act V,Scene III,[stage direction],Enters the tomb,NA
 Act V,Scene III,Friar Laurence,"Romeo! O, pale! Who else? what, Paris too?",2923
 Act V,Scene III,Friar Laurence,"And steep'd in blood? Ah, what an unkind hour",2924
 Act V,Scene III,Friar Laurence,Is guilty of this lamentable chance!,2925
 Act V,Scene III,Friar Laurence,The lady stirs.,2926
+Act V,Scene III,[stage direction],JULIET wakes,NA
 Act V,Scene III,Juliet,O comfortable friar! where is my lord?,2927
 Act V,Scene III,Juliet,"I do remember well where I should be,",2928
 Act V,Scene III,Juliet,And there I am. Where is my Romeo?,2929
+Act V,Scene III,[stage direction],Noise within,NA
 Act V,Scene III,Friar Laurence,"I hear some noise. Lady, come from that nest",2930
 Act V,Scene III,Friar Laurence,"Of death, contagion, and unnatural sleep:",2931
 Act V,Scene III,Friar Laurence,A greater power than we can contradict,2932
@@ -2937,19 +3113,26 @@ Act V,Scene III,Friar Laurence,"And Paris too. Come, I'll dispose of thee",2935
 Act V,Scene III,Friar Laurence,Among a sisterhood of holy nuns:,2936
 Act V,Scene III,Friar Laurence,"Stay not to question, for the watch is coming;",2937
 Act V,Scene III,Friar Laurence,"Come, go, good Juliet,",2938
+Act V,Scene III,[stage direction],Noise again,NA
 Act V,Scene III,Friar Laurence,I dare no longer stay.,2939
 Act V,Scene III,Juliet,"Go, get thee hence, for I will not away.",2940
+Act V,Scene III,[stage direction],Exit FRIAR LAURENCE,NA
 Act V,Scene III,Juliet,"What's here? a cup, closed in my true love's hand?",2941
 Act V,Scene III,Juliet,"Poison, I see, hath been his timeless end:",2942
 Act V,Scene III,Juliet,"O churl! drunk all, and left no friendly drop",2943
 Act V,Scene III,Juliet,To help me after? I will kiss thy lips;,2944
 Act V,Scene III,Juliet,"Haply some poison yet doth hang on them,",2945
 Act V,Scene III,Juliet,To make die with a restorative.,2946
+Act V,Scene III,[stage direction],Kisses him,NA
 Act V,Scene III,Juliet,Thy lips are warm.,2947
 Act V,Scene III,First Watchman,"[Within]  Lead, boy: which way?",2948
 Act V,Scene III,Juliet,"Yea, noise? then I'll be brief. O happy dagger!",2949
+Act V,Scene III,[stage direction],Snatching ROMEO's dagger,NA
 Act V,Scene III,Juliet,This is thy sheath;,2950
+Act V,Scene III,[stage direction],Stabs herself,NA
 Act V,Scene III,Juliet,"there rust, and let me die.",2951
+Act V,Scene III,[stage direction],"Falls on ROMEO's body, and dies",NA
+Act V,Scene III,[stage direction],"Enter Watch, with the Page of PARIS",NA
 Act V,Scene III,Page,"This is the place; there, where the torch doth burn.",2952
 Act V,Scene III,First Watchman,The ground is bloody; search about the churchyard:,2953
 Act V,Scene III,First Watchman,"Go, some of you, whoe'er you find attach.",2954
@@ -2961,14 +3144,18 @@ Act V,Scene III,First Watchman,Raise up the Montagues: some others search:,2959
 Act V,Scene III,First Watchman,We see the ground whereon these woes do lie;,2960
 Act V,Scene III,First Watchman,But the true ground of all these piteous woes,2961
 Act V,Scene III,First Watchman,We cannot without circumstance descry.,2962
+Act V,Scene III,[stage direction],"Re-enter some of the Watch, with BALTHASAR",NA
 Act V,Scene III,Second Watchman,Here's Romeo's man; we found him in the churchyard.,2963
 Act V,Scene III,First Watchman,"Hold him in safety, till the prince come hither.",2964
+Act V,Scene III,[stage direction],"Re-enter others of the Watch, with FRIAR LAURENCE",NA
 Act V,Scene III,Third Watchman,"Here is a friar, that trembles, sighs and weeps:",2965
 Act V,Scene III,Third Watchman,"We took this mattock and this spade from him,",2966
 Act V,Scene III,Third Watchman,As he was coming from this churchyard side.,2967
 Act V,Scene III,First Watchman,A great suspicion: stay the friar too.,2968
+Act V,Scene III,[stage direction],Enter the PRINCE and Attendants,NA
 Act V,Scene III,Prince,"What misadventure is so early up,",2969
 Act V,Scene III,Prince,That calls our person from our morning's rest?,2970
+Act V,Scene III,[stage direction],"Enter CAPULET, LADY CAPULET, and others",NA
 Act V,Scene III,Capulet,"What should it be, that they so shriek abroad?",2971
 Act V,Scene III,Lady Capulet,"The people in the street cry Romeo,",2972
 Act V,Scene III,Lady Capulet,"Some Juliet, and some Paris; and all run,",2973
@@ -2987,6 +3174,7 @@ Act V,Scene III,Capulet,"Is empty on the back of Montague,--",2985
 Act V,Scene III,Capulet,And it mis-sheathed in my daughter's bosom!,2986
 Act V,Scene III,Lady Capulet,"O me! this sight of death is as a bell,",2987
 Act V,Scene III,Lady Capulet,That warns my old age to a sepulchre.,2988
+Act V,Scene III,[stage direction],Enter MONTAGUE and others,NA
 Act V,Scene III,Prince,"Come, Montague; for thou art early up,",2989
 Act V,Scene III,Prince,To see thy son and heir more early down.,2990
 Act V,Scene III,Montague,"Alas, my liege, my wife is dead to-night;",2991
@@ -3092,3 +3280,4 @@ Act V,Scene III,Prince,"Go hence, to have more talk of these sad things;",3090
 Act V,Scene III,Prince,"Some shall be pardon'd, and some punished:",3091
 Act V,Scene III,Prince,For never was a story of more woe,3092
 Act V,Scene III,Prince,Than this of Juliet and her Romeo.,3093
+Act V,Scene III,[stage direction],Exeunt,NA

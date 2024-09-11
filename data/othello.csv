@@ -1,4 +1,5 @@
 act,scene,character,dialogue,line_number
+Act I,Scene I,[stage direction],Enter RODERIGO and IAGO,NA
 Act I,Scene I,Roderigo,Tush! never tell me; I take it much unkindly,1
 Act I,Scene I,Roderigo,"That thou, Iago, who hast had my purse",2
 Act I,Scene I,Roderigo,"As if the strings were thine, shouldst know of this.",3
@@ -82,6 +83,7 @@ Act I,Scene I,Roderigo,"What, ho, Brabantio! Signior Brabantio, ho!",80
 Act I,Scene I,Iago,"Awake! what, ho, Brabantio! thieves! thieves! thieves!",81
 Act I,Scene I,Iago,"Look to your house, your daughter and your bags!",82
 Act I,Scene I,Iago,Thieves! thieves!,83
+Act I,Scene I,[stage direction],"BRABANTIO appears above, at a window",NA
 Act I,Scene I,Brabantio,What is the reason of this terrible summons?,84
 Act I,Scene I,Brabantio,What is the matter there?,85
 Act I,Scene I,Roderigo,"Signior, is all your family within?",86
@@ -153,6 +155,7 @@ Act I,Scene I,Brabantio,Give me a taper! call up all my people!,151
 Act I,Scene I,Brabantio,This accident is not unlike my dream:,152
 Act I,Scene I,Brabantio,Belief of it oppresses me already.,153
 Act I,Scene I,Brabantio,"Light, I say! light!",154
+Act I,Scene I,[stage direction],Exit above,NA
 Act I,Scene I,Iago,Farewell; for I must leave you:,155
 Act I,Scene I,Iago,"It seems not meet, nor wholesome to my place,",156
 Act I,Scene I,Iago,"To be produced--as, if I stay, I shall--",157
@@ -169,6 +172,8 @@ Act I,Scene I,Iago,"I must show out a flag and sign of love,",167
 Act I,Scene I,Iago,"Which is indeed but sign. That you shall surely find him,",168
 Act I,Scene I,Iago,Lead to the Sagittary the raised search;,169
 Act I,Scene I,Iago,"And there will I be with him. So, farewell.",170
+Act I,Scene I,[stage direction],Exit,NA
+Act I,Scene I,[stage direction],"Enter, below, BRABANTIO, and Servants with torches",NA
 Act I,Scene I,Brabantio,It is too true an evil: gone she is;,171
 Act I,Scene I,Brabantio,And what's to come of my despised time,172
 Act I,Scene I,Brabantio,"Is nought but bitterness. Now, Roderigo,",173
@@ -194,6 +199,8 @@ Act I,Scene I,Brabantio,"Pray you, lead on. At every house I'll call;",192
 Act I,Scene I,Brabantio,"I may command at most. Get weapons, ho!",193
 Act I,Scene I,Brabantio,And raise some special officers of night.,194
 Act I,Scene I,Brabantio,"On, good Roderigo: I'll deserve your pains.",195
+Act I,Scene I,[stage direction],Exeunt,NA
+Act I,Scene II,[stage direction],"Enter OTHELLO, IAGO, and Attendants with torches",NA
 Act I,Scene II,Iago,"Though in the trade of war I have slain men,",196
 Act I,Scene II,Iago,Yet do I hold it very stuff o' the conscience,197
 Act I,Scene II,Iago,To do no contrived murder: I lack iniquity,198
@@ -230,6 +237,7 @@ Act I,Scene II,Othello,Not I	I must be found:,228
 Act I,Scene II,Othello,"My parts, my title and my perfect soul",229
 Act I,Scene II,Othello,Shall manifest me rightly. Is it they?,230
 Act I,Scene II,Iago,"By Janus, I think no.",231
+Act I,Scene II,[stage direction],"Enter CASSIO, and certain Officers with torches",NA
 Act I,Scene II,Othello,"The servants of the duke, and my lieutenant.",232
 Act I,Scene II,Othello,"The goodness of the night upon you, friends!",233
 Act I,Scene II,Othello,What is the news?,234
@@ -250,20 +258,24 @@ Act I,Scene II,Cassio,To search you out.,248
 Act I,Scene II,Othello,'Tis well I am found by you.,249
 Act I,Scene II,Othello,"I will but spend a word here in the house,",250
 Act I,Scene II,Othello,And go with you.,251
+Act I,Scene II,[stage direction],Exit,NA
 Act I,Scene II,Cassio,"Ancient, what makes he here?",252
 Act I,Scene II,Iago,"'Faith, he to-night hath boarded a land carack:",253
 Act I,Scene II,Iago,"If it prove lawful prize, he's made for ever.",254
 Act I,Scene II,Cassio,I do not understand.,255
 Act I,Scene II,Iago,He's married.,256
 Act I,Scene II,Cassio,To who?,257
+Act I,Scene II,[stage direction],Re-enter OTHELLO,NA
 Act I,Scene II,Iago,"Marry, to--Come, captain, will you go?",258
 Act I,Scene II,Othello,Have with you.,259
 Act I,Scene II,Cassio,Here comes another troop to seek for you.,260
 Act I,Scene II,Iago,"It is Brabantio. General, be advised;",261
 Act I,Scene II,Iago,He comes to bad intent.,262
+Act I,Scene II,[stage direction],"Enter BRABANTIO, RODERIGO, and Officers with torches and weapons",NA
 Act I,Scene II,Othello,Holla! stand there!,263
 Act I,Scene II,Roderigo,"Signior, it is the Moor.",264
 Act I,Scene II,Brabantio,"Down with him, thief!",265
+Act I,Scene II,[stage direction],They draw on both sides,NA
 Act I,Scene II,Iago,"You, Roderigo! come, sir, I am for you.",266
 Act I,Scene II,Othello,"Keep up your bright swords, for the dew will rust them.",267
 Act I,Scene II,Othello,"Good signior, you shall more command with years",268
@@ -311,6 +323,8 @@ Act I,Scene II,Brabantio,"Or any of my brothers of the state,",309
 Act I,Scene II,Brabantio,Cannot but feel this wrong as 'twere their own;,310
 Act I,Scene II,Brabantio,"For if such actions may have passage free,",311
 Act I,Scene II,Brabantio,Bond-slaves and pagans shall our statesmen be.,312
+Act I,Scene II,[stage direction],Exeunt,NA
+Act I,Scene III,[stage direction],The DUKE and Senators sitting at a table; Officers attending,NA
 Act I,Scene III,Duke Of Venice,There is no composition in these news,313
 Act I,Scene III,Duke Of Venice,That gives them credit.,314
 Act I,Scene III,First Senator,"Indeed, they are disproportion'd;",315
@@ -327,6 +341,7 @@ Act I,Scene III,Duke Of Venice,But the main article I do approve,325
 Act I,Scene III,Duke Of Venice,In fearful sense.,326
 Act I,Scene III,Sailor,"[Within]  What, ho! what, ho! what, ho!",327
 Act I,Scene III,First Officer,A messenger from the galleys.,328
+Act I,Scene III,[stage direction],Enter a Sailor,NA
 Act I,Scene III,Duke Of Venice,"Now, what's the business?",329
 Act I,Scene III,Sailor,The Turkish preparation makes for Rhodes;,330
 Act I,Scene III,Sailor,So was I bid report here to the state,331
@@ -348,6 +363,7 @@ Act I,Scene III,First Senator,"Neglecting an attempt of ease and gain,",346
 Act I,Scene III,First Senator,To wake and wage a danger profitless.,347
 Act I,Scene III,Duke Of Venice,"Nay, in all confidence, he's not for Rhodes.",348
 Act I,Scene III,First Officer,Here is more news.,349
+Act I,Scene III,[stage direction],Enter a Messenger,NA
 Act I,Scene III,Messenger,"The Ottomites, reverend and gracious,",350
 Act I,Scene III,Messenger,"Steering with due course towards the isle of Rhodes,",351
 Act I,Scene III,Messenger,Have there injointed them with an after fleet.,352
@@ -363,8 +379,10 @@ Act I,Scene III,Duke Of Venice,"Marcus Luccicos, is not he in town?",361
 Act I,Scene III,First Senator,He's now in Florence.,362
 Act I,Scene III,Duke Of Venice,Write from us to him; post-post-haste dispatch.,363
 Act I,Scene III,First Senator,Here comes Brabantio and the valiant Moor.,364
+Act I,Scene III,[stage direction],"Enter BRABANTIO, OTHELLO, IAGO, RODERIGO, and Officers",NA
 Act I,Scene III,Duke Of Venice,"Valiant Othello, we must straight employ you",365
 Act I,Scene III,Duke Of Venice,Against the general enemy Ottoman.,366
+Act I,Scene III,[stage direction],To BRABANTIO,NA
 Act I,Scene III,Duke Of Venice,"I did not see you; welcome, gentle signior;",367
 Act I,Scene III,Duke Of Venice,We lack'd your counsel and your help tonight.,368
 Act I,Scene III,Brabantio,"So did I yours. Good your grace, pardon me;",369
@@ -446,6 +464,7 @@ Act I,Scene III,Othello,"Not only take away, but let your sentence",444
 Act I,Scene III,Othello,Even fall upon my life.,445
 Act I,Scene III,Duke Of Venice,Fetch Desdemona hither.,446
 Act I,Scene III,Othello,"Ancient, conduct them: you best know the place.",447
+Act I,Scene III,[stage direction],Exeunt IAGO and Attendants,NA
 Act I,Scene III,Othello,"And, till she come, as truly as to heaven",448
 Act I,Scene III,Othello,"I do confess the vices of my blood,",449
 Act I,Scene III,Othello,So justly to your grave ears I'll present,450
@@ -495,6 +514,7 @@ Act I,Scene III,Othello,"She loved me for the dangers I had pass'd,",493
 Act I,Scene III,Othello,And I loved her that she did pity them.,494
 Act I,Scene III,Othello,This only is the witchcraft I have used:,495
 Act I,Scene III,Othello,Here comes the lady; let her witness it.,496
+Act I,Scene III,[stage direction],"Enter DESDEMONA, IAGO, and Attendants",NA
 Act I,Scene III,Duke Of Venice,I think this tale would win my daughter too.,497
 Act I,Scene III,Duke Of Venice,"Good Brabantio,",498
 Act I,Scene III,Duke Of Venice,Take up this mangled matter at the best:,499
@@ -622,12 +642,14 @@ Act I,Scene III,Othello,With what else needful your good grace shall think,620
 Act I,Scene III,Othello,To be sent after me.,621
 Act I,Scene III,Duke Of Venice,Let it be so.,622
 Act I,Scene III,Duke Of Venice,Good night to every one.,623
+Act I,Scene III,[stage direction],To BRABANTIO,NA
 Act I,Scene III,Duke Of Venice,"And, noble signior,",624
 Act I,Scene III,Duke Of Venice,"If virtue no delighted beauty lack,",625
 Act I,Scene III,Duke Of Venice,Your son-in-law is far more fair than black.,626
 Act I,Scene III,First Senator,"Adieu, brave Moor, use Desdemona well.",627
 Act I,Scene III,Brabantio,"Look to her, Moor, if thou hast eyes to see:",628
 Act I,Scene III,Brabantio,"She has deceived her father, and may thee.",629
+Act I,Scene III,[stage direction],"Exeunt DUKE OF VENICE, Senators, Officers,  &amp; c",NA
 Act I,Scene III,Othello,"My life upon her faith! Honest Iago,",630
 Act I,Scene III,Othello,My Desdemona must I leave to thee:,631
 Act I,Scene III,Othello,"I prithee, let thy wife attend on her:",632
@@ -635,6 +657,7 @@ Act I,Scene III,Othello,And bring them after in the best advantage.,633
 Act I,Scene III,Othello,"Come, Desdemona: I have but an hour",634
 Act I,Scene III,Othello,"Of love, of worldly matters and direction,",635
 Act I,Scene III,Othello,To spend with thee: we must obey the time.,636
+Act I,Scene III,[stage direction],Exeunt OTHELLO and DESDEMONA,NA
 Act I,Scene III,Roderigo,"Iago,--",637
 Act I,Scene III,Iago,"What say'st thou, noble heart?",638
 Act I,Scene III,Roderigo,"What will I do, thinkest thou?",639
@@ -714,6 +737,7 @@ Act I,Scene III,Iago,"Go to; farewell. Do you hear, Roderigo?",712
 Act I,Scene III,Roderigo,What say you?,713
 Act I,Scene III,Iago,"No more of drowning, do you hear?",714
 Act I,Scene III,Roderigo,I am changed: I'll go sell all my land.,715
+Act I,Scene III,[stage direction],Exit,NA
 Act I,Scene III,Iago,Thus do I ever make my fool my purse:,716
 Act I,Scene III,Iago,"For I mine own gain'd knowledge should profane,",717
 Act I,Scene III,Iago,If I would time expend with such a snipe.,718
@@ -736,6 +760,8 @@ Act I,Scene III,Iago,And will as tenderly be led by the nose,734
 Act I,Scene III,Iago,As asses are.,735
 Act I,Scene III,Iago,I have't. It is engender'd. Hell and night,736
 Act I,Scene III,Iago,Must bring this monstrous birth to the world's light.,737
+Act I,Scene III,[stage direction],Exit,NA
+Act II,Scene I,[stage direction],Enter MONTANO and two Gentlemen,NA
 Act II,Scene I,Montano,What from the cape can you discern at sea?,738
 Act II,Scene I,First Gentleman,Nothing at all: it is a highwrought flood;,739
 Act II,Scene I,First Gentleman,"I cannot, 'twixt the heaven and the main,",740
@@ -756,6 +782,7 @@ Act II,Scene I,Second Gentleman,On the enchafed flood.,754
 Act II,Scene I,Montano,If that the Turkish fleet,755
 Act II,Scene I,Montano,"Be not enshelter'd and embay'd, they are drown'd:",756
 Act II,Scene I,Montano,It is impossible they bear it out.,757
+Act II,Scene I,[stage direction],Enter a third Gentleman,NA
 Act II,Scene I,Third Gentleman,"News, lads! our wars are done.",758
 Act II,Scene I,Third Gentleman,"The desperate tempest hath so bang'd the Turks,",759
 Act II,Scene I,Third Gentleman,That their designment halts: a noble ship of Venice,760
@@ -782,6 +809,7 @@ Act II,Scene I,Montano,An indistinct regard.,780
 Act II,Scene I,Third Gentleman,"Come, let's do so:",781
 Act II,Scene I,Third Gentleman,For every minute is expectancy,782
 Act II,Scene I,Third Gentleman,Of more arrivance.,783
+Act II,Scene I,[stage direction],Enter CASSIO,NA
 Act II,Scene I,Cassio,"Thanks, you the valiant of this warlike isle,",784
 Act II,Scene I,Cassio,"That so approve the Moor! O, let the heavens",785
 Act II,Scene I,Cassio,"Give him defence against the elements,",786
@@ -791,21 +819,26 @@ Act II,Scene I,Cassio,"His bark is stoutly timber'd, his pilot",789
 Act II,Scene I,Cassio,Of very expert and approved allowance;,790
 Act II,Scene I,Cassio,"Therefore my hopes, not surfeited to death,",791
 Act II,Scene I,Cassio,Stand in bold cure.,792
+Act II,Scene I,[stage direction],"A cry within 'A sail, a sail, a sail!'",NA
+Act II,Scene I,[stage direction],Enter a fourth Gentleman,NA
 Act II,Scene I,Cassio,What noise?,793
 Act II,Scene I,Fourth Gentleman,The town is empty; on the brow o' the sea,794
 Act II,Scene I,Fourth Gentleman,"Stand ranks of people, and they cry 'A sail!'",795
 Act II,Scene I,Cassio,My hopes do shape him for the governor.,796
+Act II,Scene I,[stage direction],Guns heard,NA
 Act II,Scene I,Second Gentlemen,They do discharge their shot of courtesy:,797
 Act II,Scene I,Second Gentlemen,Our friends at least.,798
 Act II,Scene I,Cassio,"I pray you, sir, go forth,",799
 Act II,Scene I,Cassio,And give us truth who 'tis that is arrived.,800
 Act II,Scene I,Second Gentleman,I shall.,801
+Act II,Scene I,[stage direction],Exit,NA
 Act II,Scene I,Montano,"But, good lieutenant, is your general wived?",802
 Act II,Scene I,Cassio,Most fortunately: he hath achieved a maid,803
 Act II,Scene I,Cassio,That paragons description and wild fame;,804
 Act II,Scene I,Cassio,"One that excels the quirks of blazoning pens,",805
 Act II,Scene I,Cassio,And in the essential vesture of creation,806
 Act II,Scene I,Cassio,Does tire the ingener.,807
+Act II,Scene I,[stage direction],Re-enter second Gentleman,NA
 Act II,Scene I,Cassio,How now! who has put in?,808
 Act II,Scene I,Second Gentleman,"'Tis one Iago, ancient to the general.",809
 Act II,Scene I,Cassio,Has had most favourable and happy speed:,810
@@ -825,6 +858,7 @@ Act II,Scene I,Cassio,"That he may bless this bay with his tall ship,",823
 Act II,Scene I,Cassio,"Make love's quick pants in Desdemona's arms,",824
 Act II,Scene I,Cassio,Give renew'd fire to our extincted spirits,825
 Act II,Scene I,Cassio,And bring all Cyprus comfort!,826
+Act II,Scene I,[stage direction],"Enter DESDEMONA, EMILIA, IAGO, RODERIGO, and Attendants",NA
 Act II,Scene I,Cassio,"O, behold,",827
 Act II,Scene I,Cassio,The riches of the ship is come on shore!,828
 Act II,Scene I,Cassio,"Ye men of Cyprus, let her have your knees.",829
@@ -838,14 +872,18 @@ Act II,Scene I,Cassio,But that he's well and will be shortly here.,836
 Act II,Scene I,Desdemona,"O, but I fear--How lost you company?",837
 Act II,Scene I,Cassio,The great contention of the sea and skies,838
 Act II,Scene I,Cassio,"Parted our fellowship--But, hark! a sail.",839
+Act II,Scene I,[stage direction],"Within 'A sail, a sail!' Guns heard",NA
 Act II,Scene I,Second Gentleman,They give their greeting to the citadel;,840
 Act II,Scene I,Second Gentleman,This likewise is a friend.,841
 Act II,Scene I,Cassio,See for the news.,842
+Act II,Scene I,[stage direction],Exit Gentleman,NA
 Act II,Scene I,Cassio,"Good ancient, you are welcome.",843
+Act II,Scene I,[stage direction],To EMILIA,NA
 Act II,Scene I,Cassio,"Welcome, mistress.",844
 Act II,Scene I,Cassio,"Let it not gall your patience, good Iago,",845
 Act II,Scene I,Cassio,That I extend my manners; 'tis my breeding,846
 Act II,Scene I,Cassio,That gives me this bold show of courtesy.,847
+Act II,Scene I,[stage direction],Kissing her,NA
 Act II,Scene I,Iago,"Sir, would she give you so much of her lips",848
 Act II,Scene I,Iago,"As of her tongue she oft bestows on me,",849
 Act II,Scene I,Iago,You'll have enough.,850
@@ -926,10 +964,12 @@ Act II,Scene I,Iago,"oft, which now again you are most apt to play the",924
 Act II,Scene I,Iago,sir in. Very good; well kissed! an excellent,925
 Act II,Scene I,Iago,"courtesy! 'tis so, indeed. Yet again your fingers",926
 Act II,Scene I,Iago,to your lips? would they were clyster-pipes for your sake!,927
+Act II,Scene I,[stage direction],Trumpet within,NA
 Act II,Scene I,Iago,The Moor! I know his trumpet.,928
 Act II,Scene I,Cassio,'Tis truly so.,929
 Act II,Scene I,Desdemona,Let's meet him and receive him.,930
 Act II,Scene I,Cassio,"Lo, where he comes!",931
+Act II,Scene I,[stage direction],Enter OTHELLO and Attendants,NA
 Act II,Scene I,Othello,O my fair warrior!,932
 Act II,Scene I,Desdemona,My dear Othello!,933
 Act II,Scene I,Othello,It gives me wonder great as my content,934
@@ -950,6 +990,7 @@ Act II,Scene I,Othello,"Amen to that, sweet powers!",948
 Act II,Scene I,Othello,I cannot speak enough of this content;,949
 Act II,Scene I,Othello,It stops me here; it is too much of joy:,950
 Act II,Scene I,Othello,"And this, and this, the greatest discords be",951
+Act II,Scene I,[stage direction],Kissing her,NA
 Act II,Scene I,Othello,That e'er our hearts shall make!,952
 Act II,Scene I,Iago,"[Aside]  O, you are well tuned now!",953
 Act II,Scene I,Iago,"But I'll set down the pegs that make this music,",954
@@ -967,6 +1008,7 @@ Act II,Scene I,Othello,Bring thou the master to the citadel;,965
 Act II,Scene I,Othello,"He is a good one, and his worthiness",966
 Act II,Scene I,Othello,"Does challenge much respect. Come, Desdemona,",967
 Act II,Scene I,Othello,"Once more, well met at Cyprus.",968
+Act II,Scene I,[stage direction],"Exeunt OTHELLO, DESDEMONA, and Attendants",NA
 Act II,Scene I,Iago,Do thou meet me presently at the harbour. Come,969
 Act II,Scene I,Iago,"hither. If thou be'st valiant,-- as, they say, base",970
 Act II,Scene I,Iago,men being in love have then a nobility in their,971
@@ -1042,6 +1084,7 @@ Act II,Scene I,Roderigo,opportunity.,1040
 Act II,Scene I,Iago,I warrant thee. Meet me by and by at the citadel:,1041
 Act II,Scene I,Iago,I must fetch his necessaries ashore. Farewell.,1042
 Act II,Scene I,Roderigo,Adieu.,1043
+Act II,Scene I,[stage direction],Exit,NA
 Act II,Scene I,Iago,"That Cassio loves her, I do well believe it;",1044
 Act II,Scene I,Iago,"That she loves him, 'tis apt and of great credit:",1045
 Act II,Scene I,Iago,"The Moor, howbeit that I endure him not,",1046
@@ -1069,6 +1112,8 @@ Act II,Scene I,Iago,For making him egregiously an ass,1067
 Act II,Scene I,Iago,And practising upon his peace and quiet,1068
 Act II,Scene I,Iago,"Even to madness. 'Tis here, but yet confused:",1069
 Act II,Scene I,Iago,Knavery's plain face is never seen tin used.,1070
+Act II,Scene I,[stage direction],Exit,NA
+Act II,Scene II,[stage direction],Enter a Herald with a proclamation; People following,NA
 Act II,Scene II,Herald,"It is Othello's pleasure, our noble and valiant",1071
 Act II,Scene II,Herald,"general, that, upon certain tidings now arrived,",1072
 Act II,Scene II,Herald,"importing the mere perdition of the Turkish fleet,",1073
@@ -1081,6 +1126,8 @@ Act II,Scene II,Herald,"proclaimed. All offices are open, and there is full",107
 Act II,Scene II,Herald,liberty of feasting from this present hour of five,1080
 Act II,Scene II,Herald,till the bell have told eleven. Heaven bless the,1081
 Act II,Scene II,Herald,isle of Cyprus and our noble general Othello!,1082
+Act II,Scene II,[stage direction],Exeunt,NA
+Act II,Scene III,[stage direction],"Enter OTHELLO, DESDEMONA, CASSIO, and Attendants",NA
 Act II,Scene III,Othello,"Good Michael, look you to the guard to-night:",1083
 Act II,Scene III,Othello,"Let's teach ourselves that honourable stop,",1084
 Act II,Scene III,Othello,Not to outsport discretion.,1085
@@ -1090,10 +1137,13 @@ Act II,Scene III,Cassio,Will I look to't.,1088
 Act II,Scene III,Othello,Iago is most honest.,1089
 Act II,Scene III,Othello,"Michael, good night: to-morrow with your earliest",1090
 Act II,Scene III,Othello,Let me have speech with you.,1091
+Act II,Scene III,[stage direction],To DESDEMONA,NA
 Act II,Scene III,Othello,"Come, my dear love,",1092
 Act II,Scene III,Othello,"The purchase made, the fruits are to ensue;",1093
 Act II,Scene III,Othello,That profit's yet to come 'tween me and you.,1094
 Act II,Scene III,Othello,Good night.,1095
+Act II,Scene III,[stage direction],"Exeunt OTHELLO, DESDEMONA, and Attendants",NA
+Act II,Scene III,[stage direction],Enter IAGO,NA
 Act II,Scene III,Cassio,"Welcome, Iago; we must to the watch.",1096
 Act II,Scene III,Iago,"Not this hour, lieutenant; 'tis not yet ten o' the",1097
 Act II,Scene III,Iago,clock. Our general cast us thus early for the love,1098
@@ -1127,6 +1177,7 @@ Act II,Scene III,Iago,desire it.,1125
 Act II,Scene III,Cassio,Where are they?,1126
 Act II,Scene III,Iago,"Here at the door; I pray you, call them in.",1127
 Act II,Scene III,Cassio,I'll do't; but it dislikes me.,1128
+Act II,Scene III,[stage direction],Exit,NA
 Act II,Scene III,Iago,"If I can fasten but one cup upon him,",1129
 Act II,Scene III,Iago,"With that which he hath drunk to-night already,",1130
 Act II,Scene III,Iago,He'll be as full of quarrel and offence,1131
@@ -1143,10 +1194,12 @@ Act II,Scene III,Iago,Am I to put our Cassio in some action,1141
 Act II,Scene III,Iago,That may offend the isle.--But here they come:,1142
 Act II,Scene III,Iago,"If consequence do but approve my dream,",1143
 Act II,Scene III,Iago,"My boat sails freely, both with wind and stream.",1144
+Act II,Scene III,[stage direction],Re-enter CASSIO; with him MONTANO and Gentlemen; servants following with wine,NA
 Act II,Scene III,Cassio,"'Fore God, they have given me a rouse already.",1145
 Act II,Scene III,Montano,"Good faith, a little one; not past a pint, as I am",1146
 Act II,Scene III,Montano,a soldier.,1147
 Act II,Scene III,Iago,"Some wine, ho!",1148
+Act II,Scene III,[stage direction],Sings,NA
 Act II,Scene III,Iago,"And let me the canakin clink, clink;",1149
 Act II,Scene III,Iago,And let me the canakin clink,1150
 Act II,Scene III,Iago,A soldier's a man;,1151
@@ -1194,6 +1247,7 @@ Act II,Scene III,Cassio,"I am not drunk now; I can stand well enough, and",1192
 Act II,Scene III,Cassio,speak well enough.,1193
 Act II,Scene III,All,Excellent well.,1194
 Act II,Scene III,Cassio,"Why, very well then; you must not think then that I am drunk.",1195
+Act II,Scene III,[stage direction],Exit,NA
 Act II,Scene III,Montano,"To the platform, masters; come, let's set the watch.",1196
 Act II,Scene III,Iago,You see this fellow that is gone before;,1197
 Act II,Scene III,Iago,He is a soldier fit to stand by Caesar,1198
@@ -1212,8 +1266,10 @@ Act II,Scene III,Montano,The general were put in mind of it.,1210
 Act II,Scene III,Montano,Perhaps he sees it not; or his good nature,1211
 Act II,Scene III,Montano,"Prizes the virtue that appears in Cassio,",1212
 Act II,Scene III,Montano,And looks not on his evils: is not this true?,1213
+Act II,Scene III,[stage direction],Enter RODERIGO,NA
 Act II,Scene III,Iago,"[Aside to him]  How now, Roderigo!",1214
 Act II,Scene III,Iago,"I pray you, after the lieutenant; go.",1215
+Act II,Scene III,[stage direction],Exit RODERIGO,NA
 Act II,Scene III,Montano,And 'tis great pity that the noble Moor,1216
 Act II,Scene III,Montano,Should hazard such a place as his own second,1217
 Act II,Scene III,Montano,With one of an ingraft infirmity:,1218
@@ -1222,28 +1278,37 @@ Act II,Scene III,Montano,So to the Moor.,1220
 Act II,Scene III,Iago,"Not I, for this fair island:",1221
 Act II,Scene III,Iago,I do love Cassio well; and would do much,1222
 Act II,Scene III,Iago,"To cure him of this evil--But, hark! what noise?",1223
+Act II,Scene III,[stage direction],Cry within: 'Help! help!',NA
+Act II,Scene III,[stage direction],"Re-enter CASSIO, driving in RODERIGO",NA
 Act II,Scene III,Cassio,You rogue! you rascal!,1224
 Act II,Scene III,Montano,"What's the matter, lieutenant?",1225
 Act II,Scene III,Cassio,A knave teach me my duty!,1226
 Act II,Scene III,Cassio,I'll beat the knave into a twiggen bottle.,1227
 Act II,Scene III,Roderigo,Beat me!,1228
 Act II,Scene III,Cassio,"Dost thou prate, rogue?",1229
+Act II,Scene III,[stage direction],Striking RODERIGO,NA
 Act II,Scene III,Montano,"Nay, good lieutenant;",1230
+Act II,Scene III,[stage direction],Staying him,NA
 Act II,Scene III,Montano,"I pray you, sir, hold your hand.",1231
 Act II,Scene III,Cassio,"Let me go, sir,",1232
 Act II,Scene III,Cassio,Or I'll knock you o'er the mazzard.,1233
 Act II,Scene III,Montano,"Come, come,",1234
 Act II,Scene III,Montano,you're drunk.,1235
 Act II,Scene III,Cassio,Drunk!,1236
+Act II,Scene III,[stage direction],They fight,NA
 Act II,Scene III,Iago,"[Aside to RODERIGO]  Away, I say; go out, and cry a mutiny.",1237
+Act II,Scene III,[stage direction],Exit RODERIGO,NA
 Act II,Scene III,Iago,"Nay, good lieutenant,--alas, gentlemen;--",1238
 Act II,Scene III,Iago,"Help, ho!--Lieutenant,--sir,--Montano,--sir;",1239
 Act II,Scene III,Iago,"Help, masters!--Here's a goodly watch indeed!",1240
+Act II,Scene III,[stage direction],Bell rings,NA
 Act II,Scene III,Iago,"Who's that which rings the bell?--Diablo, ho!",1241
 Act II,Scene III,Iago,"The town will rise: God's will, lieutenant, hold!",1242
 Act II,Scene III,Iago,You will be shamed for ever.,1243
+Act II,Scene III,[stage direction],Re-enter OTHELLO and Attendants,NA
 Act II,Scene III,Othello,What is the matter here?,1244
 Act II,Scene III,Montano,"'Zounds, I bleed still; I am hurt to the death.",1245
+Act II,Scene III,[stage direction],Faints,NA
 Act II,Scene III,Othello,"Hold, for your lives!",1246
 Act II,Scene III,Iago,"Hold, ho! Lieutenant,--sir--Montano,--gentlemen,--",1247
 Act II,Scene III,Iago,Have you forgot all sense of place and duty?,1248
@@ -1333,16 +1398,19 @@ Act II,Scene III,Othello,"I know, Iago,",1331
 Act II,Scene III,Othello,"Thy honesty and love doth mince this matter,",1332
 Act II,Scene III,Othello,"Making it light to Cassio. Cassio, I love thee",1333
 Act II,Scene III,Othello,But never more be officer of mine.,1334
+Act II,Scene III,[stage direction],"Re-enter DESDEMONA, attended",NA
 Act II,Scene III,Othello,"Look, if my gentle love be not raised up!",1335
 Act II,Scene III,Othello,I'll make thee an example.,1336
 Act II,Scene III,Desdemona,What's the matter?,1337
 Act II,Scene III,Othello,"All's well now, sweeting; come away to bed.",1338
 Act II,Scene III,Othello,"Sir, for your hurts, myself will be your surgeon:",1339
 Act II,Scene III,Othello,Lead him off.,1340
+Act II,Scene III,[stage direction],"To MONTANO, who is led off",NA
 Act II,Scene III,Othello,"Iago, look with care about the town,",1341
 Act II,Scene III,Othello,And silence those whom this vile brawl distracted.,1342
 Act II,Scene III,Othello,"Come, Desdemona: 'tis the soldiers' life",1343
 Act II,Scene III,Othello,To have their balmy slumbers waked with strife.,1344
+Act II,Scene III,[stage direction],Exeunt all but IAGO and CASSIO,NA
 Act II,Scene III,Iago,"What, are you hurt, lieutenant?",1345
 Act II,Scene III,Cassio,"Ay, past all surgery.",1346
 Act II,Scene III,Iago,"Marry, heaven forbid!",1347
@@ -1417,6 +1485,7 @@ Act II,Scene III,Cassio,I am desperate of my fortunes if they cheque me here.,14
 Act II,Scene III,Iago,"You are in the right. Good night, lieutenant; I",1416
 Act II,Scene III,Iago,must to the watch.,1417
 Act II,Scene III,Iago,"CASSIO: Good night, honest Iago.",1418
+Act II,Scene III,[stage direction],Exit,NA
 Act II,Scene III,Iago,And what's he then that says I play the villain?,1419
 Act II,Scene III,Iago,"When this advice is free I give and honest,",1420
 Act II,Scene III,Iago,Probal to thinking and indeed the course,1421
@@ -1444,6 +1513,7 @@ Act II,Scene III,Iago,She shall undo her credit with the Moor.,1442
 Act II,Scene III,Iago,"So will I turn her virtue into pitch,",1443
 Act II,Scene III,Iago,And out of her own goodness make the net,1444
 Act II,Scene III,Iago,That shall enmesh them all.,1445
+Act II,Scene III,[stage direction],Re-enter RODERIGO,NA
 Act II,Scene III,Iago,"How now, Roderigo!",1446
 Act II,Scene III,Roderigo,"I do follow here in the chase, not like a hound that",1447
 Act II,Scene III,Roderigo,"hunts, but one that fills up the cry. My money is",1448
@@ -1464,6 +1534,7 @@ Act II,Scene III,Iago,Pleasure and action make the hours seem short.,1462
 Act II,Scene III,Iago,Retire thee; go where thou art billeted:,1463
 Act II,Scene III,Iago,"Away, I say; thou shalt know more hereafter:",1464
 Act II,Scene III,Iago,"Nay, get thee gone.",1465
+Act II,Scene III,[stage direction],Exit RODERIGO,NA
 Act II,Scene III,Iago,Two things are to be done:,1466
 Act II,Scene III,Iago,My wife must move for Cassio to her mistress;,1467
 Act II,Scene III,Iago,I'll set her on;,1468
@@ -1471,8 +1542,12 @@ Act II,Scene III,Iago,"Myself the while to draw the Moor apart,",1469
 Act II,Scene III,Iago,And bring him jump when he may Cassio find,1470
 Act II,Scene III,Iago,"Soliciting his wife: ay, that's the way",1471
 Act II,Scene III,Iago,Dull not device by coldness and delay.,1472
+Act II,Scene III,[stage direction],Exit,NA
+Act III,Scene I,[stage direction],Enter CASSIO and some Musicians,NA
 Act III,Scene I,Cassio,"Masters, play here; I will content your pains;",1473
 Act III,Scene I,Cassio,"Something that's brief; and bid 'Good morrow, general.'",1474
+Act III,Scene I,[stage direction],Music,NA
+Act III,Scene I,[stage direction],Enter Clown,NA
 Act III,Scene I,Clown,"Why masters, have your instruments been in Naples,",1475
 Act III,Scene I,Clown,that they speak i' the nose thus?,1476
 Act III,Scene I,First Musician,"How, sir, how!",1477
@@ -1491,6 +1566,7 @@ Act III,Scene I,Clown,does not greatly care.,1489
 Act III,Scene I,First Musician,"We have none such, sir.",1490
 Act III,Scene I,Clown,"Then put up your pipes in your bag, for I'll away:",1491
 Act III,Scene I,Clown,go; vanish into air; away!,1492
+Act III,Scene I,[stage direction],Exeunt Musicians,NA
 Act III,Scene I,Cassio,"Dost thou hear, my honest friend?",1493
 Act III,Scene I,Clown,"No, I hear not your honest friend; I hear you.",1494
 Act III,Scene I,Cassio,"Prithee, keep up thy quillets. There's a poor piece",1495
@@ -1501,6 +1577,8 @@ Act III,Scene I,Cassio,wilt thou do this?,1499
 Act III,Scene I,Clown,"She is stirring, sir: if she will stir hither, I",1500
 Act III,Scene I,Clown,shall seem to notify unto her.,1501
 Act III,Scene I,Cassio,"Do, good my friend.",1502
+Act III,Scene I,[stage direction],Exit Clown,NA
+Act III,Scene I,[stage direction],Enter IAGO,NA
 Act III,Scene I,Cassio,"In happy time, Iago.",1503
 Act III,Scene I,Iago,"You have not been a-bed, then?",1504
 Act III,Scene I,Cassio,"Why, no; the day had broke",1505
@@ -1513,8 +1591,10 @@ Act III,Scene I,Iago,And I'll devise a mean to draw the Moor,1511
 Act III,Scene I,Iago,"Out of the way, that your converse and business",1512
 Act III,Scene I,Iago,May be more free.,1513
 Act III,Scene I,Cassio,I humbly thank you for't.,1514
+Act III,Scene I,[stage direction],Exit IAGO,NA
 Act III,Scene I,Cassio,I never knew,1515
 Act III,Scene I,Cassio,A Florentine more kind and honest.,1516
+Act III,Scene I,[stage direction],Enter EMILIA,NA
 Act III,Scene I,Emilia,"Good morrow, good Lieutenant: I am sorry",1517
 Act III,Scene I,Emilia,For your displeasure; but all will sure be well.,1518
 Act III,Scene I,Emilia,The general and his wife are talking of it;,1519
@@ -1533,6 +1613,8 @@ Act III,Scene I,Emilia,"Pray you, come in;",1531
 Act III,Scene I,Emilia,I will bestow you where you shall have time,1532
 Act III,Scene I,Emilia,To speak your bosom freely.,1533
 Act III,Scene I,Cassio,I am much bound to you.,1534
+Act III,Scene I,[stage direction],Exeunt,NA
+Act III,Scene II,[stage direction],"Enter OTHELLO, IAGO, and Gentlemen",NA
 Act III,Scene II,Othello,"These letters give, Iago, to the pilot;",1535
 Act III,Scene II,Othello,And by him do my duties to the senate:,1536
 Act III,Scene II,Othello,"That done, I will be walking on the works;",1537
@@ -1540,6 +1622,8 @@ Act III,Scene II,Othello,Repair there to me.,1538
 Act III,Scene II,Iago,"Well, my good lord, I'll do't.",1539
 Act III,Scene II,Othello,"This fortification, gentlemen, shall we see't?",1540
 Act III,Scene II,Gentleman,We'll wait upon your lordship.,1541
+Act III,Scene II,[stage direction],Exeunt,NA
+Act III,Scene III,[stage direction],"Enter DESDEMONA, CASSIO, and EMILIA",NA
 Act III,Scene III,Desdemona,"Be thou assured, good Cassio, I will do",1542
 Act III,Scene III,Desdemona,All my abilities in thy behalf.,1543
 Act III,Scene III,Emilia,"Good madam, do: I warrant it grieves my husband,",1544
@@ -1576,6 +1660,8 @@ Act III,Scene III,Desdemona,"Why, stay, and hear me speak.",1574
 Act III,Scene III,Cassio,"Madam, not now: I am very ill at ease,",1575
 Act III,Scene III,Cassio,Unfit for mine own purposes.,1576
 Act III,Scene III,Desdemona,"Well, do your discretion.",1577
+Act III,Scene III,[stage direction],Exit CASSIO,NA
+Act III,Scene III,[stage direction],Enter OTHELLO and IAGO,NA
 Act III,Scene III,Iago,Ha! I like not that.,1578
 Act III,Scene III,Othello,What dost thou say?,1579
 Act III,Scene III,Iago,"Nothing, my lord: or if--I know not what.",1580
@@ -1639,6 +1725,7 @@ Act III,Scene III,Desdemona,"Shall I deny you? no: farewell, my lord.",1637
 Act III,Scene III,Othello,"Farewell, my Desdemona: I'll come to thee straight.",1638
 Act III,Scene III,Desdemona,"Emilia, come. Be as your fancies teach you;",1639
 Act III,Scene III,Desdemona,"Whate'er you be, I am obedient.",1640
+Act III,Scene III,[stage direction],Exeunt DESDEMONA and EMILIA,NA
 Act III,Scene III,Othello,"Excellent wretch! Perdition catch my soul,",1641
 Act III,Scene III,Othello,"But I do love thee! and when I love thee not,",1642
 Act III,Scene III,Othello,Chaos is come again.,1643
@@ -1829,6 +1916,7 @@ Act III,Scene III,Iago,As worthy cause I have to fear I am--,1827
 Act III,Scene III,Iago,"And hold her free, I do beseech your honour.",1828
 Act III,Scene III,Othello,Fear not my government.,1829
 Act III,Scene III,Iago,I once more take my leave.,1830
+Act III,Scene III,[stage direction],Exit,NA
 Act III,Scene III,Othello,"This fellow's of exceeding honesty,",1831
 Act III,Scene III,Othello,"And knows all qualities, with a learned spirit,",1832
 Act III,Scene III,Othello,"Of human dealings. If I do prove her haggard,",1833
@@ -1849,6 +1937,7 @@ Act III,Scene III,Othello,Prerogatived are they less than the base;,1847
 Act III,Scene III,Othello,"'Tis destiny unshunnable, like death:",1848
 Act III,Scene III,Othello,Even then this forked plague is fated to us,1849
 Act III,Scene III,Othello,When we do quicken. Desdemona comes:,1850
+Act III,Scene III,[stage direction],Re-enter DESDEMONA and EMILIA,NA
 Act III,Scene III,Othello,"If she be false, O, then heaven mocks itself!",1851
 Act III,Scene III,Othello,I'll not believe't.,1852
 Act III,Scene III,Desdemona,"How now, my dear Othello!",1853
@@ -1862,8 +1951,10 @@ Act III,Scene III,Desdemona,"'Faith, that's with watching; 'twill away again:",1
 Act III,Scene III,Desdemona,"Let me but bind it hard, within this hour",1861
 Act III,Scene III,Desdemona,It will be well.,1862
 Act III,Scene III,Othello,Your napkin is too little:,1863
+Act III,Scene III,[stage direction],He puts the handkerchief from him; and it drops,NA
 Act III,Scene III,Othello,"Let it alone. Come, I'll go in with you.",1864
 Act III,Scene III,Desdemona,I am very sorry that you are not well.,1865
+Act III,Scene III,[stage direction],Exeunt OTHELLO and DESDEMONA,NA
 Act III,Scene III,Emilia,I am glad I have found this napkin:,1866
 Act III,Scene III,Emilia,This was her first remembrance from the Moor:,1867
 Act III,Scene III,Emilia,My wayward husband hath a hundred times,1868
@@ -1874,6 +1965,7 @@ Act III,Scene III,Emilia,"To kiss and talk to. I'll have the work ta'en out,",18
 Act III,Scene III,Emilia,And give't Iago: what he will do with it,1873
 Act III,Scene III,Emilia,"Heaven knows, not I;",1874
 Act III,Scene III,Emilia,I nothing but to please his fantasy.,1875
+Act III,Scene III,[stage direction],Re-enter Iago,NA
 Act III,Scene III,Iago,How now! what do you here alone?,1876
 Act III,Scene III,Emilia,Do not you chide; I have a thing for you.,1877
 Act III,Scene III,Iago,A thing for me? it is a common thing--,1878
@@ -1899,6 +1991,7 @@ Act III,Scene III,Emilia,"Give't me again: poor lady, she'll run mad",1897
 Act III,Scene III,Emilia,When she shall lack it.,1898
 Act III,Scene III,Iago,Be not acknown on 't; I have use for it.,1899
 Act III,Scene III,Iago,"Go, leave me.",1900
+Act III,Scene III,[stage direction],Exit EMILIA,NA
 Act III,Scene III,Iago,"I will in Cassio's lodging lose this napkin,",1901
 Act III,Scene III,Iago,And let him find it. Trifles light as air,1902
 Act III,Scene III,Iago,Are to the jealous confirmations strong,1903
@@ -1909,6 +2002,7 @@ Act III,Scene III,Iago,"Which at the first are scarce found to distaste,",1907
 Act III,Scene III,Iago,But with a little act upon the blood.,1908
 Act III,Scene III,Iago,Burn like the mines of Sulphur. I did say so:,1909
 Act III,Scene III,Iago,"Look, where he comes!",1910
+Act III,Scene III,[stage direction],Re-enter OTHELLO,NA
 Act III,Scene III,Iago,"Not poppy, nor mandragora,",1911
 Act III,Scene III,Iago,"Nor all the drowsy syrups of the world,",1912
 Act III,Scene III,Iago,Shall ever medicine thee to that sweet sleep,1913
@@ -2051,9 +2145,11 @@ Act III,Scene III,Othello,"Even so my bloody thoughts, with violent pace,",2049
 Act III,Scene III,Othello,"Shall ne'er look back, ne'er ebb to humble love,",2050
 Act III,Scene III,Othello,Till that a capable and wide revenge,2051
 Act III,Scene III,Othello,"Swallow them up. Now, by yond marble heaven,",2052
+Act III,Scene III,[stage direction],Kneels,NA
 Act III,Scene III,Othello,In the due reverence of a sacred vow,2053
 Act III,Scene III,Othello,I here engage my words.,2054
 Act III,Scene III,Iago,Do not rise yet.,2055
+Act III,Scene III,[stage direction],Kneels,NA
 Act III,Scene III,Iago,"Witness, you ever-burning lights above,",2056
 Act III,Scene III,Iago,"You elements that clip us round about,",2057
 Act III,Scene III,Iago,Witness that here Iago doth give up,2058
@@ -2061,6 +2157,7 @@ Act III,Scene III,Iago,"The execution of his wit, hands, heart,",2059
 Act III,Scene III,Iago,"To wrong'd Othello's service! Let him command,",2060
 Act III,Scene III,Iago,"And to obey shall be in me remorse,",2061
 Act III,Scene III,Iago,What bloody business ever.,2062
+Act III,Scene III,[stage direction],They rise,NA
 Act III,Scene III,Othello,"I greet thy love,",2063
 Act III,Scene III,Othello,"Not with vain thanks, but with acceptance bounteous,",2064
 Act III,Scene III,Othello,And will upon the instant put thee to't:,2065
@@ -2073,6 +2170,8 @@ Act III,Scene III,Othello,"Come, go with me apart; I will withdraw,",2071
 Act III,Scene III,Othello,To furnish me with some swift means of death,2072
 Act III,Scene III,Othello,For the fair devil. Now art thou my lieutenant.,2073
 Act III,Scene III,Iago,I am your own for ever.,2074
+Act III,Scene III,[stage direction],Exeunt,NA
+Act III,Scene IV,[stage direction],"Enter DESDEMONA, EMILIA, and Clown",NA
 Act III,Scene IV,Desdemona,"Do you know, sirrah, where Lieutenant Cassio lies?",2075
 Act III,Scene IV,Clown,I dare not say he lies any where.,2076
 Act III,Scene IV,Desdemona,"Why, man?",2077
@@ -2091,6 +2190,7 @@ Act III,Scene IV,Desdemona,"Seek him, bid him come hither: tell him I have",2089
 Act III,Scene IV,Desdemona,"moved my lord on his behalf, and hope all will be well.",2090
 Act III,Scene IV,Clown,To do this is within the compass of man's wit: and,2091
 Act III,Scene IV,Clown,therefore I will attempt the doing it.,2092
+Act III,Scene IV,[stage direction],Exit,NA
 Act III,Scene IV,Desdemona,"Where should I lose that handkerchief, Emilia?",2093
 Act III,Scene IV,Emilia,"I know not, madam.",2094
 Act III,Scene IV,Desdemona,"Believe me, I had rather have lost my purse",2095
@@ -2104,8 +2204,10 @@ Act III,Scene IV,Desdemona,Drew all such humours from him.,2102
 Act III,Scene IV,Emilia,"Look, where he comes.",2103
 Act III,Scene IV,Desdemona,I will not leave him now till Cassio,2104
 Act III,Scene IV,Desdemona,Be call'd to him.,2105
+Act III,Scene IV,[stage direction],Enter OTHELLO,NA
 Act III,Scene IV,Desdemona,"How is't with you, my lord",2106
 Act III,Scene IV,Othello,"Well, my good lady.",2107
+Act III,Scene IV,[stage direction],Aside,NA
 Act III,Scene IV,Othello,"O, hardness to dissemble!--",2108
 Act III,Scene IV,Othello,"How do you, Desdemona?",2109
 Act III,Scene IV,Desdemona,"Well, my good lord.",2110
@@ -2184,6 +2286,7 @@ Act III,Scene IV,Desdemona,"Shared dangers with you,--",2182
 Act III,Scene IV,Othello,The handkerchief!,2183
 Act III,Scene IV,Desdemona,"In sooth, you are to blame.",2184
 Act III,Scene IV,Othello,Away!,2185
+Act III,Scene IV,[stage direction],Exit,NA
 Act III,Scene IV,Emilia,Is not this man jealous?,2186
 Act III,Scene IV,Desdemona,I ne'er saw this before.,2187
 Act III,Scene IV,Desdemona,"Sure, there's some wonder in this handkerchief:",2188
@@ -2192,6 +2295,7 @@ Act III,Scene IV,Emilia,'Tis not a year or two shows us a man:,2190
 Act III,Scene IV,Emilia,"They are all but stomachs, and we all but food;",2191
 Act III,Scene IV,Emilia,"To eat us hungerly, and when they are full,",2192
 Act III,Scene IV,Emilia,"They belch us. Look you, Cassio and my husband!",2193
+Act III,Scene IV,[stage direction],Enter CASSIO and IAGO,NA
 Act III,Scene IV,Iago,There is no other way; 'tis she must do't:,2194
 Act III,Scene IV,Iago,"And, lo, the happiness! go, and importune her.",2195
 Act III,Scene IV,Desdemona,"How now, good Cassio! what's the news with you?",2196
@@ -2228,6 +2332,7 @@ Act III,Scene IV,Iago,Puff'd his own brother:--and can he be angry?,2226
 Act III,Scene IV,Iago,Something of moment then: I will go meet him:,2227
 Act III,Scene IV,Iago,"There's matter in't indeed, if he be angry.",2228
 Act III,Scene IV,Desdemona,"I prithee, do so.",2229
+Act III,Scene IV,[stage direction],Exit IAGO,NA
 Act III,Scene IV,Desdemona,"Something, sure, of state,",2230
 Act III,Scene IV,Desdemona,"Either from Venice, or some unhatch'd practise",2231
 Act III,Scene IV,Desdemona,"Made demonstrable here in Cyprus to him,",2232
@@ -2257,6 +2362,8 @@ Act III,Scene IV,Desdemona,"I will go seek him. Cassio, walk hereabout:",2255
 Act III,Scene IV,Desdemona,"If I do find him fit, I'll move your suit",2256
 Act III,Scene IV,Desdemona,And seek to effect it to my uttermost.,2257
 Act III,Scene IV,Cassio,I humbly thank your ladyship.,2258
+Act III,Scene IV,[stage direction],Exeunt DESDEMONA and EMILIA,NA
+Act III,Scene IV,[stage direction],Enter BIANCA,NA
 Act III,Scene IV,Bianca,"Save you, friend Cassio!",2259
 Act III,Scene IV,Cassio,What make you from home?,2260
 Act III,Scene IV,Cassio,"How is it with you, my most fair Bianca?",2261
@@ -2270,6 +2377,7 @@ Act III,Scene IV,Cassio,"Pardon me, Bianca:",2268
 Act III,Scene IV,Cassio,I have this while with leaden thoughts been press'd:,2269
 Act III,Scene IV,Cassio,"But I shall, in a more continuate time,",2270
 Act III,Scene IV,Cassio,"Strike off this score of absence. Sweet Bianca,",2271
+Act III,Scene IV,[stage direction],Giving her DESDEMONA's handkerchief,NA
 Act III,Scene IV,Cassio,Take me this work out.,2272
 Act III,Scene IV,Bianca,"O Cassio, whence came this?",2273
 Act III,Scene IV,Bianca,This is some token from a newer friend:,2274
@@ -2297,6 +2405,8 @@ Act III,Scene IV,Bianca,And say if I shall see you soon at night.,2295
 Act III,Scene IV,Cassio,'Tis but a little way that I can bring you;,2296
 Act III,Scene IV,Cassio,For I attend here: but I'll see you soon.,2297
 Act III,Scene IV,Bianca,'Tis very good; I must be circumstanced.,2298
+Act III,Scene IV,[stage direction],Exeunt,NA
+Act IV,Scene I,[stage direction],Enter OTHELLO and IAGO,NA
 Act IV,Scene I,Iago,Will you think so?,2299
 Act IV,Scene I,Othello,"Think so, Iago!",2300
 Act IV,Scene I,Iago,"What,",2301
@@ -2349,11 +2459,13 @@ Act IV,Scene I,Othello,Nature would not invest herself in such shadowing,2347
 Act IV,Scene I,Othello,passion without some instruction. It is not words,2348
 Act IV,Scene I,Othello,"that shake me thus. Pish! Noses, ears, and lips.",2349
 Act IV,Scene I,Othello,--Is't possible?--Confess--handkerchief!--O devil!--,2350
+Act IV,Scene I,[stage direction],Falls in a trance,NA
 Act IV,Scene I,Iago,"Work on,",2351
 Act IV,Scene I,Iago,"My medicine, work! Thus credulous fools are caught;",2352
 Act IV,Scene I,Iago,"And many worthy and chaste dames even thus,",2353
 Act IV,Scene I,Iago,"All guiltless, meet reproach. What, ho! my lord!",2354
 Act IV,Scene I,Iago,"My lord, I say! Othello!",2355
+Act IV,Scene I,[stage direction],Enter CASSIO,NA
 Act IV,Scene I,Iago,"How now, Cassio!",2356
 Act IV,Scene I,Cassio,What's the matter?,2357
 Act IV,Scene I,Iago,My lord is fall'n into an epilepsy:,2358
@@ -2366,6 +2478,7 @@ Act IV,Scene I,Iago,Breaks out to savage madness. Look he stirs:,2364
 Act IV,Scene I,Iago,"Do you withdraw yourself a little while,",2365
 Act IV,Scene I,Iago,"He will recover straight: when he is gone,",2366
 Act IV,Scene I,Iago,I would on great occasion speak with you.,2367
+Act IV,Scene I,[stage direction],Exit CASSIO,NA
 Act IV,Scene I,Iago,"How is it, general? have you not hurt your head?",2368
 Act IV,Scene I,Othello,Dost thou mock me?,2369
 Act IV,Scene I,Iago,"I mock you! no, by heaven.",2370
@@ -2405,6 +2518,7 @@ Act IV,Scene I,Othello,I will be found most cunning in my patience;,2403
 Act IV,Scene I,Othello,But--dost thou hear?--most bloody.,2404
 Act IV,Scene I,Iago,That's not amiss;,2405
 Act IV,Scene I,Iago,But yet keep time in all. Will you withdraw?,2406
+Act IV,Scene I,[stage direction],OTHELLO retires,NA
 Act IV,Scene I,Iago,"Now will I question Cassio of Bianca,",2407
 Act IV,Scene I,Iago,A housewife that by selling her desires,2408
 Act IV,Scene I,Iago,Buys herself bread and clothes: it is a creature,2409
@@ -2412,6 +2526,7 @@ Act IV,Scene I,Iago,That dotes on Cassio; as 'tis the strumpet's plague,2410
 Act IV,Scene I,Iago,To beguile many and be beguiled by one:,2411
 Act IV,Scene I,Iago,"He, when he hears of her, cannot refrain",2412
 Act IV,Scene I,Iago,From the excess of laughter. Here he comes:,2413
+Act IV,Scene I,[stage direction],Re-enter CASSIO,NA
 Act IV,Scene I,Iago,"As he shall smile, Othello shall go mad;",2414
 Act IV,Scene I,Iago,And his unbookish jealousy must construe,2415
 Act IV,Scene I,Iago,"Poor Cassio's smiles, gestures and light behavior,",2416
@@ -2419,6 +2534,7 @@ Act IV,Scene I,Iago,"Quite in the wrong. How do you now, lieutenant?",2417
 Act IV,Scene I,Cassio,The worser that you give me the addition,2418
 Act IV,Scene I,Cassio,Whose want even kills me.,2419
 Act IV,Scene I,Iago,"Ply Desdemona well, and you are sure on't.",2420
+Act IV,Scene I,[stage direction],Speaking lower,NA
 Act IV,Scene I,Iago,"Now, if this suit lay in Bianco's power,",2421
 Act IV,Scene I,Iago,How quickly should you speed!,2422
 Act IV,Scene I,Cassio,"Alas, poor caitiff!",2423
@@ -2459,6 +2575,7 @@ Act IV,Scene I,Othello,throw it to.,2457
 Act IV,Scene I,Cassio,"Well, I must leave her company.",2458
 Act IV,Scene I,Iago,"Before me! look, where she comes.",2459
 Act IV,Scene I,Cassio,'Tis such another fitchew! marry a perfumed one.,2460
+Act IV,Scene I,[stage direction],Enter BIANCA,NA
 Act IV,Scene I,Cassio,What do you mean by this haunting of me?,2461
 Act IV,Scene I,Bianca,Let the devil and his dam haunt you! What did you,2462
 Act IV,Scene I,Bianca,mean by that same handkerchief you gave me even now?,2463
@@ -2472,6 +2589,7 @@ Act IV,Scene I,Cassio,"How now, my sweet Bianca! how now! how now!",2470
 Act IV,Scene I,Othello,"By heaven, that should be my handkerchief!",2471
 Act IV,Scene I,Bianca,"An you'll come to supper to-night, you may; an you",2472
 Act IV,Scene I,Bianca,"will not, come when you are next prepared for.",2473
+Act IV,Scene I,[stage direction],Exit,NA
 Act IV,Scene I,Iago,"After her, after her.",2474
 Act IV,Scene I,Cassio,"'Faith, I must; she'll rail in the street else.",2475
 Act IV,Scene I,Iago,Will you sup there?,2476
@@ -2480,6 +2598,7 @@ Act IV,Scene I,Iago,"Well, I may chance to see you; for I would very fain",2478
 Act IV,Scene I,Iago,speak with you.,2479
 Act IV,Scene I,Cassio,"Prithee, come; will you?",2480
 Act IV,Scene I,Iago,Go to; say no more.,2481
+Act IV,Scene I,[stage direction],Exit CASSIO,NA
 Act IV,Scene I,Othello,"[Advancing]  How shall I murder him, Iago?",2482
 Act IV,Scene I,Iago,Did you perceive how he laughed at his vice?,2483
 Act IV,Scene I,Othello,O Iago!,2484
@@ -2523,13 +2642,17 @@ Act IV,Scene I,Othello,"Good, good: the justice of it pleases: very good.",2521
 Act IV,Scene I,Iago,"And for Cassio, let me be his undertaker: you",2522
 Act IV,Scene I,Iago,shall hear more by midnight.,2523
 Act IV,Scene I,Othello,Excellent good.,2524
+Act IV,Scene I,[stage direction],A trumpet within,NA
 Act IV,Scene I,Othello,What trumpet is that same?,2525
 Act IV,Scene I,Iago,"Something from Venice, sure. 'Tis Lodovico",2526
 Act IV,Scene I,Iago,"Come from the duke: and, see, your wife is with him.",2527
+Act IV,Scene I,[stage direction],"Enter LODOVICO, DESDEMONA, and Attendants",NA
 Act IV,Scene I,Lodovico,"Save you, worthy general!",2528
 Act IV,Scene I,Othello,"With all my heart, sir.",2529
 Act IV,Scene I,Lodovico,The duke and senators of Venice greet you.,2530
+Act IV,Scene I,[stage direction],Gives him a letter,NA
 Act IV,Scene I,Othello,I kiss the instrument of their pleasures.,2531
+Act IV,Scene I,[stage direction],"Opens the letter, and reads",NA
 Act IV,Scene I,Desdemona,"And what's the news, good cousin Lodovico?",2532
 Act IV,Scene I,Iago,"I am very glad to see you, signior",2533
 Act IV,Scene I,Iago,Welcome to Cyprus.,2534
@@ -2566,6 +2689,7 @@ Act IV,Scene I,Othello,"If that the earth could teem with woman's tears,",2564
 Act IV,Scene I,Othello,Each drop she falls would prove a crocodile.,2565
 Act IV,Scene I,Othello,Out of my sight!,2566
 Act IV,Scene I,Desdemona,I will not stay to offend you.,2567
+Act IV,Scene I,[stage direction],Going,NA
 Act IV,Scene I,Lodovico,"Truly, an obedient lady:",2568
 Act IV,Scene I,Lodovico,"I do beseech your lordship, call her back.",2569
 Act IV,Scene I,Othello,Mistress!,2570
@@ -2581,9 +2705,11 @@ Act IV,Scene I,Othello,"Concerning this, sir,--O  well-painted passion!--",2579
 Act IV,Scene I,Othello,I am commanded home. Get you away;,2580
 Act IV,Scene I,Othello,"I'll send for you anon. Sir, I obey the mandate,",2581
 Act IV,Scene I,Othello,"And will return to Venice. Hence, avaunt!",2582
+Act IV,Scene I,[stage direction],Exit DESDEMONA,NA
 Act IV,Scene I,Othello,"Cassio shall have my place. And, sir, tonight,",2583
 Act IV,Scene I,Othello,I do entreat that we may sup together:,2584
 Act IV,Scene I,Othello,"You are welcome, sir, to Cyprus.--Goats and monkeys!",2585
+Act IV,Scene I,[stage direction],Exit,NA
 Act IV,Scene I,Lodovico,Is this the noble Moor whom our full senate,2586
 Act IV,Scene I,Lodovico,Call all in all sufficient? Is this the nature,2587
 Act IV,Scene I,Lodovico,Whom passion could not shake? whose solid virtue,2588
@@ -2607,6 +2733,8 @@ Act IV,Scene I,Iago,And his own courses will denote him so,2605
 Act IV,Scene I,Iago,"That I may save my speech: do but go after,",2606
 Act IV,Scene I,Iago,And mark how he continues.,2607
 Act IV,Scene I,Lodovico,I am sorry that I am deceived in him.,2608
+Act IV,Scene I,[stage direction],Exeunt,NA
+Act IV,Scene II,[stage direction],Enter OTHELLO and EMILIA,NA
 Act IV,Scene II,Othello,You have seen nothing then?,2609
 Act IV,Scene II,Emilia,"Nor ever heard, nor ever did suspect.",2610
 Act IV,Scene II,Othello,"Yes, you have seen Cassio and she together.",2611
@@ -2628,10 +2756,12 @@ Act IV,Scene II,Emilia,"For, if she be not honest, chaste, and true,",2626
 Act IV,Scene II,Emilia,There's no man happy; the purest of their wives,2627
 Act IV,Scene II,Emilia,Is foul as slander.,2628
 Act IV,Scene II,Othello,Bid her come hither: go.,2629
+Act IV,Scene II,[stage direction],Exit EMILIA,NA
 Act IV,Scene II,Othello,She says enough; yet she's a simple bawd,2630
 Act IV,Scene II,Othello,"That cannot say as much. This is a subtle whore,",2631
 Act IV,Scene II,Othello,A closet lock and key of villanous secrets,2632
 Act IV,Scene II,Othello,And yet she'll kneel and pray; I have seen her do't.,2633
+Act IV,Scene II,[stage direction],Enter DESDEMONA with EMILIA,NA
 Act IV,Scene II,Desdemona,"My lord, what is your will?",2634
 Act IV,Scene II,Othello,"Pray, chuck, come hither.",2635
 Act IV,Scene II,Desdemona,What is your pleasure?,2636
@@ -2642,6 +2772,7 @@ Act IV,Scene II,Othello,"[To EMILIA]  Some of your function, mistress;",2640
 Act IV,Scene II,Othello,Leave procreants alone and shut the door;,2641
 Act IV,Scene II,Othello,"Cough, or cry 'hem,' if any body come:",2642
 Act IV,Scene II,Othello,"Your mystery, your mystery: nay, dispatch.",2643
+Act IV,Scene II,[stage direction],Exit EMILIA,NA
 Act IV,Scene II,Desdemona,"Upon my knees, what doth your speech import?",2644
 Act IV,Scene II,Desdemona,I understand a fury in your words.,2645
 Act IV,Scene II,Desdemona,But not the words.,2646
@@ -2711,12 +2842,15 @@ Act IV,Scene II,Desdemona,"O, heaven forgive us!",2709
 Act IV,Scene II,Othello,"I cry you mercy, then:",2710
 Act IV,Scene II,Othello,I took you for that cunning whore of Venice,2711
 Act IV,Scene II,Othello,That married with Othello.,2712
+Act IV,Scene II,[stage direction],Raising his voice,NA
 Act IV,Scene II,Othello,"You, mistress,",2713
 Act IV,Scene II,Othello,"That have the office opposite to Saint Peter,",2714
 Act IV,Scene II,Othello,And keep the gate of hell!,2715
+Act IV,Scene II,[stage direction],Re-enter EMILIA,NA
 Act IV,Scene II,Othello,"You, you, ay, you!",2716
 Act IV,Scene II,Othello,We have done our course; there's money for your pains:,2717
 Act IV,Scene II,Othello,"I pray you, turn the key and keep our counsel.",2718
+Act IV,Scene II,[stage direction],Exit,NA
 Act IV,Scene II,Emilia,"Alas, what does this gentleman conceive?",2719
 Act IV,Scene II,Emilia,"How do you, madam? how do you, my good lady?",2720
 Act IV,Scene II,Desdemona,"'Faith, half asleep.",2721
@@ -2731,9 +2865,11 @@ Act IV,Scene II,Desdemona,"But what should go by water. Prithee, tonight",2729
 Act IV,Scene II,Desdemona,Lay on my bed my wedding sheets: remember;,2730
 Act IV,Scene II,Desdemona,And call thy husband hither.,2731
 Act IV,Scene II,Emilia,Here's a change indeed!,2732
+Act IV,Scene II,[stage direction],Exit,NA
 Act IV,Scene II,Desdemona,"'Tis meet I should be used so, very meet.",2733
 Act IV,Scene II,Desdemona,"How have I been behaved, that he might stick",2734
 Act IV,Scene II,Desdemona,The small'st opinion on my least misuse?,2735
+Act IV,Scene II,[stage direction],Re-enter EMILIA with IAGO,NA
 Act IV,Scene II,Iago,"What is your pleasure, madam?",2736
 Act IV,Scene II,Iago,How is't with you?,2737
 Act IV,Scene II,Desdemona,I cannot tell. Those that do teach young babes,2738
@@ -2801,9 +2937,12 @@ Act IV,Scene II,Iago,"The business of the state does him offence,",2799
 Act IV,Scene II,Iago,And he does chide with you.,2800
 Act IV,Scene II,Desdemona,If 'twere no other--,2801
 Act IV,Scene II,Iago,"'Tis but so, I warrant.",2802
+Act IV,Scene II,[stage direction],Trumpets within,NA
 Act IV,Scene II,Iago,"Hark, how these instruments summon to supper!",2803
 Act IV,Scene II,Iago,The messengers of Venice stay the meat;,2804
 Act IV,Scene II,Iago,"Go in, and weep not; all things shall be well.",2805
+Act IV,Scene II,[stage direction],Exeunt DESDEMONA and EMILIA,NA
+Act IV,Scene II,[stage direction],Enter RODERIGO,NA
 Act IV,Scene II,Iago,"How now, Roderigo!",2806
 Act IV,Scene II,Roderigo,I do not find that thou dealest justly with me.,2807
 Act IV,Scene II,Iago,What in the contrary?,2808
@@ -2876,6 +3015,8 @@ Act IV,Scene II,Iago,"him. It is now high suppertime, and the night grows",2874
 Act IV,Scene II,Iago,to waste: about it.,2875
 Act IV,Scene II,Roderigo,I will hear further reason for this.,2876
 Act IV,Scene II,Iago,And you shall be satisfied.,2877
+Act IV,Scene II,[stage direction],Exeunt,NA
+Act IV,Scene III,[stage direction],"Enter OTHELLO, LODOVICO, DESDEMONA, EMILIA and Attendants",NA
 Act IV,Scene III,Lodovico,"I do beseech you, sir, trouble yourself no further.",2878
 Act IV,Scene III,Othello,"O, pardon me: 'twill do me good to walk.",2879
 Act IV,Scene III,Lodovico,"Madam, good night; I humbly thank your ladyship.",2880
@@ -2886,6 +3027,7 @@ Act IV,Scene III,Desdemona,My lord?,2884
 Act IV,Scene III,Othello,Get you to bed on the instant; I will be returned,2885
 Act IV,Scene III,Othello,forthwith: dismiss your attendant there: look it be done.,2886
 Act IV,Scene III,Desdemona,"I will, my lord.",2887
+Act IV,Scene III,[stage direction],"Exeunt OTHELLO, LODOVICO, and Attendants",NA
 Act IV,Scene III,Emilia,How goes it now? he looks gentler than he did.,2888
 Act IV,Scene III,Desdemona,He says he will return incontinent:,2889
 Act IV,Scene III,Desdemona,"He hath commanded me to go to bed,",2890
@@ -2926,8 +3068,10 @@ Act IV,Scene III,Desdemona,"The fresh streams ran by her, and murmur'd her moans
 Act IV,Scene III,Desdemona,"Sing willow, willow, willow;",2925
 Act IV,Scene III,Desdemona,"Her salt tears fell from her, and soften'd the stones;",2926
 Act IV,Scene III,Desdemona,Lay by these:--,2927
+Act IV,Scene III,[stage direction],Singing,NA
 Act IV,Scene III,Desdemona,"Sing willow, willow, willow;",2928
 Act IV,Scene III,Desdemona,"Prithee, hie thee; he'll come anon:--",2929
+Act IV,Scene III,[stage direction],Singing,NA
 Act IV,Scene III,Desdemona,Sing all a green willow must be my garland.,2930
 Act IV,Scene III,Desdemona,"Let nobody blame him; his scorn I approve,-",2931
 Act IV,Scene III,Desdemona,"Nay, that's not next.--Hark! who is't that knocks?",2932
@@ -2988,6 +3132,8 @@ Act IV,Scene III,Emilia,"Then let them use us well: else let them know,",2986
 Act IV,Scene III,Emilia,"The ills we do, their ills instruct us so.",2987
 Act IV,Scene III,Desdemona,"Good night, good night: heaven me such uses send,",2988
 Act IV,Scene III,Desdemona,"Not to pick bad from bad, but by bad mend!",2989
+Act IV,Scene III,[stage direction],Exeunt,NA
+Act V,Scene I,[stage direction],Enter IAGO and RODERIGO,NA
 Act V,Scene I,Iago,"Here, stand behind this bulk; straight will he come:",2990
 Act V,Scene I,Iago,"Wear thy good rapier bare, and put it home:",2991
 Act V,Scene I,Iago,"Quick, quick; fear nothing; I'll be at thy elbow:",2992
@@ -2995,6 +3141,7 @@ Act V,Scene I,Iago,"It makes us, or it mars us; think on that,",2993
 Act V,Scene I,Iago,And fix most firm thy resolution.,2994
 Act V,Scene I,Roderigo,Be near at hand; I may miscarry in't.,2995
 Act V,Scene I,Iago,"Here, at thy hand: be bold, and take thy stand.",2996
+Act V,Scene I,[stage direction],Retires,NA
 Act V,Scene I,Roderigo,I have no great devotion to the deed;,2997
 Act V,Scene I,Roderigo,And yet he hath given me satisfying reasons:,2998
 Act V,Scene I,Roderigo,"'Tis but a man gone. Forth, my sword: he dies.",2999
@@ -3010,12 +3157,18 @@ Act V,Scene I,Iago,He hath a daily beauty in his life,3008
 Act V,Scene I,Iago,"That makes me ugly; and, besides, the Moor",3009
 Act V,Scene I,Iago,May unfold me to him; there stand I in much peril:,3010
 Act V,Scene I,Iago,"No, he must die. But so: I hear him coming.",3011
+Act V,Scene I,[stage direction],Enter CASSIO,NA
 Act V,Scene I,Roderigo,"I know his gait, 'tis he.--Villain, thou diest!",3012
+Act V,Scene I,[stage direction],Makes a pass at CASSIO,NA
 Act V,Scene I,Cassio,"That thrust had been mine enemy indeed,",3013
 Act V,Scene I,Cassio,But that my coat is better than thou know'st,3014
 Act V,Scene I,Cassio,I will make proof of thine.,3015
+Act V,Scene I,[stage direction],"Draws, and wounds RODERIGO",NA
 Act V,Scene I,Roderigo,"O, I am slain!",3016
+Act V,Scene I,[stage direction],"IAGO from behind wounds CASSIO in the leg, and exit",NA
 Act V,Scene I,Cassio,"I am maim'd for ever. Help, ho! murder! murder!",3017
+Act V,Scene I,[stage direction],Falls,NA
+Act V,Scene I,[stage direction],Enter OTHELLO,NA
 Act V,Scene I,Othello,The voice of Cassio: Iago keeps his word.,3018
 Act V,Scene I,Roderigo,"O, villain that I am!",3019
 Act V,Scene I,Othello,It is even so.,3020
@@ -3026,6 +3179,8 @@ Act V,Scene I,Othello,"Thou teachest me. Minion, your dear lies dead,",3024
 Act V,Scene I,Othello,"And your unblest fate hies: strumpet, I come.",3025
 Act V,Scene I,Othello,"Forth of my heart those charms, thine eyes, are blotted;",3026
 Act V,Scene I,Othello,"Thy bed, lust-stain'd, shall with lust's blood be spotted.",3027
+Act V,Scene I,[stage direction],Exit,NA
+Act V,Scene I,[stage direction],Enter LODOVICO and GRATIANO,NA
 Act V,Scene I,Cassio,"What, ho! no watch? no passage? murder! murder!",3028
 Act V,Scene I,Gratiano,'Tis some mischance; the cry is very direful.,3029
 Act V,Scene I,Cassio,"O, help!",3030
@@ -3036,6 +3191,7 @@ Act V,Scene I,Lodovico,These may be counterfeits: let's think't unsafe,3034
 Act V,Scene I,Lodovico,To come in to the cry without more help.,3035
 Act V,Scene I,Roderigo,Nobody come? then shall I bleed to death.,3036
 Act V,Scene I,Lodovico,Hark!,3037
+Act V,Scene I,[stage direction],"Re-enter IAGO, with a light",NA
 Act V,Scene I,Gratiano,"Here's one comes in his shirt, with light and weapons.",3038
 Act V,Scene I,Iago,Who's there? whose noise is this that ones on murder?,3039
 Act V,Scene I,Lodovico,We do not know.,3040
@@ -3052,9 +3208,11 @@ Act V,Scene I,Cassio,"I think that one of them is hereabout,",3050
 Act V,Scene I,Cassio,And cannot make away.,3051
 Act V,Scene I,Iago,O treacherous villains!,3052
 Act V,Scene I,Iago,"What are you there? come in, and give some help.",3053
+Act V,Scene I,[stage direction],To LODOVICO and GRATIANO,NA
 Act V,Scene I,Roderigo,"O, help me here!",3054
 Act V,Scene I,Cassio,That's one of them.,3055
 Act V,Scene I,Iago,O murderous slave! O villain!,3056
+Act V,Scene I,[stage direction],Stabs RODERIGO,NA
 Act V,Scene I,Roderigo,O damn'd Iago! O inhuman dog!,3057
 Act V,Scene I,Iago,Kill men i' the dark!--Where be these bloody thieves?--,3058
 Act V,Scene I,Iago,How silent is this town!--Ho! murder! murder!--,3059
@@ -3068,6 +3226,7 @@ Act V,Scene I,Iago,"How is't, brother!",3066
 Act V,Scene I,Cassio,My leg is cut in two.,3067
 Act V,Scene I,Iago,"Marry, heaven forbid!",3068
 Act V,Scene I,Iago,"Light, gentlemen; I'll bind it with my shirt.",3069
+Act V,Scene I,[stage direction],Enter BIANCA,NA
 Act V,Scene I,Bianca,"What is the matter, ho? who is't that cried?",3070
 Act V,Scene I,Iago,Who is't that cried!,3071
 Act V,Scene I,Bianca,"O my dear Cassio! my sweet Cassio! O Cassio,",3072
@@ -3095,9 +3254,11 @@ Act V,Scene I,Gratiano,I am glad to see you.,3093
 Act V,Scene I,Iago,"How do you, Cassio? O, a chair, a chair!",3094
 Act V,Scene I,Gratiano,Roderigo!,3095
 Act V,Scene I,Iago,"He, he 'tis he.",3096
+Act V,Scene I,[stage direction],A chair brought in,NA
 Act V,Scene I,Iago,"O, that's well said; the chair!",3097
 Act V,Scene I,Gratiano,Some good man bear him carefully from hence;,3098
 Act V,Scene I,Gratiano,I'll fetch the general's surgeon.,3099
+Act V,Scene I,[stage direction],To BIANCA,NA
 Act V,Scene I,Gratiano,"For you, mistress,",3100
 Act V,Scene I,Gratiano,Save you your labour. He that lies slain,3101
 Act V,Scene I,Gratiano,"here, Cassio,",3102
@@ -3105,12 +3266,14 @@ Act V,Scene I,Gratiano,Was my dear friend: what malice was between you?,3103
 Act V,Scene I,Cassio,None in the world; nor do I know the man.,3104
 Act V,Scene I,Iago,"[To BIANCA]  What, look you pale? O, bear him out",3105
 Act V,Scene I,Iago,o' the air.,3106
+Act V,Scene I,[stage direction],CASSIO and RODERIGO are borne off,NA
 Act V,Scene I,Iago,"Stay you, good gentlemen. Look you pale, mistress?",3107
 Act V,Scene I,Iago,Do you perceive the gastness of her eye?,3108
 Act V,Scene I,Iago,"Nay, if you stare, we shall hear more anon.",3109
 Act V,Scene I,Iago,"Behold her well; I pray you, look upon her:",3110
 Act V,Scene I,Iago,"Do you see, gentlemen? nay, guiltiness will speak,",3111
 Act V,Scene I,Iago,Though tongues were out of use.,3112
+Act V,Scene I,[stage direction],Enter EMILIA,NA
 Act V,Scene I,Emilia,"'Las, what's the matter? what's the matter, husband?",3113
 Act V,Scene I,Iago,Cassio hath here been set on in the dark,3114
 Act V,Scene I,Iago,By Roderigo and fellows that are scaped:,3115
@@ -3118,6 +3281,7 @@ Act V,Scene I,Iago,"He's almost slain, and Roderigo dead.",3116
 Act V,Scene I,Emilia,"Alas, good gentleman! alas, good Cassio!",3117
 Act V,Scene I,Iago,"This is the fruit of whoring. Prithee, Emilia,",3118
 Act V,Scene I,Iago,Go know of Cassio where he supp'd to-night.,3119
+Act V,Scene I,[stage direction],To BIANCA,NA
 Act V,Scene I,Iago,"What, do you shake at that?",3120
 Act V,Scene I,Bianca,He supp'd at my house; but I therefore shake not.,3121
 Act V,Scene I,Iago,"O, did he so? I charge you, go with me.",3122
@@ -3130,9 +3294,12 @@ Act V,Scene I,Iago,"Come, mistress, you must tell's another tale.",3128
 Act V,Scene I,Iago,"Emilia run you to the citadel,",3129
 Act V,Scene I,Iago,And tell my lord and lady what hath happ'd.,3130
 Act V,Scene I,Iago,Will you go on? I pray.,3131
+Act V,Scene I,[stage direction],Aside,NA
 Act V,Scene I,Iago,This is the night,3132
 Act V,Scene I,Iago,That either makes me or fordoes me quite.,3133
+Act V,Scene I,[stage direction],Exeunt,NA
 Act V,Scene II,Iago,a light burning.,3134
+Act V,Scene II,[stage direction],Enter OTHELLO,NA
 Act V,Scene II,Othello,"It is the cause, it is the cause, my soul,--",3135
 Act V,Scene II,Othello,"Let me not name it to you, you chaste stars!--",3136
 Act V,Scene II,Othello,It is the cause. Yet I'll not shed her blood;,3137
@@ -3148,6 +3315,7 @@ Act V,Scene II,Othello,I know not where is that Promethean heat,3146
 Act V,Scene II,Othello,"That can thy light relume. When I have pluck'd the rose,",3147
 Act V,Scene II,Othello,I cannot give it vital growth again.,3148
 Act V,Scene II,Othello,It must needs wither: I'll smell it on the tree.,3149
+Act V,Scene II,[stage direction],Kissing her,NA
 Act V,Scene II,Othello,"Ah balmy breath, that dost almost persuade",3150
 Act V,Scene II,Othello,"Justice to break her sword! One more, one more.",3151
 Act V,Scene II,Othello,"Be thus when thou art dead, and I will kill thee,",3152
@@ -3234,6 +3402,7 @@ Act V,Scene II,Desdemona,But half an hour!,3232
 Act V,Scene II,Othello,"Being done, there is no pause.",3233
 Act V,Scene II,Desdemona,But while I say one prayer!,3234
 Act V,Scene II,Othello,It is too late.,3235
+Act V,Scene II,[stage direction],He stifles her,NA
 Act V,Scene II,Emilia,"[Within]  My lord , my lord! what, ho! my lord, my lord!",3236
 Act V,Scene II,Othello,What noise is this? Not dead? not yet quite dead?,3237
 Act V,Scene II,Othello,I that am cruel am yet merciful;,3238
@@ -3257,6 +3426,8 @@ Act V,Scene II,Emilia,"That I may speak with you, O, good my lord!",3255
 Act V,Scene II,Othello,"I had forgot thee: O, come in, Emilia;",3256
 Act V,Scene II,Othello,Soft; by and by. Let me the curtains draw.,3257
 Act V,Scene II,Othello,Where art thou?,3258
+Act V,Scene II,[stage direction],Unlocks the door,NA
+Act V,Scene II,[stage direction],Enter EMILIA,NA
 Act V,Scene II,Othello,What's the matter with thee now?,3259
 Act V,Scene II,Emilia,"O, my good lord, yonder's foul murders done!",3260
 Act V,Scene II,Othello,"What, now?",3261
@@ -3281,6 +3452,7 @@ Act V,Scene II,Desdemona,A guiltless death I die.,3279
 Act V,Scene II,Emilia,"O, who hath done this deed?",3280
 Act V,Scene II,Desdemona,Nobody; I myself. Farewell,3281
 Act V,Scene II,Desdemona,"Commend me to my kind lord: O, farewell!",3282
+Act V,Scene II,[stage direction],Dies,NA
 Act V,Scene II,Othello,"Why, how should she be murder'd?",3283
 Act V,Scene II,Emilia,"Alas, who knows?",3284
 Act V,Scene II,Othello,"You heard her say herself, it was not I.",3285
@@ -3330,6 +3502,7 @@ Act V,Scene II,Emilia,As ignorant as dirt! thou hast done a deed--,3328
 Act V,Scene II,Emilia,"I care not for thy sword; I'll make thee known,",3329
 Act V,Scene II,Emilia,"Though I lost twenty lives.--Help! help, ho! help!",3330
 Act V,Scene II,Emilia,The Moor hath kill'd my mistress! Murder! murder!,3331
+Act V,Scene II,[stage direction],"Enter MONTANO, GRATIANO, IAGO, and others",NA
 Act V,Scene II,Montano,"What is the matter? How now, general!",3332
 Act V,Scene II,Emilia,"O, are you come, Iago? you have done well,",3333
 Act V,Scene II,Emilia,That men must lay their murders on your neck.,3334
@@ -3362,6 +3535,7 @@ Act V,Scene II,Emilia,"Good gentlemen, let me have leave to speak:",3360
 Act V,Scene II,Emilia,"'Tis proper I obey him, but not now.",3361
 Act V,Scene II,Emilia,"Perchance, Iago, I will ne'er go home.",3362
 Act V,Scene II,Othello,O! O! O!,3363
+Act V,Scene II,[stage direction],He falls on the bed,NA
 Act V,Scene II,Emilia,"Nay, lay thee down and roar;",3364
 Act V,Scene II,Emilia,For thou hast kill'd the sweetest innocent,3365
 Act V,Scene II,Emilia,That e'er did lift up eye.,3366
@@ -3391,6 +3565,7 @@ Act V,Scene II,Emilia,"Let heaven and men and devils, let them all,",3389
 Act V,Scene II,Emilia,"All, all, cry shame against me, yet I'll speak.",3390
 Act V,Scene II,Iago,"Be wise, and get you home.",3391
 Act V,Scene II,Emilia,I will not.,3392
+Act V,Scene II,[stage direction],IAGO offers to stab EMILIA,NA
 Act V,Scene II,Gratiano,Fie!,3393
 Act V,Scene II,Gratiano,Your sword upon a woman?,3394
 Act V,Scene II,Emilia,O thou dull Moor! that handkerchief thou speak'st of,3395
@@ -3407,6 +3582,7 @@ Act V,Scene II,Emilia,O murderous coxcomb! what should such a fool,3405
 Act V,Scene II,Emilia,Do with so good a woman?,3406
 Act V,Scene II,Othello,Are there no stones in heaven,3407
 Act V,Scene II,Othello,But what serve for the thunder?--Precious villain!,3408
+Act V,Scene II,[stage direction],"He runs at IAGO  IAGO, from behind, stabs EMILIA, and exit",NA
 Act V,Scene II,Gratiano,"The woman falls; sure, he hath kill'd his wife.",3409
 Act V,Scene II,Emilia,"Ay, ay: O, lay me by my mistress' side.",3410
 Act V,Scene II,Gratiano,"He's gone, but his wife's kill'd.",3411
@@ -3415,6 +3591,7 @@ Act V,Scene II,Montano,Which I have here recover'd from the Moor:,3413
 Act V,Scene II,Montano,"Come, guard the door without; let him not pass,",3414
 Act V,Scene II,Montano,"But kill him rather. I'll after that same villain,",3415
 Act V,Scene II,Montano,For 'tis a damned slave.,3416
+Act V,Scene II,[stage direction],Exeunt MONTANO and GRATIANO,NA
 Act V,Scene II,Othello,"I am not valiant neither,",3417
 Act V,Scene II,Othello,But ever puny whipster gets my sword:,3418
 Act V,Scene II,Othello,But why should honour outlive honesty?,3419
@@ -3422,10 +3599,12 @@ Act V,Scene II,Othello,Let it go all.,3420
 Act V,Scene II,Emilia,"What did thy song bode, lady?",3421
 Act V,Scene II,Emilia,"Hark, canst thou hear me? I will play the swan.",3422
 Act V,Scene II,Emilia,And die in music.,3423
+Act V,Scene II,[stage direction],Singing,NA
 Act V,Scene II,Emilia,"Willow, willow, willow,--",3424
 Act V,Scene II,Emilia,"Moor, she was chaste; she loved thee, cruel Moor;",3425
 Act V,Scene II,Emilia,"So come my soul to bliss, as I speak true;",3426
 Act V,Scene II,Emilia,"So speaking as I think, I die, I die.",3427
+Act V,Scene II,[stage direction],Dies,NA
 Act V,Scene II,Othello,I have another weapon in this chamber;,3428
 Act V,Scene II,Othello,"It is a sword of Spain, the ice-brook's temper:--",3429
 Act V,Scene II,Othello,"O, here it is. Uncle, I must come forth.",3430
@@ -3433,6 +3612,7 @@ Act V,Scene II,Gratiano,"[Within]  If thou attempt it, it will cost thee dear:",
 Act V,Scene II,Gratiano,"Thou hast no weapon, and perforce must suffer.",3432
 Act V,Scene II,Othello,"Look in upon me then and speak with me,",3433
 Act V,Scene II,Othello,"Or, naked as I am, I will assault thee.",3434
+Act V,Scene II,[stage direction],Re-enter GRATIANO,NA
 Act V,Scene II,Gratiano,What is the matter?,3435
 Act V,Scene II,Othello,"Behold, I have a weapon;",3436
 Act V,Scene II,Othello,A better never did itself sustain,3437
@@ -3458,11 +3638,13 @@ Act V,Scene II,Othello,Blow me about in winds! roast me in sulphur!,3456
 Act V,Scene II,Othello,Wash me in steep-down gulfs of liquid fire!,3457
 Act V,Scene II,Othello,O Desdemona! Desdemona! dead!,3458
 Act V,Scene II,Othello,Oh! Oh! Oh!,3459
+Act V,Scene II,[stage direction],"Enter LODOVICO. MONTANO, CASSIO carried in a chair, and Officers with IAGO, prisoner",NA
 Act V,Scene II,Lodovico,Where is this rash and most unfortunate man?,3460
 Act V,Scene II,Othello,That's he that was Othello: here I am.,3461
 Act V,Scene II,Lodovico,Where is that viper? bring the villain forth.,3462
 Act V,Scene II,Othello,I look down towards his feet; but that's a fable.,3463
 Act V,Scene II,Othello,"If that thou best a devil, I cannot kill thee.",3464
+Act V,Scene II,[stage direction],Wounds IAGO,NA
 Act V,Scene II,Lodovico,Wrench his sword from him.,3465
 Act V,Scene II,Iago,"I bleed, sir; but not kill'd.",3466
 Act V,Scene II,Othello,I am not sorry neither: I'ld have thee live;,3467
@@ -3539,10 +3721,12 @@ Act V,Scene II,Othello,Where a malignant and a turban'd Turk,3537
 Act V,Scene II,Othello,"Beat a Venetian and traduced the state,",3538
 Act V,Scene II,Othello,"I took by the throat the circumcised dog,",3539
 Act V,Scene II,Othello,"And smote him, thus.",3540
+Act V,Scene II,[stage direction],Stabs himself,NA
 Act V,Scene II,Lodovico,O bloody period!,3541
 Act V,Scene II,Gratiano,All that's spoke is marr'd.,3542
 Act V,Scene II,Othello,I kiss'd thee ere I kill'd thee: no way but this;,3543
 Act V,Scene II,Othello,"Killing myself, to die upon a kiss.",3544
+Act V,Scene II,[stage direction],"Falls on the bed, and dies",NA
 Act V,Scene II,Cassio,"This did I fear, but thought he had no weapon;",3545
 Act V,Scene II,Cassio,For he was great of heart.,3546
 Act V,Scene II,Lodovico,"[To IAGO]  O Spartan dog,",3547
@@ -3556,3 +3740,4 @@ Act V,Scene II,Lodovico,Remains the censure of this hellish villain;,3554
 Act V,Scene II,Lodovico,"The time, the place, the torture: O, enforce it!",3555
 Act V,Scene II,Lodovico,Myself will straight aboard: and to the state,3556
 Act V,Scene II,Lodovico,This heavy act with heavy heart relate.,3557
+Act V,Scene II,[stage direction],Exeunt,NA
