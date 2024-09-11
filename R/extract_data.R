@@ -37,8 +37,9 @@ hamlet_script <- extract_data(hamlet_raw)
 readr::write_csv(hamlet_script, "data/hamlet.csv")
 
 
+# Julius Caesar -----------------------------------------------------------
 
-
-
-
+julius_caesar_raw <- rvest::read_html("https://shakespeare.mit.edu/julius_caesar/full.html")
+julius_caesar_script <- extract_data(julius_caesar_raw) 
+readr::write_csv(julius_caesar_script, "data/julius_caesar.csv")
 

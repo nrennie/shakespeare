@@ -31,6 +31,7 @@ hamlet <- read_csv("data/hamlet.csv")
 othello <- read_csv("data/othello.csv")
 macbeth <- read_csv("data/macbeth.csv")
 romeo_juliet <- read_csv("data/romeo_juliet.csv")
+julius_caesar <- read_csv("data/julius_caesar.csv")
 
 
 # Plots -------------------------------------------------------------------
@@ -46,3 +47,6 @@ ggsave("plots/macbeth.png", width = 5, height = 5, bg = "white")
 
 plot_play(romeo_juliet, "Romeo and Juliet")
 ggsave("plots/romeo_juliet.png", width = 5, height = 5, bg = "white")
+
+plot_play(julius_caesar, "The Life and Death of Julius Caesar")
+ggsave("plots/julius_caesar.png", width = 5, height = 5, bg = "white")
