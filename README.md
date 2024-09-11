@@ -10,6 +10,8 @@ The data is scraped from [shakespeare.mit.edu](https://shakespeare.mit.edu/), an
 
 This repository is a work-in-progress. Works currently included in CSV format:
 
+* Hamlet
+* The Life and Death of Julius Caesar
 * Macbeth
 * Othello
 * Romeo and Juliet
@@ -17,3 +19,10 @@ This repository is a work-in-progress. Works currently included in CSV format:
 ## Analysis
 
 See [github.com/nrennie/bechdel-test](https://github.com/nrennie/bechdel-test) for an example of analysis performed on the Romeo and Juliet dataset.
+
+### Plots
+
+<p align="center">
+  <img src="plots/romeo_juliet.png" width="49%">
+  <img src="plots/hamlet.png" width="49%">
+</p>
