@@ -26,3 +26,7 @@ See [github.com/nrennie/bechdel-test](https://github.com/nrennie/bechdel-test) f
   <img src="plots/romeo_juliet.png" width="49%">
   <img src="plots/hamlet.png" width="49%">
 </p>
+
+### TidyTuesday
+
+Some of these datasets were used for TidyTuesday data in September 2024: [github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-09-17/readme.md](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-09-17/readme.md)
