@@ -1,4 +1,4 @@
-## Scrape HTML
+# Scrape HTML
 raw_html <- rvest::read_html("https://shakespeare.mit.edu/")
 
 # Extract HTML links
@@ -9,7 +9,7 @@ works_links <- raw_html |>
   rvest::html_attr("href") |> 
   stringr::str_replace("index", "full")
 
-# Process metadat
+# Process metadata
 metadata <- raw_html |>
   rvest::html_table(header = TRUE) |>
   _[[2]] |> 
