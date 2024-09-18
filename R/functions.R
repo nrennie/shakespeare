@@ -3,6 +3,13 @@ str_extract_between <- function(x, start, end) {
   return(stringr::str_extract(x, pattern = pattern))
 }
 
+convert_after_first_true <- function(x) {
+  if (any(x)) {
+    x[which(x)[1]:length(x)] <- TRUE
+  }
+  return(x)
+}
+
 scrape_play <- function(url) {
   # Scrape HTML
   raw_html <- rvest::read_html(url)
@@ -84,7 +91,17 @@ scrape_play <- function(url) {
     dplyr::select(-c(stage_dir, raw_char)) |>
     dplyr::mutate(
       character = tidyr::replace_na(character, "Chorus")
-    ) |>
+    ) |> 
+    dplyr::mutate(
+      is_epi = stringr::str_detect(dialogue, "EPILOGUE"),
+      has_epi = convert_after_first_true(is_epi),
+      scene = dplyr::case_when(
+        has_epi ~ "Epilogue",
+        TRUE ~ scene
+      )
+    ) |> 
+    dplyr::filter(!is_epi) |> 
+    dplyr::select(-c(is_epi, has_epi)) |> 
     tidyr::drop_na(dialogue) |>
     dplyr::mutate(dialogue = stringr::str_trim(dialogue)) |>
     dplyr::mutate(is_stage_dir = (character == "[stage direction]")) |>
@@ -92,15 +109,15 @@ scrape_play <- function(url) {
     dplyr::mutate(line_number = dplyr::row_number()) |>
     dplyr::ungroup() |>
     dplyr::mutate(
+      character = stringr::str_replace(character, "  ", " ")
+    ) |> 
+    dplyr::mutate(
       line_number = dplyr::case_when(
         is_stage_dir ~ NA,
         TRUE ~ line_number
       )
     ) |>
-    dplyr::select(-is_stage_dir) |>
-    dplyr::mutate(
-      character = stringr::str_replace(character, "  ", " ")
-    )
+    dplyr::select(-is_stage_dir)
   return(script)
 }
 
