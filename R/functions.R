@@ -126,7 +126,6 @@ scrape_play <- function(url) {
 
 scrape_sonnet <- function(url) {
   # Scrape HTML
-  url <- "https://shakespeare.mit.edu/Poetry/sonnet.LIX.html"
   raw_html <- rvest::read_html(url)
   sonnet <- raw_html |>
     rvest::html_elements("blockquote") |>
