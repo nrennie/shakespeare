@@ -15,11 +15,11 @@ scrape_play <- function(url) {
   raw_html <- rvest::read_html(url)
 
   # Extract elements
-  a_char <- raw_html |>
+  script <- raw_html |>
     rvest::html_elements("h3, a, i") |>
-    as.character()
-
-  script <- tibble::tibble(raw_char = a_char) |>
+    as.character() |>
+    data.frame(raw_char = _) |>
+    tibble::as_tibble() |>
     # Remove top two title rows
     dplyr::slice(-c(1, 2)) |>
     # What Act is it?
@@ -91,17 +91,20 @@ scrape_play <- function(url) {
     dplyr::select(-c(stage_dir, raw_char)) |>
     dplyr::mutate(
       character = tidyr::replace_na(character, "Chorus")
-    ) |> 
+    ) |>
     dplyr::mutate(
-      is_epi = stringr::str_detect(dialogue, "EPILOGUE"),
+      is_epi = stringr::str_detect(dialogue, "EPILOGUE")
+    ) |>
+    dplyr::filter(!is.na(dialogue) & !is.na(is_epi)) |>
+    dplyr::mutate(
       has_epi = convert_after_first_true(is_epi),
       scene = dplyr::case_when(
         has_epi ~ "Epilogue",
         TRUE ~ scene
       )
-    ) |> 
-    dplyr::filter(!is_epi) |> 
-    dplyr::select(-c(is_epi, has_epi)) |> 
+    ) |>
+    dplyr::filter(!is_epi) |>
+    dplyr::select(-c(is_epi, has_epi)) |>
     tidyr::drop_na(dialogue) |>
     dplyr::mutate(dialogue = stringr::str_trim(dialogue)) |>
     dplyr::mutate(is_stage_dir = (character == "[stage direction]")) |>
@@ -110,7 +113,7 @@ scrape_play <- function(url) {
     dplyr::ungroup() |>
     dplyr::mutate(
       character = stringr::str_replace(character, "  ", " ")
-    ) |> 
+    ) |>
     dplyr::mutate(
       line_number = dplyr::case_when(
         is_stage_dir ~ NA,
@@ -127,19 +130,19 @@ scrape_sonnet <- function(url) {
   raw_html <- rvest::read_html(url)
   sonnet <- raw_html |>
     rvest::html_elements("blockquote") |>
-    as.character() |> 
+    as.character() |>
     data.frame(raw_char = _) |>
-    tibble::as_tibble() |> 
-    tidyr::separate_longer_delim(raw_char, "<br>") |> 
+    tibble::as_tibble() |>
+    tidyr::separate_longer_delim(raw_char, "<br>") |>
     dplyr::mutate(
       raw_char = stringr::str_remove_all(
         string = raw_char,
         pattern = "<blockquote>|</blockquote>|\\n"
       )
-    ) |> 
+    ) |>
     dplyr::filter(raw_char != "") |>
     dplyr::mutate(line_number = dplyr::row_number()) |>
-    dplyr::rename(line = raw_char) |> 
+    dplyr::rename(line = raw_char) |>
     dplyr::mutate(line = stringr::str_trim(line))
   return(sonnet)
 }
