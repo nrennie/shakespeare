@@ -1,0 +1,2788 @@
+act,scene,character,dialogue,line_number
+NA,Scene I,[stage direction],Enter Hostess and SLY,NA
+NA,Scene I,Sly,"I'll pheeze you, in faith.",1
+NA,Scene I,Hostess,"A pair of stocks, you rogue!",2
+NA,Scene I,Sly,Ye are a baggage: the Slys are no rogues; look in,3
+NA,Scene I,Sly,the chronicles; we came in with Richard Conqueror.,4
+NA,Scene I,Sly,Therefore paucas pallabris; let the world slide: sessa!,5
+NA,Scene I,Hostess,You will not pay for the glasses you have burst?,6
+NA,Scene I,Sly,"No, not a denier. Go by, Jeronimy: go to thy cold",7
+NA,Scene I,Sly,"bed, and warm thee.",8
+NA,Scene I,Hostess,I know my remedy; I must go fetch the,9
+NA,Scene I,Hostess,third--borough.,10
+NA,Scene I,[stage direction],Exit,NA
+NA,Scene I,Sly,"Third, or fourth, or fifth borough, I'll answer him",11
+NA,Scene I,Sly,"by law: I'll not budge an inch, boy: let him come,",12
+NA,Scene I,Sly,and kindly.,13
+NA,Scene I,[stage direction],Falls asleep,NA
+NA,Scene I,[stage direction],"Horns winded. Enter a Lord from hunting, with his train",NA
+NA,Scene I,Lord,"Huntsman, I charge thee, tender well my hounds:",14
+NA,Scene I,Lord,"Brach Merriman, the poor cur is emboss'd;",15
+NA,Scene I,Lord,And couple Clowder with the deep--mouth'd brach.,16
+NA,Scene I,Lord,"Saw'st thou not, boy, how Silver made it good",17
+NA,Scene I,Lord,"At the hedge-corner, in the coldest fault?",18
+NA,Scene I,Lord,I would not lose the dog for twenty pound.,19
+NA,Scene I,First Huntsman,"Why, Belman is as good as he, my lord;",20
+NA,Scene I,First Huntsman,He cried upon it at the merest loss,21
+NA,Scene I,First Huntsman,And twice to-day pick'd out the dullest scent:,22
+NA,Scene I,First Huntsman,"Trust me, I take him for the better dog.",23
+NA,Scene I,Lord,"Thou art a fool: if Echo were as fleet,",24
+NA,Scene I,Lord,I would esteem him worth a dozen such.,25
+NA,Scene I,Lord,But sup them well and look unto them all:,26
+NA,Scene I,Lord,To-morrow I intend to hunt again.,27
+NA,Scene I,First Huntsman,"I will, my lord.",28
+NA,Scene I,Lord,"What's here? one dead, or drunk? See, doth he breathe?",29
+NA,Scene I,Second Huntsman,"He breathes, my lord. Were he not warm'd with ale,",30
+NA,Scene I,Second Huntsman,This were a bed but cold to sleep so soundly.,31
+NA,Scene I,Lord,O monstrous beast! how like a swine he lies!,32
+NA,Scene I,Lord,"Grim death, how foul and loathsome is thine image!",33
+NA,Scene I,Lord,"Sirs, I will practise on this drunken man.",34
+NA,Scene I,Lord,"What think you, if he were convey'd to bed,",35
+NA,Scene I,Lord,"Wrapp'd in sweet clothes, rings put upon his fingers,",36
+NA,Scene I,Lord,"A most delicious banquet by his bed,",37
+NA,Scene I,Lord,"And brave attendants near him when he wakes,",38
+NA,Scene I,Lord,Would not the beggar then forget himself?,39
+NA,Scene I,First Huntsman,"Believe me, lord, I think he cannot choose.",40
+NA,Scene I,Second Huntsman,It would seem strange unto him when he waked.,41
+NA,Scene I,Lord,Even as a flattering dream or worthless fancy.,42
+NA,Scene I,Lord,Then take him up and manage well the jest:,43
+NA,Scene I,Lord,Carry him gently to my fairest chamber,44
+NA,Scene I,Lord,And hang it round with all my wanton pictures:,45
+NA,Scene I,Lord,Balm his foul head in warm distilled waters,46
+NA,Scene I,Lord,And burn sweet wood to make the lodging sweet:,47
+NA,Scene I,Lord,"Procure me music ready when he wakes,",48
+NA,Scene I,Lord,To make a dulcet and a heavenly sound;,49
+NA,Scene I,Lord,"And if he chance to speak, be ready straight",50
+NA,Scene I,Lord,And with a low submissive reverence,51
+NA,Scene I,Lord,Say 'What is it your honour will command?',52
+NA,Scene I,Lord,Let one attend him with a silver basin,53
+NA,Scene I,Lord,"Full of rose-water and bestrew'd with flowers,",54
+NA,Scene I,Lord,"Another bear the ewer, the third a diaper,",55
+NA,Scene I,Lord,And say 'Will't please your lordship cool your hands?',56
+NA,Scene I,Lord,Some one be ready with a costly suit,57
+NA,Scene I,Lord,And ask him what apparel he will wear;,58
+NA,Scene I,Lord,"Another tell him of his hounds and horse,",59
+NA,Scene I,Lord,And that his lady mourns at his disease:,60
+NA,Scene I,Lord,Persuade him that he hath been lunatic;,61
+NA,Scene I,Lord,"And when he says he is, say that he dreams,",62
+NA,Scene I,Lord,For he is nothing but a mighty lord.,63
+NA,Scene I,Lord,"This do and do it kindly, gentle sirs:",64
+NA,Scene I,Lord,"It will be pastime passing excellent,",65
+NA,Scene I,Lord,If it be husbanded with modesty.,66
+NA,Scene I,First Huntsman,"My lord, I warrant you we will play our part,",67
+NA,Scene I,First Huntsman,As he shall think by our true diligence,68
+NA,Scene I,First Huntsman,He is no less than what we say he is.,69
+NA,Scene I,Lord,Take him up gently and to bed with him;,70
+NA,Scene I,Lord,And each one to his office when he wakes.,71
+NA,Scene I,[stage direction],Some bear out SLY. A trumpet sounds,NA
+NA,Scene I,Lord,"Sirrah, go see what trumpet 'tis that sounds:",72
+NA,Scene I,[stage direction],Exit Servingman,NA
+NA,Scene I,Lord,"Belike, some noble gentleman that means,",73
+NA,Scene I,Lord,"Travelling some journey, to repose him here.",74
+NA,Scene I,[stage direction],Re-enter Servingman,NA
+NA,Scene I,Lord,How now! who is it?,75
+NA,Scene I,Servant,"An't please your honour, players",76
+NA,Scene I,Servant,That offer service to your lordship.,77
+NA,Scene I,Lord,Bid them come near.,78
+NA,Scene I,[stage direction],Enter Players,NA
+NA,Scene I,Lord,"Now, fellows, you are welcome.",79
+NA,Scene I,Players,We thank your honour.,80
+NA,Scene I,Lord,Do you intend to stay with me tonight?,81
+NA,Scene I,A Player,So please your lordship to accept our duty.,82
+NA,Scene I,Lord,"With all my heart. This fellow I remember,",83
+NA,Scene I,Lord,Since once he play'd a farmer's eldest son:,84
+NA,Scene I,Lord,'Twas where you woo'd the gentlewoman so well:,85
+NA,Scene I,Lord,"I have forgot your name; but, sure, that part",86
+NA,Scene I,Lord,Was aptly fitted and naturally perform'd.,87
+NA,Scene I,A Player,I think 'twas Soto that your honour means.,88
+NA,Scene I,Lord,'Tis very true: thou didst it excellent.,89
+NA,Scene I,Lord,"Well, you are come to me in a happy time;",90
+NA,Scene I,Lord,The rather for I have some sport in hand,91
+NA,Scene I,Lord,Wherein your cunning can assist me much.,92
+NA,Scene I,Lord,There is a lord will hear you play to-night:,93
+NA,Scene I,Lord,But I am doubtful of your modesties;,94
+NA,Scene I,Lord,"Lest over-eyeing of his odd behavior,--",95
+NA,Scene I,Lord,For yet his honour never heard a play--,96
+NA,Scene I,Lord,You break into some merry passion,97
+NA,Scene I,Lord,"And so offend him; for I tell you, sirs,",98
+NA,Scene I,Lord,If you should smile he grows impatient.,99
+NA,Scene I,A Player,"Fear not, my lord: we can contain ourselves,",100
+NA,Scene I,A Player,Were he the veriest antic in the world.,101
+NA,Scene I,Lord,"Go, sirrah, take them to the buttery,",102
+NA,Scene I,Lord,And give them friendly welcome every one:,103
+NA,Scene I,Lord,Let them want nothing that my house affords.,104
+NA,Scene I,[stage direction],Exit one with the Players,NA
+NA,Scene I,Lord,"Sirrah, go you to Barthol'mew my page,",105
+NA,Scene I,Lord,And see him dress'd in all suits like a lady:,106
+NA,Scene I,Lord,"That done, conduct him to the drunkard's chamber;",107
+NA,Scene I,Lord,"And call him 'madam,' do him obeisance.",108
+NA,Scene I,Lord,"Tell him from me, as he will win my love,",109
+NA,Scene I,Lord,"He bear himself with honourable action,",110
+NA,Scene I,Lord,Such as he hath observed in noble ladies,111
+NA,Scene I,Lord,"Unto their lords, by them accomplished:",112
+NA,Scene I,Lord,Such duty to the drunkard let him do,113
+NA,Scene I,Lord,"With soft low tongue and lowly courtesy,",114
+NA,Scene I,Lord,"And say 'What is't your honour will command,",115
+NA,Scene I,Lord,Wherein your lady and your humble wife,116
+NA,Scene I,Lord,May show her duty and make known her love?',117
+NA,Scene I,Lord,"And then with kind embracements, tempting kisses,",118
+NA,Scene I,Lord,"And with declining head into his bosom,",119
+NA,Scene I,Lord,"Bid him shed tears, as being overjoy'd",120
+NA,Scene I,Lord,"To see her noble lord restored to health,",121
+NA,Scene I,Lord,Who for this seven years hath esteem'd him,122
+NA,Scene I,Lord,No better than a poor and loathsome beggar:,123
+NA,Scene I,Lord,And if the boy have not a woman's gift,124
+NA,Scene I,Lord,"To rain a shower of commanded tears,",125
+NA,Scene I,Lord,"An onion will do well for such a shift,",126
+NA,Scene I,Lord,Which in a napkin being close convey'd,127
+NA,Scene I,Lord,Shall in despite enforce a watery eye.,128
+NA,Scene I,Lord,See this dispatch'd with all the haste thou canst:,129
+NA,Scene I,Lord,Anon I'll give thee more instructions.,130
+NA,Scene I,[stage direction],Exit a Servingman,NA
+NA,Scene I,Lord,"I know the boy will well usurp the grace,",131
+NA,Scene I,Lord,"Voice, gait and action of a gentlewoman:",132
+NA,Scene I,Lord,"I long to hear him call the drunkard husband,",133
+NA,Scene I,Lord,And how my men will stay themselves from laughter,134
+NA,Scene I,Lord,When they do homage to this simple peasant.,135
+NA,Scene I,Lord,I'll in to counsel them; haply my presence,136
+NA,Scene I,Lord,May well abate the over-merry spleen,137
+NA,Scene I,Lord,Which otherwise would grow into extremes.,138
+NA,Scene I,[stage direction],Exeunt,NA
+NA,Scene II,[stage direction],"Enter aloft SLY, with Attendants; some with apparel, others with basin and ewer and appurtenances; and Lord",NA
+NA,Scene II,Sly,"For God's sake, a pot of small ale.",139
+NA,Scene II,First Servant,Will't please your lordship drink a cup of sack?,140
+NA,Scene II,Second Servant,Will't please your honour taste of these conserves?,141
+NA,Scene II,Third Servant,What raiment will your honour wear to-day?,142
+NA,Scene II,Sly,I am Christophero Sly; call not me 'honour' nor,143
+NA,Scene II,Sly,'lordship:' I ne'er drank sack in my life; and if,144
+NA,Scene II,Sly,"you give me any conserves, give me conserves of",145
+NA,Scene II,Sly,beef: ne'er ask me what raiment I'll wear; for I,146
+NA,Scene II,Sly,"have no more doublets than backs, no more stockings",147
+NA,Scene II,Sly,"than legs, nor no more shoes than feet; nay,",148
+NA,Scene II,Sly,"sometimes more feet than shoes, or such shoes as my",149
+NA,Scene II,Sly,toes look through the over-leather.,150
+NA,Scene II,Lord,Heaven cease this idle humour in your honour!,151
+NA,Scene II,Lord,"O, that a mighty man of such descent,",152
+NA,Scene II,Lord,"Of such possessions and so high esteem,",153
+NA,Scene II,Lord,Should be infused with so foul a spirit!,154
+NA,Scene II,Sly,"What, would you make me mad? Am not I Christopher",155
+NA,Scene II,Sly,"Sly, old Sly's son of Burtonheath, by birth a",156
+NA,Scene II,Sly,"pedlar, by education a cardmaker, by transmutation a",157
+NA,Scene II,Sly,"bear-herd, and now by present profession a tinker?",158
+NA,Scene II,Sly,"Ask Marian Hacket, the fat ale-wife of Wincot, if",159
+NA,Scene II,Sly,she know me not: if she say I am not fourteen pence,160
+NA,Scene II,Sly,"on the score for sheer ale, score me up for the",161
+NA,Scene II,Sly,lyingest knave in Christendom. What! I am not,162
+NA,Scene II,Sly,bestraught: here's--,163
+NA,Scene II,Third Servant,"O, this it is that makes your lady mourn!",164
+NA,Scene II,Second Servant,"O, this is it that makes your servants droop!",165
+NA,Scene II,Lord,"Hence comes it that your kindred shuns your house,",166
+NA,Scene II,Lord,As beaten hence by your strange lunacy.,167
+NA,Scene II,Lord,"O noble lord, bethink thee of thy birth,",168
+NA,Scene II,Lord,Call home thy ancient thoughts from banishment,169
+NA,Scene II,Lord,And banish hence these abject lowly dreams.,170
+NA,Scene II,Lord,"Look how thy servants do attend on thee,",171
+NA,Scene II,Lord,Each in his office ready at thy beck.,172
+NA,Scene II,Lord,"Wilt thou have music? hark! Apollo plays,",173
+NA,Scene II,[stage direction],Music,NA
+NA,Scene II,Lord,And twenty caged nightingales do sing:,174
+NA,Scene II,Lord,Or wilt thou sleep? we'll have thee to a couch,175
+NA,Scene II,Lord,Softer and sweeter than the lustful bed,176
+NA,Scene II,Lord,On purpose trimm'd up for Semiramis.,177
+NA,Scene II,Lord,Say thou wilt walk; we will bestrew the ground:,178
+NA,Scene II,Lord,"Or wilt thou ride? thy horses shall be trapp'd,",179
+NA,Scene II,Lord,Their harness studded all with gold and pearl.,180
+NA,Scene II,Lord,Dost thou love hawking? thou hast hawks will soar,181
+NA,Scene II,Lord,Above the morning lark or wilt thou hunt?,182
+NA,Scene II,Lord,Thy hounds shall make the welkin answer them,183
+NA,Scene II,Lord,And fetch shrill echoes from the hollow earth.,184
+NA,Scene II,First Servant,Say thou wilt course; thy greyhounds are as swift,185
+NA,Scene II,First Servant,"As breathed stags, ay, fleeter than the roe.",186
+NA,Scene II,Second Servant,Dost thou love pictures? we will fetch thee straight,187
+NA,Scene II,Second Servant,"Adonis painted by a running brook,",188
+NA,Scene II,Second Servant,"And Cytherea all in sedges hid,",189
+NA,Scene II,Second Servant,"Which seem to move and wanton with her breath,",190
+NA,Scene II,Second Servant,Even as the waving sedges play with wind.,191
+NA,Scene II,Lord,"We'll show thee Io as she was a maid,",192
+NA,Scene II,Lord,"And how she was beguiled and surprised,",193
+NA,Scene II,Lord,As lively painted as the deed was done.,194
+NA,Scene II,Third Servant,"Or Daphne roaming through a thorny wood,",195
+NA,Scene II,Third Servant,"Scratching her legs that one shall swear she bleeds,",196
+NA,Scene II,Third Servant,"And at that sight shall sad Apollo weep,",197
+NA,Scene II,Third Servant,So workmanly the blood and tears are drawn.,198
+NA,Scene II,Lord,"Thou art a lord, and nothing but a lord:",199
+NA,Scene II,Lord,Thou hast a lady far more beautiful,200
+NA,Scene II,Lord,Than any woman in this waning age.,201
+NA,Scene II,First Servant,And till the tears that she hath shed for thee,202
+NA,Scene II,First Servant,"Like envious floods o'er-run her lovely face,",203
+NA,Scene II,First Servant,She was the fairest creature in the world;,204
+NA,Scene II,First Servant,And yet she is inferior to none.,205
+NA,Scene II,Sly,Am I a lord? and have I such a lady?,206
+NA,Scene II,Sly,Or do I dream? or have I dream'd till now?,207
+NA,Scene II,Sly,"I do not sleep: I see, I hear, I speak;",208
+NA,Scene II,Sly,I smell sweet savours and I feel soft things:,209
+NA,Scene II,Sly,"Upon my life, I am a lord indeed",210
+NA,Scene II,Sly,And not a tinker nor Christophero Sly.,211
+NA,Scene II,Sly,"Well, bring our lady hither to our sight;",212
+NA,Scene II,Sly,"And once again, a pot o' the smallest ale.",213
+NA,Scene II,Second Servant,Will't please your mightiness to wash your hands?,214
+NA,Scene II,Second Servant,"O, how we joy to see your wit restored!",215
+NA,Scene II,Second Servant,"O, that once more you knew but what you are!",216
+NA,Scene II,Second Servant,These fifteen years you have been in a dream;,217
+NA,Scene II,Second Servant,"Or when you waked, so waked as if you slept.",218
+NA,Scene II,Sly,"These fifteen years! by my fay, a goodly nap.",219
+NA,Scene II,Sly,But did I never speak of all that time?,220
+NA,Scene II,First Servant,"O, yes, my lord, but very idle words:",221
+NA,Scene II,First Servant,"For though you lay here in this goodly chamber,",222
+NA,Scene II,First Servant,Yet would you say ye were beaten out of door;,223
+NA,Scene II,First Servant,And rail upon the hostess of the house;,224
+NA,Scene II,First Servant,"And say you would present her at the leet,",225
+NA,Scene II,First Servant,Because she brought stone jugs and no seal'd quarts:,226
+NA,Scene II,First Servant,Sometimes you would call out for Cicely Hacket.,227
+NA,Scene II,Sly,"Ay, the woman's maid of the house.",228
+NA,Scene II,Third Servant,"Why, sir, you know no house nor no such maid,",229
+NA,Scene II,Third Servant,"Nor no such men as you have reckon'd up,",230
+NA,Scene II,Third Servant,As Stephen Sly and did John Naps of Greece,231
+NA,Scene II,Third Servant,And Peter Turph and Henry Pimpernell,232
+NA,Scene II,Third Servant,And twenty more such names and men as these,233
+NA,Scene II,Third Servant,Which never were nor no man ever saw.,234
+NA,Scene II,Sly,Now Lord be thanked for my good amends!,235
+NA,Scene II,All,Amen.,236
+NA,Scene II,Sly,I thank thee: thou shalt not lose by it.,237
+NA,Scene II,[stage direction],"Enter the Page as a lady, with attendants",NA
+NA,Scene II,Page,How fares my noble lord?,238
+NA,Scene II,Sly,"Marry, I fare well for here is cheer enough.",239
+NA,Scene II,Sly,Where is my wife?,240
+NA,Scene II,Page,"Here, noble lord: what is thy will with her?",241
+NA,Scene II,Sly,Are you my wife and will not call me husband?,242
+NA,Scene II,Sly,My men should call me 'lord:' I am your goodman.,243
+NA,Scene II,Page,"My husband and my lord, my lord and husband;",244
+NA,Scene II,Page,I am your wife in all obedience.,245
+NA,Scene II,Sly,I know it well. What must I call her?,246
+NA,Scene II,Lord,Madam.,247
+NA,Scene II,Sly,"Al'ce madam, or Joan madam?",248
+NA,Scene II,Lord,"'Madam,' and nothing else: so lords",249
+NA,Scene II,Lord,call ladies.,250
+NA,Scene II,Sly,"Madam wife, they say that I have dream'd",251
+NA,Scene II,Sly,And slept above some fifteen year or more.,252
+NA,Scene II,Page,"Ay, and the time seems thirty unto me,",253
+NA,Scene II,Page,Being all this time abandon'd from your bed.,254
+NA,Scene II,Sly,"'Tis much. Servants, leave me and her alone.",255
+NA,Scene II,Sly,"Madam, undress you and come now to bed.",256
+NA,Scene II,Page,"Thrice noble lord, let me entreat of you",257
+NA,Scene II,Page,"To pardon me yet for a night or two,",258
+NA,Scene II,Page,"Or, if not so, until the sun be set:",259
+NA,Scene II,Page,"For your physicians have expressly charged,",260
+NA,Scene II,Page,"In peril to incur your former malady,",261
+NA,Scene II,Page,That I should yet absent me from your bed:,262
+NA,Scene II,Page,I hope this reason stands for my excuse.,263
+NA,Scene II,Sly,"Ay, it stands so that I may hardly",264
+NA,Scene II,Sly,tarry so long. But I would be loath to fall into,265
+NA,Scene II,Sly,my dreams again: I will therefore tarry in,266
+NA,Scene II,Sly,despite of the flesh and the blood.,267
+NA,Scene II,[stage direction],Enter a Messenger,NA
+NA,Scene II,Messenger,"Your honour's players, heating your amendment,",268
+NA,Scene II,Messenger,Are come to play a pleasant comedy;,269
+NA,Scene II,Messenger,"For so your doctors hold it very meet,",270
+NA,Scene II,Messenger,"Seeing too much sadness hath congeal'd your blood,",271
+NA,Scene II,Messenger,And melancholy is the nurse of frenzy:,272
+NA,Scene II,Messenger,Therefore they thought it good you hear a play,273
+NA,Scene II,Messenger,"And frame your mind to mirth and merriment,",274
+NA,Scene II,Messenger,Which bars a thousand harms and lengthens life.,275
+NA,Scene II,Sly,"Marry, I will, let them play it. Is not a",276
+NA,Scene II,Sly,comondy a Christmas gambold or a tumbling-trick?,277
+NA,Scene II,Page,"No, my good lord; it is more pleasing stuff.",278
+NA,Scene II,Sly,"What, household stuff?",279
+NA,Scene II,Page,It is a kind of history.,280
+NA,Scene II,Sly,"Well, well see't. Come, madam wife, sit by my side",281
+NA,Scene II,Sly,and let the world slip: we shall ne'er be younger.,282
+NA,Scene II,[stage direction],Flourish,NA
+Act I,Scene I,[stage direction],Enter LUCENTIO and his man TRANIO,NA
+Act I,Scene I,Lucentio,"Tranio, since for the great desire I had",283
+Act I,Scene I,Lucentio,"To see fair Padua, nursery of arts,",284
+Act I,Scene I,Lucentio,"I am arrived for fruitful Lombardy,",285
+Act I,Scene I,Lucentio,The pleasant garden of great Italy;,286
+Act I,Scene I,Lucentio,And by my father's love and leave am arm'd,287
+Act I,Scene I,Lucentio,"With his good will and thy good company,",288
+Act I,Scene I,Lucentio,"My trusty servant, well approved in all,",289
+Act I,Scene I,Lucentio,Here let us breathe and haply institute,290
+Act I,Scene I,Lucentio,A course of learning and ingenious studies.,291
+Act I,Scene I,Lucentio,Pisa renown'd for grave citizens,292
+Act I,Scene I,Lucentio,"Gave me my being and my father first,",293
+Act I,Scene I,Lucentio,"A merchant of great traffic through the world,",294
+Act I,Scene I,Lucentio,Vincetino come of Bentivolii.,295
+Act I,Scene I,Lucentio,Vincetino's son brought up in Florence,296
+Act I,Scene I,Lucentio,"It shall become to serve all hopes conceived,",297
+Act I,Scene I,Lucentio,To deck his fortune with his virtuous deeds:,298
+Act I,Scene I,Lucentio,"And therefore, Tranio, for the time I study,",299
+Act I,Scene I,Lucentio,Virtue and that part of philosophy,300
+Act I,Scene I,Lucentio,Will I apply that treats of happiness,301
+Act I,Scene I,Lucentio,By virtue specially to be achieved.,302
+Act I,Scene I,Lucentio,Tell me thy mind; for I have Pisa left,303
+Act I,Scene I,Lucentio,"And am to Padua come, as he that leaves",304
+Act I,Scene I,Lucentio,A shallow plash to plunge him in the deep,305
+Act I,Scene I,Lucentio,And with satiety seeks to quench his thirst.,306
+Act I,Scene I,Tranio,"Mi perdonato, gentle master mine,",307
+Act I,Scene I,Tranio,I am in all affected as yourself;,308
+Act I,Scene I,Tranio,Glad that you thus continue your resolve,309
+Act I,Scene I,Tranio,To suck the sweets of sweet philosophy.,310
+Act I,Scene I,Tranio,"Only, good master, while we do admire",311
+Act I,Scene I,Tranio,"This virtue and this moral discipline,",312
+Act I,Scene I,Tranio,"Let's be no stoics nor no stocks, I pray;",313
+Act I,Scene I,Tranio,Or so devote to Aristotle's cheques,314
+Act I,Scene I,Tranio,As Ovid be an outcast quite abjured:,315
+Act I,Scene I,Tranio,Balk logic with acquaintance that you have,316
+Act I,Scene I,Tranio,And practise rhetoric in your common talk;,317
+Act I,Scene I,Tranio,Music and poesy use to quicken you;,318
+Act I,Scene I,Tranio,"The mathematics and the metaphysics,",319
+Act I,Scene I,Tranio,Fall to them as you find your stomach serves you;,320
+Act I,Scene I,Tranio,No profit grows where is no pleasure ta'en:,321
+Act I,Scene I,Tranio,"In brief, sir, study what you most affect.",322
+Act I,Scene I,Lucentio,"Gramercies, Tranio, well dost thou advise.",323
+Act I,Scene I,Lucentio,"If, Biondello, thou wert come ashore,",324
+Act I,Scene I,Lucentio,"We could at once put us in readiness,",325
+Act I,Scene I,Lucentio,And take a lodging fit to entertain,326
+Act I,Scene I,Lucentio,Such friends as time in Padua shall beget.,327
+Act I,Scene I,Lucentio,But stay a while: what company is this?,328
+Act I,Scene I,Tranio,"Master, some show to welcome us to town.",329
+Act I,Scene I,[stage direction],"Enter BAPTISTA, KATHARINA, BIANCA, GREMIO, and HORTENSIO. LUCENTIO and TRANIO stand by",NA
+Act I,Scene I,Baptista,"Gentlemen, importune me no farther,",330
+Act I,Scene I,Baptista,For how I firmly am resolved you know;,331
+Act I,Scene I,Baptista,"That is, not bestow my youngest daughter",332
+Act I,Scene I,Baptista,Before I have a husband for the elder:,333
+Act I,Scene I,Baptista,"If either of you both love Katharina,",334
+Act I,Scene I,Baptista,"Because I know you well and love you well,",335
+Act I,Scene I,Baptista,Leave shall you have to court her at your pleasure.,336
+Act I,Scene I,Gremio,[Aside]  To cart her rather: she's too rough for me.,337
+Act I,Scene I,Gremio,"There, There, Hortensio, will you any wife?",338
+Act I,Scene I,Katharina,"I pray you, sir, is it your will",339
+Act I,Scene I,Katharina,To make a stale of me amongst these mates?,340
+Act I,Scene I,Hortensio,"Mates, maid! how mean you that? no mates for you,",341
+Act I,Scene I,Hortensio,"Unless you were of gentler, milder mould.",342
+Act I,Scene I,Katharina,"I'faith, sir, you shall never need to fear:",343
+Act I,Scene I,Katharina,I wis it is not half way to her heart;,344
+Act I,Scene I,Katharina,"But if it were, doubt not her care should be",345
+Act I,Scene I,Katharina,To comb your noddle with a three-legg'd stool,346
+Act I,Scene I,Katharina,And paint your face and use you like a fool.,347
+Act I,Scene I,Hortensia,"From all such devils, good Lord deliver us!",348
+Act I,Scene I,Gremio,"And me too, good Lord!",349
+Act I,Scene I,Tranio,"Hush, master! here's some good pastime toward:",350
+Act I,Scene I,Tranio,That wench is stark mad or wonderful froward.,351
+Act I,Scene I,Lucentio,But in the other's silence do I see,352
+Act I,Scene I,Lucentio,Maid's mild behavior and sobriety.,353
+Act I,Scene I,Lucentio,"Peace, Tranio!",354
+Act I,Scene I,Tranio,"Well said, master; mum! and gaze your fill.",355
+Act I,Scene I,Baptista,"Gentlemen, that I may soon make good",356
+Act I,Scene I,Baptista,"What I have said, Bianca, get you in:",357
+Act I,Scene I,Baptista,"And let it not displease thee, good Bianca,",358
+Act I,Scene I,Baptista,"For I will love thee ne'er the less, my girl.",359
+Act I,Scene I,Katharina,A pretty peat! it is best,360
+Act I,Scene I,Katharina,"Put finger in the eye, an she knew why.",361
+Act I,Scene I,Bianca,"Sister, content you in my discontent.",362
+Act I,Scene I,Bianca,"Sir, to your pleasure humbly I subscribe:",363
+Act I,Scene I,Bianca,"My books and instruments shall be my company,",364
+Act I,Scene I,Bianca,On them to took and practise by myself.,365
+Act I,Scene I,Lucentio,"Hark, Tranio! thou may'st hear Minerva speak.",366
+Act I,Scene I,Hortensio,"Signior Baptista, will you be so strange?",367
+Act I,Scene I,Hortensio,Sorry am I that our good will effects,368
+Act I,Scene I,Hortensio,Bianca's grief.,369
+Act I,Scene I,Gremio,"Why will you mew her up,",370
+Act I,Scene I,Gremio,"Signior Baptista, for this fiend of hell,",371
+Act I,Scene I,Gremio,And make her bear the penance of her tongue?,372
+Act I,Scene I,Baptista,"Gentlemen, content ye; I am resolved:",373
+Act I,Scene I,Baptista,"Go in, Bianca:",374
+Act I,Scene I,[stage direction],Exit BIANCA,NA
+Act I,Scene I,Baptista,And for I know she taketh most delight,375
+Act I,Scene I,Baptista,"In music, instruments and poetry,",376
+Act I,Scene I,Baptista,"Schoolmasters will I keep within my house,",377
+Act I,Scene I,Baptista,"Fit to instruct her youth. If you, Hortensio,",378
+Act I,Scene I,Baptista,"Or Signior Gremio, you, know any such,",379
+Act I,Scene I,Baptista,Prefer them hither; for to cunning men,380
+Act I,Scene I,Baptista,"I will be very kind, and liberal",381
+Act I,Scene I,Baptista,To mine own children in good bringing up:,382
+Act I,Scene I,Baptista,"And so farewell. Katharina, you may stay;",383
+Act I,Scene I,Baptista,For I have more to commune with Bianca.,384
+Act I,Scene I,[stage direction],Exit,NA
+Act I,Scene I,Katharina,"Why, and I trust I may go too, may I not? What,",385
+Act I,Scene I,Katharina,"shall I be appointed hours; as though, belike, I",386
+Act I,Scene I,Katharina,"knew not what to take and what to leave, ha?",387
+Act I,Scene I,[stage direction],Exit,NA
+Act I,Scene I,Gremio,You may go to the devil's dam: your gifts are so,388
+Act I,Scene I,Gremio,"good, here's none will hold you. Their love is not",389
+Act I,Scene I,Gremio,"so great, Hortensio, but we may blow our nails",390
+Act I,Scene I,Gremio,"together, and fast it fairly out: our cakes dough on",391
+Act I,Scene I,Gremio,both sides. Farewell: yet for the love I bear my,392
+Act I,Scene I,Gremio,"sweet Bianca, if I can by any means light on a fit",393
+Act I,Scene I,Gremio,"man to teach her that wherein she delights, I will",394
+Act I,Scene I,Gremio,wish him to her father.,395
+Act I,Scene I,Hortensio,"So will I, Signior Gremio: but a word, I pray.",396
+Act I,Scene I,Hortensio,Though the nature of our quarrel yet never brooked,397
+Act I,Scene I,Hortensio,"parle, know now, upon advice, it toucheth us both,",398
+Act I,Scene I,Hortensio,that we may yet again have access to our fair,399
+Act I,Scene I,Hortensio,"mistress and be happy rivals in Bianco's love, to",400
+Act I,Scene I,Hortensio,labour and effect one thing specially.,401
+Act I,Scene I,Gremio,"What's that, I pray?",402
+Act I,Scene I,Hortensio,"Marry, sir, to get a husband for her sister.",403
+Act I,Scene I,Gremio,A husband! a devil.,404
+Act I,Scene I,Hortensio,"I say, a husband.",405
+Act I,Scene I,Gremio,"I say, a devil. Thinkest thou, Hortensio, though",406
+Act I,Scene I,Gremio,"her father be very rich, any man is so very a fool",407
+Act I,Scene I,Gremio,to be married to hell?,408
+Act I,Scene I,Hortensio,"Tush, Gremio, though it pass your patience and mine",409
+Act I,Scene I,Hortensio,"to endure her loud alarums, why, man, there be good",410
+Act I,Scene I,Hortensio,"fellows in the world, an a man could light on them,",411
+Act I,Scene I,Hortensio,"would take her with all faults, and money enough.",412
+Act I,Scene I,Gremio,I cannot tell; but I had as lief take her dowry with,413
+Act I,Scene I,Gremio,"this condition, to be whipped at the high cross",414
+Act I,Scene I,Gremio,every morning.,415
+Act I,Scene I,Hortensio,"Faith, as you say, there's small choice in rotten",416
+Act I,Scene I,Hortensio,apples. But come; since this bar in law makes us,417
+Act I,Scene I,Hortensio,"friends, it shall be so far forth friendly",418
+Act I,Scene I,Hortensio,maintained all by helping Baptista's eldest daughter,419
+Act I,Scene I,Hortensio,"to a husband we set his youngest free for a husband,",420
+Act I,Scene I,Hortensio,and then have to't a fresh. Sweet Bianca! Happy man,421
+Act I,Scene I,Hortensio,be his dole! He that runs fastest gets the ring.,422
+Act I,Scene I,Hortensio,"How say you, Signior Gremio?",423
+Act I,Scene I,Gremio,I am agreed; and would I had given him the best,424
+Act I,Scene I,Gremio,horse in Padua to begin his wooing that would,425
+Act I,Scene I,Gremio,"thoroughly woo her, wed her and bed her and rid the",426
+Act I,Scene I,Gremio,house of her! Come on.,427
+Act I,Scene I,[stage direction],Exeunt GREMIO and HORTENSIO,NA
+Act I,Scene I,Tranio,"I pray, sir, tell me, is it possible",428
+Act I,Scene I,Tranio,That love should of a sudden take such hold?,429
+Act I,Scene I,Lucentio,"O Tranio, till I found it to be true,",430
+Act I,Scene I,Lucentio,I never thought it possible or likely;,431
+Act I,Scene I,Lucentio,"But see, while idly I stood looking on,",432
+Act I,Scene I,Lucentio,I found the effect of love in idleness:,433
+Act I,Scene I,Lucentio,"And now in plainness do confess to thee,",434
+Act I,Scene I,Lucentio,That art to me as secret and as dear,435
+Act I,Scene I,Lucentio,"As Anna to the queen of Carthage was,",436
+Act I,Scene I,Lucentio,"Tranio, I burn, I pine, I perish, Tranio,",437
+Act I,Scene I,Lucentio,If I achieve not this young modest girl.,438
+Act I,Scene I,Lucentio,"Counsel me, Tranio, for I know thou canst;",439
+Act I,Scene I,Lucentio,"Assist me, Tranio, for I know thou wilt.",440
+Act I,Scene I,Tranio,"Master, it is no time to chide you now;",441
+Act I,Scene I,Tranio,Affection is not rated from the heart:,442
+Act I,Scene I,Tranio,"If love have touch'd you, nought remains but so,",443
+Act I,Scene I,Tranio,'Redime te captum quam queas minimo.',444
+Act I,Scene I,Lucentio,"Gramercies, lad, go forward; this contents:",445
+Act I,Scene I,Lucentio,"The rest will comfort, for thy counsel's sound.",446
+Act I,Scene I,Tranio,"Master, you look'd so longly on the maid,",447
+Act I,Scene I,Tranio,Perhaps you mark'd not what's the pith of all.,448
+Act I,Scene I,Lucentio,"O yes, I saw sweet beauty in her face,",449
+Act I,Scene I,Lucentio,"Such as the daughter of Agenor had,",450
+Act I,Scene I,Lucentio,That made great Jove to humble him to her hand.,451
+Act I,Scene I,Lucentio,When with his knees he kiss'd the Cretan strand.,452
+Act I,Scene I,Tranio,Saw you no more? mark'd you not how her sister,453
+Act I,Scene I,Tranio,Began to scold and raise up such a storm,454
+Act I,Scene I,Tranio,That mortal ears might hardly endure the din?,455
+Act I,Scene I,Lucentio,"Tranio, I saw her coral lips to move",456
+Act I,Scene I,Lucentio,And with her breath she did perfume the air:,457
+Act I,Scene I,Lucentio,Sacred and sweet was all I saw in her.,458
+Act I,Scene I,Tranio,"Nay, then, 'tis time to stir him from his trance.",459
+Act I,Scene I,Tranio,"I pray, awake, sir: if you love the maid,",460
+Act I,Scene I,Tranio,Bend thoughts and wits to achieve her. Thus it stands:,461
+Act I,Scene I,Tranio,Her eldest sister is so curst and shrewd,462
+Act I,Scene I,Tranio,"That till the father rid his hands of her,",463
+Act I,Scene I,Tranio,"Master, your love must live a maid at home;",464
+Act I,Scene I,Tranio,"And therefore has he closely mew'd her up,",465
+Act I,Scene I,Tranio,Because she will not be annoy'd with suitors.,466
+Act I,Scene I,Lucentio,"Ah, Tranio, what a cruel father's he!",467
+Act I,Scene I,Lucentio,"But art thou not advised, he took some care",468
+Act I,Scene I,Lucentio,To get her cunning schoolmasters to instruct her?,469
+Act I,Scene I,Tranio,"Ay, marry, am I, sir; and now 'tis plotted.",470
+Act I,Scene I,Lucentio,"I have it, Tranio.",471
+Act I,Scene I,Tranio,"Master, for my hand,",472
+Act I,Scene I,Tranio,Both our inventions meet and jump in one.,473
+Act I,Scene I,Lucentio,Tell me thine first.,474
+Act I,Scene I,Tranio,You will be schoolmaster,475
+Act I,Scene I,Tranio,And undertake the teaching of the maid:,476
+Act I,Scene I,Tranio,That's your device.,477
+Act I,Scene I,Lucentio,It is: may it be done?,478
+Act I,Scene I,Tranio,"Not possible; for who shall bear your part,",479
+Act I,Scene I,Tranio,"And be in Padua here Vincentio's son,",480
+Act I,Scene I,Tranio,"Keep house and ply his book, welcome his friends,",481
+Act I,Scene I,Tranio,Visit his countrymen and banquet them?,482
+Act I,Scene I,Lucentio,"Basta; content thee, for I have it full.",483
+Act I,Scene I,Lucentio,"We have not yet been seen in any house,",484
+Act I,Scene I,Lucentio,Nor can we lie distinguish'd by our faces,485
+Act I,Scene I,Lucentio,For man or master; then it follows thus;,486
+Act I,Scene I,Lucentio,"Thou shalt be master, Tranio, in my stead,",487
+Act I,Scene I,Lucentio,Keep house and port and servants as I should:,488
+Act I,Scene I,Lucentio,"I will some other be, some Florentine,",489
+Act I,Scene I,Lucentio,"Some Neapolitan, or meaner man of Pisa.",490
+Act I,Scene I,Lucentio,"'Tis hatch'd and shall be so: Tranio, at once",491
+Act I,Scene I,Lucentio,Uncase thee; take my colour'd hat and cloak:,492
+Act I,Scene I,Lucentio,"When Biondello comes, he waits on thee;",493
+Act I,Scene I,Lucentio,But I will charm him first to keep his tongue.,494
+Act I,Scene I,Tranio,So had you need.,495
+Act I,Scene I,Tranio,"In brief, sir, sith it your pleasure is,",496
+Act I,Scene I,Tranio,And I am tied to be obedient;,497
+Act I,Scene I,Tranio,"For so your father charged me at our parting,",498
+Act I,Scene I,Tranio,"'Be serviceable to my son,' quoth he,",499
+Act I,Scene I,Tranio,Although I think 'twas in another sense;,500
+Act I,Scene I,Tranio,"I am content to be Lucentio,",501
+Act I,Scene I,Tranio,Because so well I love Lucentio.,502
+Act I,Scene I,Lucentio,"Tranio, be so, because Lucentio loves:",503
+Act I,Scene I,Lucentio,"And let me be a slave, to achieve that maid",504
+Act I,Scene I,Lucentio,Whose sudden sight hath thrall'd my wounded eye.,505
+Act I,Scene I,Lucentio,Here comes the rogue.,506
+Act I,Scene I,[stage direction],Enter BIONDELLO,NA
+Act I,Scene I,Lucentio,"Sirrah, where have you been?",507
+Act I,Scene I,Biondello,"Where have I been! Nay, how now! where are you?",508
+Act I,Scene I,Biondello,"Master, has my fellow Tranio stolen your clothes? Or",509
+Act I,Scene I,Biondello,"you stolen his? or both? pray, what's the news?",510
+Act I,Scene I,Lucentio,"Sirrah, come hither: 'tis no time to jest,",511
+Act I,Scene I,Lucentio,And therefore frame your manners to the time.,512
+Act I,Scene I,Lucentio,"Your fellow Tranio here, to save my life,",513
+Act I,Scene I,Lucentio,"Puts my apparel and my countenance on,",514
+Act I,Scene I,Lucentio,And I for my escape have put on his;,515
+Act I,Scene I,Lucentio,For in a quarrel since I came ashore,516
+Act I,Scene I,Lucentio,I kill'd a man and fear I was descried:,517
+Act I,Scene I,Lucentio,"Wait you on him, I charge you, as becomes,",518
+Act I,Scene I,Lucentio,While I make way from hence to save my life:,519
+Act I,Scene I,Lucentio,You understand me?,520
+Act I,Scene I,Biondello,"I, sir! ne'er a whit.",521
+Act I,Scene I,Lucentio,And not a jot of Tranio in your mouth:,522
+Act I,Scene I,Lucentio,Tranio is changed into Lucentio.,523
+Act I,Scene I,Biondello,The better for him: would I were so too!,524
+Act I,Scene I,Tranio,"So could I, faith, boy, to have the next wish after,",525
+Act I,Scene I,Tranio,That Lucentio indeed had Baptista's youngest daughter.,526
+Act I,Scene I,Tranio,"But, sirrah, not for my sake, but your master's, I advise",527
+Act I,Scene I,Tranio,You use your manners discreetly in all kind of companies:,528
+Act I,Scene I,Tranio,"When I am alone, why, then I am Tranio;",529
+Act I,Scene I,Tranio,But in all places else your master Lucentio.,530
+Act I,Scene I,Lucentio,"Tranio, let's go: one thing more rests, that",531
+Act I,Scene I,Lucentio,"thyself execute, to make one among these wooers: if",532
+Act I,Scene I,Lucentio,"thou ask me why, sufficeth, my reasons are both good",533
+Act I,Scene I,Lucentio,and weighty.,534
+Act I,Scene I,[stage direction],Exeunt,NA
+Act I,Scene I,[stage direction],The presenters above speak,NA
+Act I,Scene I,First Servant,"My lord, you nod; you do not mind the play.",535
+Act I,Scene I,Sly,"Yes, by Saint Anne, do I. A good matter, surely:",536
+Act I,Scene I,Sly,comes there any more of it?,537
+Act I,Scene I,Page,"My lord, 'tis but begun.",538
+Act I,Scene I,Sly,"'Tis a very excellent piece of work, madam lady:",539
+Act I,Scene I,Sly,would 'twere done!,540
+Act I,Scene I,[stage direction],They sit and mark,NA
+Act I,Scene II,[stage direction],Enter PETRUCHIO and his man GRUMIO,NA
+Act I,Scene II,Petruchio,"Verona, for a while I take my leave,",541
+Act I,Scene II,Petruchio,"To see my friends in Padua, but of all",542
+Act I,Scene II,Petruchio,"My best beloved and approved friend,",543
+Act I,Scene II,Petruchio,Hortensio; and I trow this is his house.,544
+Act I,Scene II,Petruchio,"Here, sirrah Grumio; knock, I say.",545
+Act I,Scene II,Grumio,"Knock, sir! whom should I knock? is there man has",546
+Act I,Scene II,Grumio,rebused your worship?,547
+Act I,Scene II,Petruchio,"Villain, I say, knock me here soundly.",548
+Act I,Scene II,Grumio,"Knock you here, sir! why, sir, what am I, sir, that",549
+Act I,Scene II,Grumio,"I should knock you here, sir?",550
+Act I,Scene II,Petruchio,"Villain, I say, knock me at this gate",551
+Act I,Scene II,Petruchio,"And rap me well, or I'll knock your knave's pate.",552
+Act I,Scene II,Grumio,My master is grown quarrelsome. I should knock,553
+Act I,Scene II,Grumio,"you first,",554
+Act I,Scene II,Grumio,And then I know after who comes by the worst.,555
+Act I,Scene II,Petruchio,Will it not be?,556
+Act I,Scene II,Petruchio,"Faith, sirrah, an you'll not knock, I'll ring it;",557
+Act I,Scene II,Petruchio,"I'll try how you can sol, fa, and sing it.",558
+Act I,Scene II,[stage direction],He wrings him by the ears,NA
+Act I,Scene II,Grumio,"Help, masters, help! my master is mad.",559
+Act I,Scene II,Petruchio,"Now, knock when I bid you, sirrah villain!",560
+Act I,Scene II,[stage direction],Enter HORTENSIO,NA
+Act I,Scene II,Hortensio,How now! what's the matter? My old friend Grumio!,561
+Act I,Scene II,Hortensio,and my good friend Petruchio! How do you all at Verona?,562
+Act I,Scene II,Petruchio,"Signior Hortensio, come you to part the fray?",563
+Act I,Scene II,Petruchio,"'Con tutto il cuore, ben trovato,' may I say.",564
+Act I,Scene II,Hortensio,"'Alla nostra casa ben venuto, molto honorato signor",565
+Act I,Scene II,Hortensio,"mio Petruchio.' Rise, Grumio, rise: we will compound",566
+Act I,Scene II,Hortensio,this quarrel.,567
+Act I,Scene II,Grumio,"Nay, 'tis no matter, sir, what he 'leges in Latin.",568
+Act I,Scene II,Grumio,if this be not a lawful case for me to leave his,569
+Act I,Scene II,Grumio,"service, look you, sir, he bid me knock him and rap",570
+Act I,Scene II,Grumio,"him soundly, sir: well, was it fit for a servant to",571
+Act I,Scene II,Grumio,"use his master so, being perhaps, for aught I see,",572
+Act I,Scene II,Grumio,"two and thirty, a pip out? Whom would to God I had",573
+Act I,Scene II,Grumio,"well knock'd at first, Then had not Grumio come by the worst.",574
+Act I,Scene II,Petruchio,"A senseless villain! Good Hortensio,",575
+Act I,Scene II,Petruchio,I bade the rascal knock upon your gate,576
+Act I,Scene II,Petruchio,And could not get him for my heart to do it.,577
+Act I,Scene II,Grumio,Knock at the gate! O heavens! Spake you not these,578
+Act I,Scene II,Grumio,"words plain, 'Sirrah, knock me here, rap me here,",579
+Act I,Scene II,Grumio,"knock me well, and knock me soundly'? And come you",580
+Act I,Scene II,Grumio,"now with, 'knocking at the gate'?",581
+Act I,Scene II,Petruchio,"Sirrah, be gone, or talk not, I advise you.",582
+Act I,Scene II,Hortensio,"Petruchio, patience; I am Grumio's pledge:",583
+Act I,Scene II,Hortensio,"Why, this's a heavy chance 'twixt him and you,",584
+Act I,Scene II,Hortensio,"Your ancient, trusty, pleasant servant Grumio.",585
+Act I,Scene II,Hortensio,"And tell me now, sweet friend, what happy gale",586
+Act I,Scene II,Hortensio,Blows you to Padua here from old Verona?,587
+Act I,Scene II,Petruchio,"Such wind as scatters young men through the world,",588
+Act I,Scene II,Petruchio,To seek their fortunes farther than at home,589
+Act I,Scene II,Petruchio,"Where small experience grows. But in a few,",590
+Act I,Scene II,Petruchio,"Signior Hortensio, thus it stands with me:",591
+Act I,Scene II,Petruchio,"Antonio, my father, is deceased;",592
+Act I,Scene II,Petruchio,"And I have thrust myself into this maze,",593
+Act I,Scene II,Petruchio,Haply to wive and thrive as best I may:,594
+Act I,Scene II,Petruchio,"Crowns in my purse I have and goods at home,",595
+Act I,Scene II,Petruchio,And so am come abroad to see the world.,596
+Act I,Scene II,Hortensio,"Petruchio, shall I then come roundly to thee",597
+Act I,Scene II,Hortensio,And wish thee to a shrewd ill-favour'd wife?,598
+Act I,Scene II,Hortensio,Thou'ldst thank me but a little for my counsel:,599
+Act I,Scene II,Hortensio,And yet I'll promise thee she shall be rich,600
+Act I,Scene II,Hortensio,"And very rich: but thou'rt too much my friend,",601
+Act I,Scene II,Hortensio,And I'll not wish thee to her.,602
+Act I,Scene II,Petruchio,"Signior Hortensio, 'twixt such friends as we",603
+Act I,Scene II,Petruchio,"Few words suffice; and therefore, if thou know",604
+Act I,Scene II,Petruchio,"One rich enough to be Petruchio's wife,",605
+Act I,Scene II,Petruchio,"As wealth is burden of my wooing dance,",606
+Act I,Scene II,Petruchio,"Be she as foul as was Florentius' love,",607
+Act I,Scene II,Petruchio,As old as Sibyl and as curst and shrewd,608
+Act I,Scene II,Petruchio,"As Socrates' Xanthippe, or a worse,",609
+Act I,Scene II,Petruchio,"She moves me not, or not removes, at least,",610
+Act I,Scene II,Petruchio,"Affection's edge in me, were she as rough",611
+Act I,Scene II,Petruchio,As are the swelling Adriatic seas:,612
+Act I,Scene II,Petruchio,I come to wive it wealthily in Padua;,613
+Act I,Scene II,Petruchio,"If wealthily, then happily in Padua.",614
+Act I,Scene II,Grumio,"Nay, look you, sir, he tells you flatly what his",615
+Act I,Scene II,Grumio,mind is: Why give him gold enough and marry him to,616
+Act I,Scene II,Grumio,a puppet or an aglet-baby; or an old trot with ne'er,617
+Act I,Scene II,Grumio,"a tooth in her head, though she have as many diseases",618
+Act I,Scene II,Grumio,"as two and fifty horses: why, nothing comes amiss,",619
+Act I,Scene II,Grumio,so money comes withal.,620
+Act I,Scene II,Hortensio,"Petruchio, since we are stepp'd thus far in,",621
+Act I,Scene II,Hortensio,I will continue that I broach'd in jest.,622
+Act I,Scene II,Hortensio,"I can, Petruchio, help thee to a wife",623
+Act I,Scene II,Hortensio,"With wealth enough and young and beauteous,",624
+Act I,Scene II,Hortensio,Brought up as best becomes a gentlewoman:,625
+Act I,Scene II,Hortensio,"Her only fault, and that is faults enough,",626
+Act I,Scene II,Hortensio,Is that she is intolerable curst,627
+Act I,Scene II,Hortensio,"And shrewd and froward, so beyond all measure",628
+Act I,Scene II,Hortensio,"That, were my state far worser than it is,",629
+Act I,Scene II,Hortensio,I would not wed her for a mine of gold.,630
+Act I,Scene II,Petruchio,"Hortensio, peace! thou know'st not gold's effect:",631
+Act I,Scene II,Petruchio,Tell me her father's name and 'tis enough;,632
+Act I,Scene II,Petruchio,"For I will board her, though she chide as loud",633
+Act I,Scene II,Petruchio,As thunder when the clouds in autumn crack.,634
+Act I,Scene II,Hortensio,"Her father is Baptista Minola,",635
+Act I,Scene II,Hortensio,An affable and courteous gentleman:,636
+Act I,Scene II,Hortensio,"Her name is Katharina Minola,",637
+Act I,Scene II,Hortensio,Renown'd in Padua for her scolding tongue.,638
+Act I,Scene II,Petruchio,"I know her father, though I know not her;",639
+Act I,Scene II,Petruchio,And he knew my deceased father well.,640
+Act I,Scene II,Petruchio,"I will not sleep, Hortensio, till I see her;",641
+Act I,Scene II,Petruchio,And therefore let me be thus bold with you,642
+Act I,Scene II,Petruchio,"To give you over at this first encounter,",643
+Act I,Scene II,Petruchio,Unless you will accompany me thither.,644
+Act I,Scene II,Grumio,"I pray you, sir, let him go while the humour lasts.",645
+Act I,Scene II,Grumio,"O' my word, an she knew him as well as I do, she",646
+Act I,Scene II,Grumio,would think scolding would do little good upon him:,647
+Act I,Scene II,Grumio,she may perhaps call him half a score knaves or so:,648
+Act I,Scene II,Grumio,"why, that's nothing; an he begin once, he'll rail in",649
+Act I,Scene II,Grumio,"his rope-tricks. I'll tell you what sir, an she",650
+Act I,Scene II,Grumio,"stand him but a little, he will throw a figure in",651
+Act I,Scene II,Grumio,her face and so disfigure her with it that she,652
+Act I,Scene II,Grumio,shall have no more eyes to see withal than a cat.,653
+Act I,Scene II,Grumio,"You know him not, sir.",654
+Act I,Scene II,Hortensio,"Tarry, Petruchio, I must go with thee,",655
+Act I,Scene II,Hortensio,For in Baptista's keep my treasure is:,656
+Act I,Scene II,Hortensio,"He hath the jewel of my life in hold,",657
+Act I,Scene II,Hortensio,"His youngest daughter, beautiful Binaca,",658
+Act I,Scene II,Hortensio,"And her withholds from me and other more,",659
+Act I,Scene II,Hortensio,"Suitors to her and rivals in my love,",660
+Act I,Scene II,Hortensio,"Supposing it a thing impossible,",661
+Act I,Scene II,Hortensio,"For those defects I have before rehearsed,",662
+Act I,Scene II,Hortensio,That ever Katharina will be woo'd;,663
+Act I,Scene II,Hortensio,"Therefore this order hath Baptista ta'en,",664
+Act I,Scene II,Hortensio,That none shall have access unto Bianca,665
+Act I,Scene II,Hortensio,Till Katharina the curst have got a husband.,666
+Act I,Scene II,Grumio,Katharina the curst!,667
+Act I,Scene II,Grumio,A title for a maid of all titles the worst.,668
+Act I,Scene II,Hortensio,"Now shall my friend Petruchio do me grace,",669
+Act I,Scene II,Hortensio,And offer me disguised in sober robes,670
+Act I,Scene II,Hortensio,To old Baptista as a schoolmaster,671
+Act I,Scene II,Hortensio,"Well seen in music, to instruct Bianca;",672
+Act I,Scene II,Hortensio,"That so I may, by this device, at least",673
+Act I,Scene II,Hortensio,Have leave and leisure to make love to her,674
+Act I,Scene II,Hortensio,And unsuspected court her by herself.,675
+Act I,Scene II,Grumio,"Here's no knavery! See, to beguile the old folks,",676
+Act I,Scene II,Grumio,how the young folks lay their heads together!,677
+Act I,Scene II,[stage direction],"Enter GREMIO, and LUCENTIO disguised",NA
+Act I,Scene II,Grumio,"Master, master, look about you: who goes there, ha?",678
+Act I,Scene II,Hortensio,"Peace, Grumio! it is the rival of my love.",679
+Act I,Scene II,Hortensio,"Petruchio, stand by a while.",680
+Act I,Scene II,Grumio,A proper stripling and an amorous!,681
+Act I,Scene II,Gremio,"O, very well; I have perused the note.",682
+Act I,Scene II,Gremio,"Hark you, sir: I'll have them very fairly bound:",683
+Act I,Scene II,Gremio,"All books of love, see that at any hand;",684
+Act I,Scene II,Gremio,And see you read no other lectures to her:,685
+Act I,Scene II,Gremio,You understand me: over and beside,686
+Act I,Scene II,Gremio,"Signior Baptista's liberality,",687
+Act I,Scene II,Gremio,"I'll mend it with a largess. Take your paper too,",688
+Act I,Scene II,Gremio,And let me have them very well perfumed,689
+Act I,Scene II,Gremio,For she is sweeter than perfume itself,690
+Act I,Scene II,Gremio,To whom they go to. What will you read to her?,691
+Act I,Scene II,Lucentio,"Whate'er I read to her, I'll plead for you",692
+Act I,Scene II,Lucentio,"As for my patron, stand you so assured,",693
+Act I,Scene II,Lucentio,As firmly as yourself were still in place:,694
+Act I,Scene II,Lucentio,"Yea, and perhaps with more successful words",695
+Act I,Scene II,Lucentio,"Than you, unless you were a scholar, sir.",696
+Act I,Scene II,Gremio,"O this learning, what a thing it is!",697
+Act I,Scene II,Grumio,"O this woodcock, what an ass it is!",698
+Act I,Scene II,Petruchio,"Peace, sirrah!",699
+Act I,Scene II,Hortensio,"Grumio, mum! God save you, Signior Gremio.",700
+Act I,Scene II,Gremio,"And you are well met, Signior Hortensio.",701
+Act I,Scene II,Gremio,Trow you whither I am going? To Baptista Minola.,702
+Act I,Scene II,Gremio,I promised to inquire carefully,703
+Act I,Scene II,Gremio,About a schoolmaster for the fair Bianca:,704
+Act I,Scene II,Gremio,And by good fortune I have lighted well,705
+Act I,Scene II,Gremio,"On this young man, for learning and behavior",706
+Act I,Scene II,Gremio,"Fit for her turn, well read in poetry",707
+Act I,Scene II,Gremio,"And other books, good ones, I warrant ye.",708
+Act I,Scene II,Hortensio,'Tis well; and I have met a gentleman,709
+Act I,Scene II,Hortensio,"Hath promised me to help me to another,",710
+Act I,Scene II,Hortensio,A fine musician to instruct our mistress;,711
+Act I,Scene II,Hortensio,So shall I no whit be behind in duty,712
+Act I,Scene II,Hortensio,"To fair Bianca, so beloved of me.",713
+Act I,Scene II,Gremio,Beloved of me; and that my deeds shall prove.,714
+Act I,Scene II,Grumio,And that his bags shall prove.,715
+Act I,Scene II,Hortensio,"Gremio, 'tis now no time to vent our love:",716
+Act I,Scene II,Hortensio,"Listen to me, and if you speak me fair,",717
+Act I,Scene II,Hortensio,I'll tell you news indifferent good for either.,718
+Act I,Scene II,Hortensio,"Here is a gentleman whom by chance I met,",719
+Act I,Scene II,Hortensio,"Upon agreement from us to his liking,",720
+Act I,Scene II,Hortensio,"Will undertake to woo curst Katharina,",721
+Act I,Scene II,Hortensio,"Yea, and to marry her, if her dowry please.",722
+Act I,Scene II,Gremio,"So said, so done, is well.",723
+Act I,Scene II,Gremio,"Hortensio, have you told him all her faults?",724
+Act I,Scene II,Petruchio,I know she is an irksome brawling scold:,725
+Act I,Scene II,Petruchio,"If that be all, masters, I hear no harm.",726
+Act I,Scene II,Gremio,"No, say'st me so, friend? What countryman?",727
+Act I,Scene II,Petruchio,"Born in Verona, old Antonio's son:",728
+Act I,Scene II,Petruchio,"My father dead, my fortune lives for me;",729
+Act I,Scene II,Petruchio,And I do hope good days and long to see.,730
+Act I,Scene II,Gremio,"O sir, such a life, with such a wife, were strange!",731
+Act I,Scene II,Gremio,"But if you have a stomach, to't i' God's name:",732
+Act I,Scene II,Gremio,You shall have me assisting you in all.,733
+Act I,Scene II,Gremio,But will you woo this wild-cat?,734
+Act I,Scene II,Petruchio,Will I live?,735
+Act I,Scene II,Grumio,"Will he woo her? ay, or I'll hang her.",736
+Act I,Scene II,Petruchio,Why came I hither but to that intent?,737
+Act I,Scene II,Petruchio,Think you a little din can daunt mine ears?,738
+Act I,Scene II,Petruchio,Have I not in my time heard lions roar?,739
+Act I,Scene II,Petruchio,Have I not heard the sea puff'd up with winds,740
+Act I,Scene II,Petruchio,Rage like an angry boar chafed with sweat?,741
+Act I,Scene II,Petruchio,"Have I not heard great ordnance in the field,",742
+Act I,Scene II,Petruchio,And heaven's artillery thunder in the skies?,743
+Act I,Scene II,Petruchio,Have I not in a pitched battle heard,744
+Act I,Scene II,Petruchio,"Loud 'larums, neighing steeds, and trumpets' clang?",745
+Act I,Scene II,Petruchio,"And do you tell me of a woman's tongue,",746
+Act I,Scene II,Petruchio,That gives not half so great a blow to hear,747
+Act I,Scene II,Petruchio,As will a chestnut in a farmer's fire?,748
+Act I,Scene II,Petruchio,"Tush, tush! fear boys with bugs.",749
+Act I,Scene II,Grumio,For he fears none.,750
+Act I,Scene II,Gremio,"Hortensio, hark:",751
+Act I,Scene II,Gremio,"This gentleman is happily arrived,",752
+Act I,Scene II,Gremio,"My mind presumes, for his own good and ours.",753
+Act I,Scene II,Hortensio,I promised we would be contributors,754
+Act I,Scene II,Hortensio,"And bear his charging of wooing, whatsoe'er.",755
+Act I,Scene II,Gremio,"And so we will, provided that he win her.",756
+Act I,Scene II,Grumio,I would I were as sure of a good dinner.,757
+Act I,Scene II,[stage direction],"Enter TRANIO brave, and BIONDELLO",NA
+Act I,Scene II,Tranio,"Gentlemen, God save you. If I may be bold,",758
+Act I,Scene II,Tranio,"Tell me, I beseech you, which is the readiest way",759
+Act I,Scene II,Tranio,To the house of Signior Baptista Minola?,760
+Act I,Scene II,Biondello,He that has the two fair daughters: is't he you mean?,761
+Act I,Scene II,Tranio,"Even he, Biondello.",762
+Act I,Scene II,Gremio,"Hark you, sir; you mean not her to--",763
+Act I,Scene II,Tranio,"Perhaps, him and her, sir: what have you to do?",764
+Act I,Scene II,Petruchio,"Not her that chides, sir, at any hand, I pray.",765
+Act I,Scene II,Tranio,"I love no chiders, sir. Biondello, let's away.",766
+Act I,Scene II,Lucentio,"Well begun, Tranio.",767
+Act I,Scene II,Hortensio,"Sir, a word ere you go;",768
+Act I,Scene II,Hortensio,"Are you a suitor to the maid you talk of, yea or no?",769
+Act I,Scene II,Tranio,"And if I be, sir, is it any offence?",770
+Act I,Scene II,Gremio,No; if without more words you will get you hence.,771
+Act I,Scene II,Tranio,"Why, sir, I pray, are not the streets as free",772
+Act I,Scene II,Tranio,For me as for you?,773
+Act I,Scene II,Gremio,But so is not she.,774
+Act I,Scene II,Tranio,"For what reason, I beseech you?",775
+Act I,Scene II,Gremio,"For this reason, if you'll know,",776
+Act I,Scene II,Gremio,That she's the choice love of Signior Gremio.,777
+Act I,Scene II,Hortensio,That she's the chosen of Signior Hortensio.,778
+Act I,Scene II,Tranio,"Softly, my masters! if you be gentlemen,",779
+Act I,Scene II,Tranio,Do me this right; hear me with patience.,780
+Act I,Scene II,Tranio,"Baptista is a noble gentleman,",781
+Act I,Scene II,Tranio,To whom my father is not all unknown;,782
+Act I,Scene II,Tranio,"And were his daughter fairer than she is,",783
+Act I,Scene II,Tranio,She may more suitors have and me for one.,784
+Act I,Scene II,Tranio,Fair Leda's daughter had a thousand wooers;,785
+Act I,Scene II,Tranio,Then well one more may fair Bianca have:,786
+Act I,Scene II,Tranio,"And so she shall; Lucentio shall make one,",787
+Act I,Scene II,Tranio,Though Paris came in hope to speed alone.,788
+Act I,Scene II,Gremio,What! this gentleman will out-talk us all.,789
+Act I,Scene II,Lucentio,"Sir, give him head: I know he'll prove a jade.",790
+Act I,Scene II,Petruchio,"Hortensio, to what end are all these words?",791
+Act I,Scene II,Hortensio,"Sir, let me be so bold as ask you,",792
+Act I,Scene II,Hortensio,Did you yet ever see Baptista's daughter?,793
+Act I,Scene II,Tranio,"No, sir; but hear I do that he hath two,",794
+Act I,Scene II,Tranio,The one as famous for a scolding tongue,795
+Act I,Scene II,Tranio,As is the other for beauteous modesty.,796
+Act I,Scene II,Petruchio,"Sir, sir, the first's for me; let her go by.",797
+Act I,Scene II,Gremio,"Yea, leave that labour to great Hercules;",798
+Act I,Scene II,Gremio,And let it be more than Alcides' twelve.,799
+Act I,Scene II,Petruchio,"Sir, understand you this of me in sooth:",800
+Act I,Scene II,Petruchio,The younges t daughter whom you hearken for,801
+Act I,Scene II,Petruchio,"Her father keeps from all access of suitors,",802
+Act I,Scene II,Petruchio,And will not promise her to any man,803
+Act I,Scene II,Petruchio,Until the elder sister first be wed:,804
+Act I,Scene II,Petruchio,The younger then is free and not before.,805
+Act I,Scene II,Tranio,"If it be so, sir, that you are the man",806
+Act I,Scene II,Tranio,"Must stead us all and me amongst the rest,",807
+Act I,Scene II,Tranio,"And if you break the ice and do this feat,",808
+Act I,Scene II,Tranio,"Achieve the elder, set the younger free",809
+Act I,Scene II,Tranio,"For our access, whose hap shall be to have her",810
+Act I,Scene II,Tranio,Will not so graceless be to be ingrate.,811
+Act I,Scene II,Hortensio,"Sir, you say well and well you do conceive;",812
+Act I,Scene II,Hortensio,"And since you do profess to be a suitor,",813
+Act I,Scene II,Hortensio,"You must, as we do, gratify this gentleman,",814
+Act I,Scene II,Hortensio,To whom we all rest generally beholding.,815
+Act I,Scene II,Tranio,"Sir, I shall not be slack: in sign whereof,",816
+Act I,Scene II,Tranio,"Please ye we may contrive this afternoon,",817
+Act I,Scene II,Tranio,"And quaff carouses to our mistress' health,",818
+Act I,Scene II,Tranio,"And do as adversaries do in law,",819
+Act I,Scene II,Tranio,"Strive mightily, but eat and drink as friends.",820
+Act I,Scene II,Biondello,"O excellent motion! Fellows, let's be gone.",821
+Act I,Scene II,Hortensio,"The motion's good indeed and be it so,",822
+Act I,Scene II,Hortensio,"Petruchio, I shall be your ben venuto.",823
+Act I,Scene II,[stage direction],Exeunt,NA
+Act II,Scene I,[stage direction],Enter KATHARINA and BIANCA,NA
+Act II,Scene I,Bianca,"Good sister, wrong me not, nor wrong yourself,",824
+Act II,Scene I,Bianca,To make a bondmaid and a slave of me;,825
+Act II,Scene I,Bianca,"That I disdain: but for these other gawds,",826
+Act II,Scene I,Bianca,"Unbind my hands, I'll pull them off myself,",827
+Act II,Scene I,Bianca,"Yea, all my raiment, to my petticoat;",828
+Act II,Scene I,Bianca,"Or what you will command me will I do,",829
+Act II,Scene I,Bianca,So well I know my duty to my elders.,830
+Act II,Scene I,Katharina,"Of all thy suitors, here I charge thee, tell",831
+Act II,Scene I,Katharina,Whom thou lovest best: see thou dissemble not.,832
+Act II,Scene I,Bianca,"Believe me, sister, of all the men alive",833
+Act II,Scene I,Bianca,I never yet beheld that special face,834
+Act II,Scene I,Bianca,Which I could fancy more than any other.,835
+Act II,Scene I,Katharina,"Minion, thou liest. Is't not Hortensio?",836
+Act II,Scene I,Bianca,"If you affect him, sister, here I swear",837
+Act II,Scene I,Bianca,"I'll plead for you myself, but you shall have",838
+Act II,Scene I,Bianca,him.,839
+Act II,Scene I,Katharina,"O then, belike, you fancy riches more:",840
+Act II,Scene I,Katharina,You will have Gremio to keep you fair.,841
+Act II,Scene I,Bianca,Is it for him you do envy me so?,842
+Act II,Scene I,Bianca,"Nay then you jest, and now I well perceive",843
+Act II,Scene I,Bianca,You have but jested with me all this while:,844
+Act II,Scene I,Bianca,"I prithee, sister Kate, untie my hands.",845
+Act II,Scene I,Katharina,"If that be jest, then all the rest was so.",846
+Act II,Scene I,[stage direction],Strikes her,NA
+Act II,Scene I,[stage direction],Enter BAPTISTA,NA
+Act II,Scene I,Baptista,"Why, how now, dame! whence grows this insolence?",847
+Act II,Scene I,Baptista,"Bianca, stand aside. Poor girl! she weeps.",848
+Act II,Scene I,Baptista,Go ply thy needle; meddle not with her.,849
+Act II,Scene I,Baptista,"For shame, thou helding of a devilish spirit,",850
+Act II,Scene I,Baptista,Why dost thou wrong her that did ne'er wrong thee?,851
+Act II,Scene I,Baptista,When did she cross thee with a bitter word?,852
+Act II,Scene I,Katharina,"Her silence flouts me, and I'll be revenged.",853
+Act II,Scene I,[stage direction],Flies after BIANCA,NA
+Act II,Scene I,Baptista,"What, in my sight? Bianca, get thee in.",854
+Act II,Scene I,[stage direction],Exit BIANCA,NA
+Act II,Scene I,Katharina,"What, will you not suffer me? Nay, now I see",855
+Act II,Scene I,Katharina,"She is your treasure, she must have a husband;",856
+Act II,Scene I,Katharina,I must dance bare-foot on her wedding day,857
+Act II,Scene I,Katharina,And for your love to her lead apes in hell.,858
+Act II,Scene I,Katharina,Talk not to me: I will go sit and weep,859
+Act II,Scene I,Katharina,Till I can find occasion of revenge.,860
+Act II,Scene I,[stage direction],Exit,NA
+Act II,Scene I,Baptista,Was ever gentleman thus grieved as I?,861
+Act II,Scene I,Baptista,But who comes here?,862
+Act II,Scene I,[stage direction],"Enter GREMIO, LUCENTIO in the habit of a mean man;  PETRUCHIO, with HORTENSIO as a musician; and TRANIO, with BIONDELLO bearing a lute and books",NA
+Act II,Scene I,Gremio,"Good morrow, neighbour Baptista.",863
+Act II,Scene I,Baptista,"Good morrow, neighbour Gremio.",864
+Act II,Scene I,Baptista,"God save you, gentlemen!",865
+Act II,Scene I,Petruchio,"And you, good sir! Pray, have you not a daughter",866
+Act II,Scene I,Petruchio,"Call'd Katharina, fair and virtuous?",867
+Act II,Scene I,Baptista,"I have a daughter, sir, called Katharina.",868
+Act II,Scene I,Gremio,You are too blunt: go to it orderly.,869
+Act II,Scene I,Petruchio,"You wrong me, Signior Gremio: give me leave.",870
+Act II,Scene I,Petruchio,"I am a gentleman of Verona, sir,",871
+Act II,Scene I,Petruchio,"That, hearing of her beauty and her wit,",872
+Act II,Scene I,Petruchio,"Her affability and bashful modesty,",873
+Act II,Scene I,Petruchio,"Her wondrous qualities and mild behavior,",874
+Act II,Scene I,Petruchio,Am bold to show myself a forward guest,875
+Act II,Scene I,Petruchio,"Within your house, to make mine eye the witness",876
+Act II,Scene I,Petruchio,Of that report which I so oft have heard.,877
+Act II,Scene I,Petruchio,"And, for an entrance to my entertainment,",878
+Act II,Scene I,Petruchio,"I do present you with a man of mine,",879
+Act II,Scene I,[stage direction],Presenting HORTENSIO,NA
+Act II,Scene I,Petruchio,"Cunning in music and the mathematics,",880
+Act II,Scene I,Petruchio,"To instruct her fully in those sciences,",881
+Act II,Scene I,Petruchio,Whereof I know she is not ignorant:,882
+Act II,Scene I,Petruchio,"Accept of him, or else you do me wrong:",883
+Act II,Scene I,Petruchio,"His name is Licio, born in Mantua.",884
+Act II,Scene I,Baptista,"You're welcome, sir; and he, for your good sake.",885
+Act II,Scene I,Baptista,"But for my daughter Katharina, this I know,",886
+Act II,Scene I,Baptista,"She is not for your turn, the more my grief.",887
+Act II,Scene I,Petruchio,"I see you do not mean to part with her,",888
+Act II,Scene I,Petruchio,Or else you like not of my company.,889
+Act II,Scene I,Baptista,Mistake me not; I speak but as I find.,890
+Act II,Scene I,Baptista,"Whence are you, sir? what may I call your name?",891
+Act II,Scene I,Petruchio,"Petruchio is my name; Antonio's son,",892
+Act II,Scene I,Petruchio,A man well known throughout all Italy.,893
+Act II,Scene I,Baptista,I know him well: you are welcome for his sake.,894
+Act II,Scene I,Gremio,"Saving your tale, Petruchio, I pray,",895
+Act II,Scene I,Gremio,"Let us, that are poor petitioners, speak too:",896
+Act II,Scene I,Gremio,Baccare! you are marvellous forward.,897
+Act II,Scene I,Petruchio,"O, pardon me, Signior Gremio; I would fain be doing.",898
+Act II,Scene I,Gremio,"I doubt it not, sir; but you will curse your",899
+Act II,Scene I,Gremio,"wooing. Neighbour, this is a gift very grateful, I am",900
+Act II,Scene I,Gremio,"sure of it. To express the like kindness, myself,",901
+Act II,Scene I,Gremio,that have been more kindly beholding to you than,902
+Act II,Scene I,Gremio,"any, freely give unto you this young scholar,",903
+Act II,Scene I,[stage direction],Presenting LUCENTIO,NA
+Act II,Scene I,Gremio,that hath been long studying at Rheims; as cunning,904
+Act II,Scene I,Gremio,"in Greek, Latin, and other languages, as the other",905
+Act II,Scene I,Gremio,"in music and mathematics: his name is Cambio; pray,",906
+Act II,Scene I,Gremio,accept his service.,907
+Act II,Scene I,Baptista,"A thousand thanks, Signior Gremio.",908
+Act II,Scene I,Baptista,"Welcome, good Cambio.",909
+Act II,Scene I,[stage direction],To TRANIO,NA
+Act II,Scene I,Baptista,"But, gentle sir, methinks you walk like a stranger:",910
+Act II,Scene I,Baptista,may I be so bold to know the cause of your coming?,911
+Act II,Scene I,Tranio,"Pardon me, sir, the boldness is mine own,",912
+Act II,Scene I,Tranio,"That, being a stranger in this city here,",913
+Act II,Scene I,Tranio,"Do make myself a suitor to your daughter,",914
+Act II,Scene I,Tranio,"Unto Bianca, fair and virtuous.",915
+Act II,Scene I,Tranio,"Nor is your firm resolve unknown to me,",916
+Act II,Scene I,Tranio,In the preferment of the eldest sister.,917
+Act II,Scene I,Tranio,"This liberty is all that I request,",918
+Act II,Scene I,Tranio,"That, upon knowledge of my parentage,",919
+Act II,Scene I,Tranio,I may have welcome 'mongst the rest that woo,920
+Act II,Scene I,Tranio,And free access and favour as the rest:,921
+Act II,Scene I,Tranio,"And, toward the education of your daughters,",922
+Act II,Scene I,Tranio,"I here bestow a simple instrument,",923
+Act II,Scene I,Tranio,And this small packet of Greek and Latin books:,924
+Act II,Scene I,Tranio,"If you accept them, then their worth is great.",925
+Act II,Scene I,Baptista,"Lucentio is your name; of whence, I pray?",926
+Act II,Scene I,Tranio,"Of Pisa, sir; son to Vincentio.",927
+Act II,Scene I,Baptista,A mighty man of Pisa; by report,928
+Act II,Scene I,Baptista,"I know him well: you are very welcome, sir,",929
+Act II,Scene I,Baptista,"Take you the lute, and you the set of books;",930
+Act II,Scene I,Baptista,You shall go see your pupils presently.,931
+Act II,Scene I,Baptista,"Holla, within!",932
+Act II,Scene I,[stage direction],Enter a Servant,NA
+Act II,Scene I,Baptista,"Sirrah, lead these gentlemen",933
+Act II,Scene I,Baptista,"To my daughters; and tell them both,",934
+Act II,Scene I,Baptista,These are their tutors: bid them use them well.,935
+Act II,Scene I,[stage direction],"Exit Servant, with LUCENTIO and HORTENSIO, BIONDELLO following",NA
+Act II,Scene I,Baptista,"We will go walk a little in the orchard,",936
+Act II,Scene I,Baptista,"And then to dinner. You are passing welcome,",937
+Act II,Scene I,Baptista,And so I pray you all to think yourselves.,938
+Act II,Scene I,Petruchio,"Signior Baptista, my business asketh haste,",939
+Act II,Scene I,Petruchio,And every day I cannot come to woo.,940
+Act II,Scene I,Petruchio,"You knew my father well, and in him me,",941
+Act II,Scene I,Petruchio,"Left solely heir to all his lands and goods,",942
+Act II,Scene I,Petruchio,Which I have better'd rather than decreased:,943
+Act II,Scene I,Petruchio,"Then tell me, if I get your daughter's love,",944
+Act II,Scene I,Petruchio,What dowry shall I have with her to wife?,945
+Act II,Scene I,Baptista,"After my death the one half of my lands,",946
+Act II,Scene I,Baptista,And in possession twenty thousand crowns.,947
+Act II,Scene I,Petruchio,"And, for that dowry, I'll assure her of",948
+Act II,Scene I,Petruchio,"Her widowhood, be it that she survive me,",949
+Act II,Scene I,Petruchio,In all my lands and leases whatsoever:,950
+Act II,Scene I,Petruchio,"Let specialties be therefore drawn between us,",951
+Act II,Scene I,Petruchio,That covenants may be kept on either hand.,952
+Act II,Scene I,Baptista,"Ay, when the special thing is well obtain'd,",953
+Act II,Scene I,Baptista,"That is, her love; for that is all in all.",954
+Act II,Scene I,Petruchio,"Why, that is nothing: for I tell you, father,",955
+Act II,Scene I,Petruchio,I am as peremptory as she proud-minded;,956
+Act II,Scene I,Petruchio,And where two raging fires meet together,957
+Act II,Scene I,Petruchio,They do consume the thing that feeds their fury:,958
+Act II,Scene I,Petruchio,"Though little fire grows great with little wind,",959
+Act II,Scene I,Petruchio,Yet extreme gusts will blow out fire and all:,960
+Act II,Scene I,Petruchio,So I to her and so she yields to me;,961
+Act II,Scene I,Petruchio,For I am rough and woo not like a babe.,962
+Act II,Scene I,Baptista,"Well mayst thou woo, and happy be thy speed!",963
+Act II,Scene I,Baptista,But be thou arm'd for some unhappy words.,964
+Act II,Scene I,Petruchio,"Ay, to the proof; as mountains are for winds,",965
+Act II,Scene I,Petruchio,"That shake not, though they blow perpetually.",966
+Act II,Scene I,[stage direction],"Re-enter HORTENSIO, with his head broke",NA
+Act II,Scene I,Baptista,"How now, my friend! why dost thou look so pale?",967
+Act II,Scene I,Hortensio,"For fear, I promise you, if I look pale.",968
+Act II,Scene I,Baptista,"What, will my daughter prove a good musician?",969
+Act II,Scene I,Hortensio,I think she'll sooner prove a soldier,970
+Act II,Scene I,Hortensio,"Iron may hold with her, but never lutes.",971
+Act II,Scene I,Baptista,"Why, then thou canst not break her to the lute?",972
+Act II,Scene I,Hortensio,"Why, no; for she hath broke the lute to me.",973
+Act II,Scene I,Hortensio,"I did but tell her she mistook her frets,",974
+Act II,Scene I,Hortensio,And bow'd her hand to teach her fingering;,975
+Act II,Scene I,Hortensio,"When, with a most impatient devilish spirit,",976
+Act II,Scene I,Hortensio,"'Frets, call you these?' quoth she; 'I'll fume",977
+Act II,Scene I,Hortensio,with them:',978
+Act II,Scene I,Hortensio,"And, with that word, she struck me on the head,",979
+Act II,Scene I,Hortensio,And through the instrument my pate made way;,980
+Act II,Scene I,Hortensio,"And there I stood amazed for a while,",981
+Act II,Scene I,Hortensio,"As on a pillory, looking through the lute;",982
+Act II,Scene I,Hortensio,While she did call me rascal fiddler,983
+Act II,Scene I,Hortensio,"And twangling Jack; with twenty such vile terms,",984
+Act II,Scene I,Hortensio,As had she studied to misuse me so.,985
+Act II,Scene I,Petruchio,"Now, by the world, it is a lusty wench;",986
+Act II,Scene I,Petruchio,I love her ten times more than e'er I did:,987
+Act II,Scene I,Petruchio,"O, how I long to have some chat with her!",988
+Act II,Scene I,Baptista,"Well, go with me and be not so discomfited:",989
+Act II,Scene I,Baptista,Proceed in practise with my younger daughter;,990
+Act II,Scene I,Baptista,She's apt to learn and thankful for good turns.,991
+Act II,Scene I,Baptista,"Signior Petruchio, will you go with us,",992
+Act II,Scene I,Baptista,Or shall I send my daughter Kate to you?,993
+Act II,Scene I,Petruchio,I pray you do.,994
+Act II,Scene I,[stage direction],Exeunt all but PETRUCHIO,NA
+Act II,Scene I,Petruchio,"I will attend her here,",995
+Act II,Scene I,Petruchio,And woo her with some spirit when she comes.,996
+Act II,Scene I,Petruchio,Say that she rail; why then I'll tell her plain,997
+Act II,Scene I,Petruchio,She sings as sweetly as a nightingale:,998
+Act II,Scene I,Petruchio,"Say that she frown, I'll say she looks as clear",999
+Act II,Scene I,Petruchio,As morning roses newly wash'd with dew:,1000
+Act II,Scene I,Petruchio,Say she be mute and will not speak a word;,1001
+Act II,Scene I,Petruchio,"Then I'll commend her volubility,",1002
+Act II,Scene I,Petruchio,And say she uttereth piercing eloquence:,1003
+Act II,Scene I,Petruchio,"If she do bid me pack, I'll give her thanks,",1004
+Act II,Scene I,Petruchio,As though she bid me stay by her a week:,1005
+Act II,Scene I,Petruchio,"If she deny to wed, I'll crave the day",1006
+Act II,Scene I,Petruchio,When I shall ask the banns and when be married.,1007
+Act II,Scene I,Petruchio,"But here she comes; and now, Petruchio, speak.",1008
+Act II,Scene I,[stage direction],Enter KATHARINA,NA
+Act II,Scene I,Petruchio,"Good morrow, Kate; for that's your name, I hear.",1009
+Act II,Scene I,Katharina,"Well have you heard, but something hard of hearing:",1010
+Act II,Scene I,Katharina,They call me Katharina that do talk of me.,1011
+Act II,Scene I,Petruchio,"You lie, in faith; for you are call'd plain Kate,",1012
+Act II,Scene I,Petruchio,And bonny Kate and sometimes Kate the curst;,1013
+Act II,Scene I,Petruchio,"But Kate, the prettiest Kate in Christendom",1014
+Act II,Scene I,Petruchio,"Kate of Kate Hall, my super-dainty Kate,",1015
+Act II,Scene I,Petruchio,"For dainties are all Kates, and therefore, Kate,",1016
+Act II,Scene I,Petruchio,"Take this of me, Kate of my consolation;",1017
+Act II,Scene I,Petruchio,"Hearing thy mildness praised in every town,",1018
+Act II,Scene I,Petruchio,"Thy virtues spoke of, and thy beauty sounded,",1019
+Act II,Scene I,Petruchio,"Yet not so deeply as to thee belongs,",1020
+Act II,Scene I,Petruchio,Myself am moved to woo thee for my wife.,1021
+Act II,Scene I,Katharina,Moved! in good time: let him that moved you hither,1022
+Act II,Scene I,Katharina,Remove you hence: I knew you at the first,1023
+Act II,Scene I,Katharina,You were a moveable.,1024
+Act II,Scene I,Petruchio,"Why, what's a moveable?",1025
+Act II,Scene I,Katharina,A join'd-stool.,1026
+Act II,Scene I,Petruchio,"Thou hast hit it: come, sit on me.",1027
+Act II,Scene I,Katharina,"Asses are made to bear, and so are you.",1028
+Act II,Scene I,Petruchio,"Women are made to bear, and so are you.",1029
+Act II,Scene I,Katharina,"No such jade as you, if me you mean.",1030
+Act II,Scene I,Petruchio,"Alas! good Kate, I will not burden thee;",1031
+Act II,Scene I,Petruchio,"For, knowing thee to be but young and light--",1032
+Act II,Scene I,Katharina,Too light for such a swain as you to catch;,1033
+Act II,Scene I,Katharina,And yet as heavy as my weight should be.,1034
+Act II,Scene I,Petruchio,Should be! should--buzz!,1035
+Act II,Scene I,Katharina,"Well ta'en, and like a buzzard.",1036
+Act II,Scene I,Petruchio,O slow-wing'd turtle! shall a buzzard take thee?,1037
+Act II,Scene I,Katharina,"Ay, for a turtle, as he takes a buzzard.",1038
+Act II,Scene I,Petruchio,"Come, come, you wasp; i' faith, you are too angry.",1039
+Act II,Scene I,Katharina,"If I be waspish, best beware my sting.",1040
+Act II,Scene I,Petruchio,"My remedy is then, to pluck it out.",1041
+Act II,Scene I,Katharina,"Ay, if the fool could find it where it lies,",1042
+Act II,Scene I,Petruchio,Who knows not where a wasp does,1043
+Act II,Scene I,Petruchio,wear his sting? In his tail.,1044
+Act II,Scene I,Katharina,In his tongue.,1045
+Act II,Scene I,Petruchio,Whose tongue?,1046
+Act II,Scene I,Katharina,"Yours, if you talk of tails: and so farewell.",1047
+Act II,Scene I,Petruchio,"What, with my tongue in your tail? nay, come again,",1048
+Act II,Scene I,Petruchio,Good Kate; I am a gentleman.,1049
+Act II,Scene I,Katharina,That I'll try.,1050
+Act II,Scene I,[stage direction],She strikes him,NA
+Act II,Scene I,Petruchio,"I swear I'll cuff you, if you strike again.",1051
+Act II,Scene I,Katharina,So may you lose your arms:,1052
+Act II,Scene I,Katharina,"If you strike me, you are no gentleman;",1053
+Act II,Scene I,Katharina,"And if no gentleman, why then no arms.",1054
+Act II,Scene I,Petruchio,"A herald, Kate? O, put me in thy books!",1055
+Act II,Scene I,Katharina,What is your crest? a coxcomb?,1056
+Act II,Scene I,Petruchio,"A combless cock, so Kate will be my hen.",1057
+Act II,Scene I,Katharina,No cock of mine; you crow too like a craven.,1058
+Act II,Scene I,Petruchio,"Nay, come, Kate, come; you must not look so sour.",1059
+Act II,Scene I,Katharina,"It is my fashion, when I see a crab.",1060
+Act II,Scene I,Petruchio,"Why, here's no crab; and therefore look not sour.",1061
+Act II,Scene I,Katharina,"There is, there is.",1062
+Act II,Scene I,Petruchio,Then show it me.,1063
+Act II,Scene I,Katharina,"Had I a glass, I would.",1064
+Act II,Scene I,Petruchio,"What, you mean my face?",1065
+Act II,Scene I,Katharina,Well aim'd of such a young one.,1066
+Act II,Scene I,Petruchio,"Now, by Saint George, I am too young for you.",1067
+Act II,Scene I,Katharina,Yet you are wither'd.,1068
+Act II,Scene I,Petruchio,'Tis with cares.,1069
+Act II,Scene I,Katharina,I care not.,1070
+Act II,Scene I,Petruchio,"Nay, hear you, Kate: in sooth you scape not so.",1071
+Act II,Scene I,Katharina,"I chafe you, if I tarry: let me go.",1072
+Act II,Scene I,Petruchio,"No, not a whit: I find you passing gentle.",1073
+Act II,Scene I,Petruchio,"'Twas told me you were rough and coy and sullen,",1074
+Act II,Scene I,Petruchio,And now I find report a very liar;,1075
+Act II,Scene I,Petruchio,"For thou are pleasant, gamesome, passing courteous,",1076
+Act II,Scene I,Petruchio,"But slow in speech, yet sweet as spring-time flowers:",1077
+Act II,Scene I,Petruchio,"Thou canst not frown, thou canst not look askance,",1078
+Act II,Scene I,Petruchio,"Nor bite the lip, as angry wenches will,",1079
+Act II,Scene I,Petruchio,"Nor hast thou pleasure to be cross in talk,",1080
+Act II,Scene I,Petruchio,"But thou with mildness entertain'st thy wooers,",1081
+Act II,Scene I,Petruchio,"With gentle conference, soft and affable.",1082
+Act II,Scene I,Petruchio,Why does the world report that Kate doth limp?,1083
+Act II,Scene I,Petruchio,O slanderous world! Kate like the hazel-twig,1084
+Act II,Scene I,Petruchio,Is straight and slender and as brown in hue,1085
+Act II,Scene I,Petruchio,As hazel nuts and sweeter than the kernels.,1086
+Act II,Scene I,Petruchio,"O, let me see thee walk: thou dost not halt.",1087
+Act II,Scene I,Katharina,"Go, fool, and whom thou keep'st command.",1088
+Act II,Scene I,Petruchio,Did ever Dian so become a grove,1089
+Act II,Scene I,Petruchio,As Kate this chamber with her princely gait?,1090
+Act II,Scene I,Petruchio,"O, be thou Dian, and let her be Kate;",1091
+Act II,Scene I,Petruchio,And then let Kate be chaste and Dian sportful!,1092
+Act II,Scene I,Katharina,Where did you study all this goodly speech?,1093
+Act II,Scene I,Petruchio,"It is extempore, from my mother-wit.",1094
+Act II,Scene I,Katharina,A witty mother! witless else her son.,1095
+Act II,Scene I,Petruchio,Am I not wise?,1096
+Act II,Scene I,Katharina,Yes; keep you warm.,1097
+Act II,Scene I,Petruchio,"Marry, so I mean, sweet Katharina, in thy bed:",1098
+Act II,Scene I,Petruchio,"And therefore, setting all this chat aside,",1099
+Act II,Scene I,Petruchio,Thus in plain terms: your father hath consented,1100
+Act II,Scene I,Petruchio,That you shall be my wife; your dowry 'greed on;,1101
+Act II,Scene I,Petruchio,"And, Will you, nill you, I will marry you.",1102
+Act II,Scene I,Petruchio,"Now, Kate, I am a husband for your turn;",1103
+Act II,Scene I,Petruchio,"For, by this light, whereby I see thy beauty,",1104
+Act II,Scene I,Petruchio,"Thy beauty, that doth make me like thee well,",1105
+Act II,Scene I,Petruchio,Thou must be married to no man but me;,1106
+Act II,Scene I,Petruchio,"For I am he am born to tame you Kate,",1107
+Act II,Scene I,Petruchio,And bring you from a wild Kate to a Kate,1108
+Act II,Scene I,Petruchio,Conformable as other household Kates.,1109
+Act II,Scene I,Petruchio,Here comes your father: never make denial;,1110
+Act II,Scene I,Petruchio,I must and will have Katharina to my wife.,1111
+Act II,Scene I,[stage direction],"Re-enter BAPTISTA, GREMIO, and TRANIO",NA
+Act II,Scene I,Baptista,"Now, Signior Petruchio, how speed you with my daughter?",1112
+Act II,Scene I,Petruchio,"How but well, sir? how but well?",1113
+Act II,Scene I,Petruchio,It were impossible I should speed amiss.,1114
+Act II,Scene I,Baptista,"Why, how now, daughter Katharina! in your dumps?",1115
+Act II,Scene I,Katharina,"Call you me daughter? now, I promise you",1116
+Act II,Scene I,Katharina,"You have show'd a tender fatherly regard,",1117
+Act II,Scene I,Katharina,To wish me wed to one half lunatic;,1118
+Act II,Scene I,Katharina,"A mad-cup ruffian and a swearing Jack,",1119
+Act II,Scene I,Katharina,That thinks with oaths to face the matter out.,1120
+Act II,Scene I,Petruchio,"Father, 'tis thus: yourself and all the world,",1121
+Act II,Scene I,Petruchio,"That talk'd of her, have talk'd amiss of her:",1122
+Act II,Scene I,Petruchio,"If she be curst, it is for policy,",1123
+Act II,Scene I,Petruchio,"For she's not froward, but modest as the dove;",1124
+Act II,Scene I,Petruchio,"She is not hot, but temperate as the morn;",1125
+Act II,Scene I,Petruchio,"For patience she will prove a second Grissel,",1126
+Act II,Scene I,Petruchio,And Roman Lucrece for her chastity:,1127
+Act II,Scene I,Petruchio,"And to conclude, we have 'greed so well together,",1128
+Act II,Scene I,Petruchio,That upon Sunday is the wedding-day.,1129
+Act II,Scene I,Katharina,I'll see thee hang'd on Sunday first.,1130
+Act II,Scene I,Gremio,"Hark, Petruchio; she says she'll see thee",1131
+Act II,Scene I,Gremio,hang'd first.,1132
+Act II,Scene I,Tranio,"Is this your speeding? nay, then, good night our part!",1133
+Act II,Scene I,Petruchio,"Be patient, gentlemen; I choose her for myself:",1134
+Act II,Scene I,Petruchio,"If she and I be pleased, what's that to you?",1135
+Act II,Scene I,Petruchio,"'Tis bargain'd 'twixt us twain, being alone,",1136
+Act II,Scene I,Petruchio,That she shall still be curst in company.,1137
+Act II,Scene I,Petruchio,"I tell you, 'tis incredible to believe",1138
+Act II,Scene I,Petruchio,"How much she loves me: O, the kindest Kate!",1139
+Act II,Scene I,Petruchio,She hung about my neck; and kiss on kiss,1140
+Act II,Scene I,Petruchio,"She vied so fast, protesting oath on oath,",1141
+Act II,Scene I,Petruchio,That in a twink she won me to her love.,1142
+Act II,Scene I,Petruchio,"O, you are novices! 'tis a world to see,",1143
+Act II,Scene I,Petruchio,"How tame, when men and women are alone,",1144
+Act II,Scene I,Petruchio,A meacock wretch can make the curstest shrew.,1145
+Act II,Scene I,Petruchio,"Give me thy hand, Kate: I will unto Venice,",1146
+Act II,Scene I,Petruchio,To buy apparel 'gainst the wedding-day.,1147
+Act II,Scene I,Petruchio,"Provide the feast, father, and bid the guests;",1148
+Act II,Scene I,Petruchio,I will be sure my Katharina shall be fine.,1149
+Act II,Scene I,Baptista,I know not what to say: but give me your hands;,1150
+Act II,Scene I,Baptista,"God send you joy, Petruchio! 'tis a match.",1151
+Act II,Scene I,Tranio,"Amen, say we: we will be witnesses.",1152
+Act II,Scene I,Petruchio,"Father, and wife, and gentlemen, adieu;",1153
+Act II,Scene I,Petruchio,I will to Venice; Sunday comes apace:,1154
+Act II,Scene I,Petruchio,We will have rings and things and fine array;,1155
+Act II,Scene I,Petruchio,"And kiss me, Kate, we will be married o'Sunday.",1156
+Act II,Scene I,[stage direction],Exeunt PETRUCHIO and KATHARINA severally,NA
+Act II,Scene I,Gremio,Was ever match clapp'd up so suddenly?,1157
+Act II,Scene I,Baptista,"Faith, gentlemen, now I play a merchant's part,",1158
+Act II,Scene I,Baptista,And venture madly on a desperate mart.,1159
+Act II,Scene I,Tranio,'Twas a commodity lay fretting by you:,1160
+Act II,Scene I,Tranio,"'Twill bring you gain, or perish on the seas.",1161
+Act II,Scene I,Baptista,"The gain I seek is, quiet in the match.",1162
+Act II,Scene I,Gremio,No doubt but he hath got a quiet catch.,1163
+Act II,Scene I,Gremio,"But now, Baptists, to your younger daughter:",1164
+Act II,Scene I,Gremio,Now is the day we long have looked for:,1165
+Act II,Scene I,Gremio,"I am your neighbour, and was suitor first.",1166
+Act II,Scene I,Tranio,And I am one that love Bianca more,1167
+Act II,Scene I,Tranio,"Than words can witness, or your thoughts can guess.",1168
+Act II,Scene I,Gremio,"Youngling, thou canst not love so dear as I.",1169
+Act II,Scene I,Tranio,"Graybeard, thy love doth freeze.",1170
+Act II,Scene I,Gremio,But thine doth fry.,1171
+Act II,Scene I,Gremio,"Skipper, stand back: 'tis age that nourisheth.",1172
+Act II,Scene I,Tranio,But youth in ladies' eyes that flourisheth.,1173
+Act II,Scene I,Baptista,"Content you, gentlemen: I will compound this strife:",1174
+Act II,Scene I,Baptista,'Tis deeds must win the prize; and he of both,1175
+Act II,Scene I,Baptista,That can assure my daughter greatest dower,1176
+Act II,Scene I,Baptista,Shall have my Bianca's love.,1177
+Act II,Scene I,Baptista,"Say, Signior Gremio, What can you assure her?",1178
+Act II,Scene I,Gremio,"First, as you know, my house within the city",1179
+Act II,Scene I,Gremio,Is richly furnished with plate and gold;,1180
+Act II,Scene I,Gremio,Basins and ewers to lave her dainty hands;,1181
+Act II,Scene I,Gremio,My hangings all of Tyrian tapestry;,1182
+Act II,Scene I,Gremio,In ivory coffers I have stuff'd my crowns;,1183
+Act II,Scene I,Gremio,"In cypress chests my arras counterpoints,",1184
+Act II,Scene I,Gremio,"Costly apparel, tents, and canopies,",1185
+Act II,Scene I,Gremio,"Fine linen, Turkey cushions boss'd with pearl,",1186
+Act II,Scene I,Gremio,"Valance of Venice gold in needlework,",1187
+Act II,Scene I,Gremio,Pewter and brass and all things that belong,1188
+Act II,Scene I,Gremio,"To house or housekeeping: then, at my farm",1189
+Act II,Scene I,Gremio,"I have a hundred milch-kine to the pail,",1190
+Act II,Scene I,Gremio,"Sixscore fat oxen standing in my stalls,",1191
+Act II,Scene I,Gremio,And all things answerable to this portion.,1192
+Act II,Scene I,Gremio,"Myself am struck in years, I must confess;",1193
+Act II,Scene I,Gremio,"And if I die to-morrow, this is hers,",1194
+Act II,Scene I,Gremio,If whilst I live she will be only mine.,1195
+Act II,Scene I,Tranio,"That 'only' came well in. Sir, list to me:",1196
+Act II,Scene I,Tranio,I am my father's heir and only son:,1197
+Act II,Scene I,Tranio,"If I may have your daughter to my wife,",1198
+Act II,Scene I,Tranio,"I'll leave her houses three or four as good,",1199
+Act II,Scene I,Tranio,"Within rich Pisa walls, as any one",1200
+Act II,Scene I,Tranio,Old Signior Gremio has in Padua;,1201
+Act II,Scene I,Tranio,Besides two thousand ducats by the year,1202
+Act II,Scene I,Tranio,"Of fruitful land, all which shall be her jointure.",1203
+Act II,Scene I,Tranio,"What, have I pinch'd you, Signior Gremio?",1204
+Act II,Scene I,Gremio,Two thousand ducats by the year of land!,1205
+Act II,Scene I,Gremio,My land amounts not to so much in all:,1206
+Act II,Scene I,Gremio,That she shall have; besides an argosy,1207
+Act II,Scene I,Gremio,That now is lying in Marseilles' road.,1208
+Act II,Scene I,Gremio,"What, have I choked you with an argosy?",1209
+Act II,Scene I,Tranio,"Gremio, 'tis known my father hath no less",1210
+Act II,Scene I,Tranio,"Than three great argosies; besides two galliases,",1211
+Act II,Scene I,Tranio,"And twelve tight galleys: these I will assure her,",1212
+Act II,Scene I,Tranio,"And twice as much, whate'er thou offer'st next.",1213
+Act II,Scene I,Gremio,"Nay, I have offer'd all, I have no more;",1214
+Act II,Scene I,Gremio,And she can have no more than all I have:,1215
+Act II,Scene I,Gremio,"If you like me, she shall have me and mine.",1216
+Act II,Scene I,Tranio,"Why, then the maid is mine from all the world,",1217
+Act II,Scene I,Tranio,By your firm promise: Gremio is out-vied.,1218
+Act II,Scene I,Baptista,I must confess your offer is the best;,1219
+Act II,Scene I,Baptista,"And, let your father make her the assurance,",1220
+Act II,Scene I,Baptista,"She is your own; else, you must pardon me,",1221
+Act II,Scene I,Baptista,"if you should die before him, where's her dower?",1222
+Act II,Scene I,Tranio,"That's but a cavil: he is old, I young.",1223
+Act II,Scene I,Gremio,"And may not young men die, as well as old?",1224
+Act II,Scene I,Baptista,"Well, gentlemen,",1225
+Act II,Scene I,Baptista,I am thus resolved: on Sunday next you know,1226
+Act II,Scene I,Baptista,My daughter Katharina is to be married:,1227
+Act II,Scene I,Baptista,"Now, on the Sunday following, shall Bianca",1228
+Act II,Scene I,Baptista,"Be bride to you, if you this assurance;",1229
+Act II,Scene I,Baptista,"If not, Signior Gremio:",1230
+Act II,Scene I,Baptista,"And so, I take my leave, and thank you both.",1231
+Act II,Scene I,Gremio,"Adieu, good neighbour.",1232
+Act II,Scene I,[stage direction],Exit BAPTISTA,NA
+Act II,Scene I,Gremio,Now I fear thee not:,1233
+Act II,Scene I,Gremio,"Sirrah young gamester, your father were a fool",1234
+Act II,Scene I,Gremio,"To give thee all, and in his waning age",1235
+Act II,Scene I,Gremio,"Set foot under thy table: tut, a toy!",1236
+Act II,Scene I,Gremio,"An old Italian fox is not so kind, my boy.",1237
+Act II,Scene I,[stage direction],Exit,NA
+Act II,Scene I,Tranio,A vengeance on your crafty wither'd hide!,1238
+Act II,Scene I,Tranio,Yet I have faced it with a card of ten.,1239
+Act II,Scene I,Tranio,'Tis in my head to do my master good:,1240
+Act II,Scene I,Tranio,I see no reason but supposed Lucentio,1241
+Act II,Scene I,Tranio,"Must get a father, call'd 'supposed Vincentio;'",1242
+Act II,Scene I,Tranio,And that's a wonder: fathers commonly,1243
+Act II,Scene I,Tranio,"Do get their children; but in this case of wooing,",1244
+Act II,Scene I,Tranio,"A child shall get a sire, if I fail not of my cunning.",1245
+Act II,Scene I,[stage direction],Exit,NA
+Act III,Scene I,[stage direction],"Enter LUCENTIO, HORTENSIO, and BIANCA",NA
+Act III,Scene I,Lucentio,"Fiddler, forbear; you grow too forward, sir:",1246
+Act III,Scene I,Lucentio,Have you so soon forgot the entertainment,1247
+Act III,Scene I,Lucentio,Her sister Katharina welcomed you withal?,1248
+Act III,Scene I,Hortensio,"But, wrangling pedant, this is",1249
+Act III,Scene I,Hortensio,The patroness of heavenly harmony:,1250
+Act III,Scene I,Hortensio,Then give me leave to have prerogative;,1251
+Act III,Scene I,Hortensio,"And when in music we have spent an hour,",1252
+Act III,Scene I,Hortensio,Your lecture shall have leisure for as much.,1253
+Act III,Scene I,Lucentio,"Preposterous ass, that never read so far",1254
+Act III,Scene I,Lucentio,To know the cause why music was ordain'd!,1255
+Act III,Scene I,Lucentio,Was it not to refresh the mind of man,1256
+Act III,Scene I,Lucentio,After his studies or his usual pain?,1257
+Act III,Scene I,Lucentio,"Then give me leave to read philosophy,",1258
+Act III,Scene I,Lucentio,"And while I pause, serve in your harmony.",1259
+Act III,Scene I,Hortensio,"Sirrah, I will not bear these braves of thine.",1260
+Act III,Scene I,Bianca,"Why, gentlemen, you do me double wrong,",1261
+Act III,Scene I,Bianca,To strive for that which resteth in my choice:,1262
+Act III,Scene I,Bianca,I am no breeching scholar in the schools;,1263
+Act III,Scene I,Bianca,"I'll not be tied to hours nor 'pointed times,",1264
+Act III,Scene I,Bianca,But learn my lessons as I please myself.,1265
+Act III,Scene I,Bianca,"And, to cut off all strife, here sit we down:",1266
+Act III,Scene I,Bianca,"Take you your instrument, play you the whiles;",1267
+Act III,Scene I,Bianca,His lecture will be done ere you have tuned.,1268
+Act III,Scene I,Hortensio,You'll leave his lecture when I am in tune?,1269
+Act III,Scene I,Lucentio,That will be never: tune your instrument.,1270
+Act III,Scene I,Bianca,Where left we last?,1271
+Act III,Scene I,Lucentio,"Here, madam:",1272
+Act III,Scene I,Lucentio,'Hic ibat Simois; hic est Sigeia tellus;,1273
+Act III,Scene I,Lucentio,Hic steterat Priami regia celsa senis.',1274
+Act III,Scene I,Bianca,Construe them.,1275
+Act III,Scene I,Lucentio,"'Hic ibat,' as I told you before, 'Simois,' I am",1276
+Act III,Scene I,Lucentio,"Lucentio, 'hic est,' son unto Vincentio of Pisa,",1277
+Act III,Scene I,Lucentio,"'Sigeia tellus,' disguised thus to get your love;",1278
+Act III,Scene I,Lucentio,"'Hic steterat,' and that Lucentio that comes",1279
+Act III,Scene I,Lucentio,"a-wooing, 'Priami,' is my man Tranio, 'regia,'",1280
+Act III,Scene I,Lucentio,"bearing my port, 'celsa senis,' that we might",1281
+Act III,Scene I,Lucentio,beguile the old pantaloon.,1282
+Act III,Scene I,Hortensio,"Madam, my instrument's in tune.",1283
+Act III,Scene I,Bianca,Let's hear. O fie! the treble jars.,1284
+Act III,Scene I,Lucentio,"Spit in the hole, man, and tune again.",1285
+Act III,Scene I,Bianca,Now let me see if I can construe it: 'Hic ibat,1286
+Act III,Scene I,Bianca,"Simois,' I know you not, 'hic est Sigeia tellus,' I",1287
+Act III,Scene I,Bianca,"trust you not; 'Hic steterat Priami,' take heed",1288
+Act III,Scene I,Bianca,"he hear us not, 'regia,' presume not, 'celsa senis,'",1289
+Act III,Scene I,Bianca,despair not.,1290
+Act III,Scene I,Hortensio,"Madam, 'tis now in tune.",1291
+Act III,Scene I,Lucentio,All but the base.,1292
+Act III,Scene I,Hortensio,The base is right; 'tis the base knave that jars.,1293
+Act III,Scene I,[stage direction],Aside,NA
+Act III,Scene I,Hortensio,How fiery and forward our pedant is!,1294
+Act III,Scene I,Hortensio,"Now, for my life, the knave doth court my love:",1295
+Act III,Scene I,Hortensio,"Pedascule, I'll watch you better yet.",1296
+Act III,Scene I,Bianca,"In time I may believe, yet I mistrust.",1297
+Act III,Scene I,Lucentio,"Mistrust it not: for, sure, AEacides",1298
+Act III,Scene I,Lucentio,"Was Ajax, call'd so from his grandfather.",1299
+Act III,Scene I,Bianca,"I must believe my master; else, I promise you,",1300
+Act III,Scene I,Bianca,I should be arguing still upon that doubt:,1301
+Act III,Scene I,Bianca,"But let it rest. Now, Licio, to you:",1302
+Act III,Scene I,Bianca,"Good masters, take it not unkindly, pray,",1303
+Act III,Scene I,Bianca,That I have been thus pleasant with you both.,1304
+Act III,Scene I,Hortensio,"You may go walk, and give me leave a while:",1305
+Act III,Scene I,Hortensio,My lessons make no music in three parts.,1306
+Act III,Scene I,Lucentio,"Are you so formal, sir? well, I must wait,",1307
+Act III,Scene I,[stage direction],Aside,NA
+Act III,Scene I,Lucentio,"And watch withal; for, but I be deceived,",1308
+Act III,Scene I,Lucentio,Our fine musician groweth amorous.,1309
+Act III,Scene I,Hortensio,"Madam, before you touch the instrument,",1310
+Act III,Scene I,Hortensio,"To learn the order of my fingering,",1311
+Act III,Scene I,Hortensio,I must begin with rudiments of art;,1312
+Act III,Scene I,Hortensio,"To teach you gamut in a briefer sort,",1313
+Act III,Scene I,Hortensio,"More pleasant, pithy and effectual,",1314
+Act III,Scene I,Hortensio,Than hath been taught by any of my trade:,1315
+Act III,Scene I,Hortensio,"And there it is in writing, fairly drawn.",1316
+Act III,Scene I,Bianca,"Why, I am past my gamut long ago.",1317
+Act III,Scene I,Hortensio,Yet read the gamut of Hortensio.,1318
+Act III,Scene I,Bianca,"[Reads]  ''Gamut' I am, the ground of all accord,",1319
+Act III,Scene I,Bianca,"'A re,' to Plead Hortensio's passion;",1320
+Act III,Scene I,Bianca,"'B mi,' Bianca, take him for thy lord,",1321
+Act III,Scene I,Bianca,"'C fa ut,' that loves with all affection:",1322
+Act III,Scene I,Bianca,"'D sol re,' one clef, two notes have I:",1323
+Act III,Scene I,Bianca,"'E la mi,' show pity, or I die.'",1324
+Act III,Scene I,Bianca,"Call you this gamut? tut, I like it not:",1325
+Act III,Scene I,Bianca,"Old fashions please me best; I am not so nice,",1326
+Act III,Scene I,Bianca,To change true rules for old inventions.,1327
+Act III,Scene I,[stage direction],Enter a Servant,NA
+Act III,Scene I,Servant,"Mistress, your father prays you leave your books",1328
+Act III,Scene I,Servant,And help to dress your sister's chamber up:,1329
+Act III,Scene I,Servant,You know to-morrow is the wedding-day.,1330
+Act III,Scene I,Bianca,"Farewell, sweet masters both; I must be gone.",1331
+Act III,Scene I,[stage direction],Exeunt BIANCA and Servant,NA
+Act III,Scene I,Lucentio,"Faith, mistress, then I have no cause to stay.",1332
+Act III,Scene I,[stage direction],Exit,NA
+Act III,Scene I,Hortensio,But I have cause to pry into this pedant:,1333
+Act III,Scene I,Hortensio,Methinks he looks as though he were in love:,1334
+Act III,Scene I,Hortensio,"Yet if thy thoughts, Bianca, be so humble",1335
+Act III,Scene I,Hortensio,"To cast thy wandering eyes on every stale,",1336
+Act III,Scene I,Hortensio,"Seize thee that list: if once I find thee ranging,",1337
+Act III,Scene I,Hortensio,Hortensio will be quit with thee by changing.,1338
+Act III,Scene I,[stage direction],Exit,NA
+Act III,Scene II,[stage direction],"Enter BAPTISTA, GREMIO, TRANIO, KATHARINA, BIANCA, LUCENTIO, and others, attendants",NA
+Act III,Scene II,Baptista,"[To TRANIO]  Signior Lucentio, this is the",1339
+Act III,Scene II,Baptista,'pointed day.,1340
+Act III,Scene II,Baptista,"That Katharina and Petruchio should be married,",1341
+Act III,Scene II,Baptista,And yet we hear not of our son-in-law.,1342
+Act III,Scene II,Baptista,"What will be said? what mockery will it be,",1343
+Act III,Scene II,Baptista,To want the bridegroom when the priest attends,1344
+Act III,Scene II,Baptista,To speak the ceremonial rites of marriage!,1345
+Act III,Scene II,Baptista,What says Lucentio to this shame of ours?,1346
+Act III,Scene II,Katharina,"No shame but mine: I must, forsooth, be forced",1347
+Act III,Scene II,Katharina,To give my hand opposed against my heart,1348
+Act III,Scene II,Katharina,Unto a mad-brain rudesby full of spleen;,1349
+Act III,Scene II,Katharina,Who woo'd in haste and means to wed at leisure.,1350
+Act III,Scene II,Katharina,"I told you, I, he was a frantic fool,",1351
+Act III,Scene II,Katharina,Hiding his bitter jests in blunt behavior:,1352
+Act III,Scene II,Katharina,"And, to be noted for a merry man,",1353
+Act III,Scene II,Katharina,"He'll woo a thousand, 'point the day of marriage,",1354
+Act III,Scene II,Katharina,"Make feasts, invite friends, and proclaim the banns;",1355
+Act III,Scene II,Katharina,Yet never means to wed where he hath woo'd.,1356
+Act III,Scene II,Katharina,"Now must the world point at poor Katharina,",1357
+Act III,Scene II,Katharina,"And say, 'Lo, there is mad Petruchio's wife,",1358
+Act III,Scene II,Katharina,If it would please him come and marry her!',1359
+Act III,Scene II,Tranio,"Patience, good Katharina, and Baptista too.",1360
+Act III,Scene II,Tranio,"Upon my life, Petruchio means but well,",1361
+Act III,Scene II,Tranio,Whatever fortune stays him from his word:,1362
+Act III,Scene II,Tranio,"Though he be blunt, I know him passing wise;",1363
+Act III,Scene II,Tranio,"Though he be merry, yet withal he's honest.",1364
+Act III,Scene II,Katharina,Would Katharina had never seen him though!,1365
+Act III,Scene II,[stage direction],"Exit weeping, followed by BIANCA and others",NA
+Act III,Scene II,Baptista,"Go, girl; I cannot blame thee now to weep;",1366
+Act III,Scene II,Baptista,"For such an injury would vex a very saint,",1367
+Act III,Scene II,Baptista,Much more a shrew of thy impatient humour.,1368
+Act III,Scene II,[stage direction],Enter BIONDELLO,NA
+Act III,Scene II,Biondello,"Master, master! news, old news, and such news as",1369
+Act III,Scene II,Biondello,you never heard of!,1370
+Act III,Scene II,Baptista,Is it new and old too? how may that be?,1371
+Act III,Scene II,Biondello,"Why, is it not news, to hear of Petruchio's coming?",1372
+Act III,Scene II,Baptista,Is he come?,1373
+Act III,Scene II,Biondello,"Why, no, sir.",1374
+Act III,Scene II,Baptista,What then?,1375
+Act III,Scene II,Biondello,He is coming.,1376
+Act III,Scene II,Baptista,When will he be here?,1377
+Act III,Scene II,Biondello,When he stands where I am and sees you there.,1378
+Act III,Scene II,Tranio,"But say, what to thine old news?",1379
+Act III,Scene II,Biondello,"Why, Petruchio is coming in a new hat and an old",1380
+Act III,Scene II,Biondello,"jerkin, a pair of old breeches thrice turned, a pair",1381
+Act III,Scene II,Biondello,"of boots that have been candle-cases, one buckled,",1382
+Act III,Scene II,Biondello,"another laced, an old rusty sword ta'en out of the",1383
+Act III,Scene II,Biondello,"town-armory, with a broken hilt, and chapeless;",1384
+Act III,Scene II,Biondello,with two broken points: his horse hipped with an,1385
+Act III,Scene II,Biondello,old mothy saddle and stirrups of no kindred;,1386
+Act III,Scene II,Biondello,"besides, possessed with the glanders and like to mose",1387
+Act III,Scene II,Biondello,"in the chine; troubled with the lampass, infected",1388
+Act III,Scene II,Biondello,"with the fashions, full of wingdalls, sped with",1389
+Act III,Scene II,Biondello,"spavins, rayed with yellows, past cure of the fives,",1390
+Act III,Scene II,Biondello,"stark spoiled with the staggers, begnawn with the",1391
+Act III,Scene II,Biondello,"bots, swayed in the back and shoulder-shotten;",1392
+Act III,Scene II,Biondello,"near-legged before and with, a half-chequed bit",1393
+Act III,Scene II,Biondello,"and a head-stall of sheeps leather which, being",1394
+Act III,Scene II,Biondello,"restrained to keep him from stumbling, hath been",1395
+Act III,Scene II,Biondello,often burst and now repaired with knots; one girth,1396
+Act III,Scene II,Biondello,"six time pieced and a woman's crupper of velure,",1397
+Act III,Scene II,Biondello,which hath two letters for her name fairly set down,1398
+Act III,Scene II,Biondello,"in studs, and here and there pieced with packthread.",1399
+Act III,Scene II,Baptista,Who comes with him?,1400
+Act III,Scene II,Biondello,"O, sir, his lackey, for all the world caparisoned",1401
+Act III,Scene II,Biondello,like the horse; with a linen stock on one leg and a,1402
+Act III,Scene II,Biondello,"kersey boot-hose on the other, gartered with a red",1403
+Act III,Scene II,Biondello,and blue list; an old hat and 'the humour of forty,1404
+Act III,Scene II,Biondello,"fancies' pricked in't for a feather: a monster, a",1405
+Act III,Scene II,Biondello,"very monster in apparel, and not like a Christian",1406
+Act III,Scene II,Biondello,footboy or a gentleman's lackey.,1407
+Act III,Scene II,Tranio,'Tis some odd humour pricks him to this fashion;,1408
+Act III,Scene II,Tranio,Yet oftentimes he goes but mean-apparell'd.,1409
+Act III,Scene II,Baptista,"I am glad he's come, howsoe'er he comes.",1410
+Act III,Scene II,Biondello,"Why, sir, he comes not.",1411
+Act III,Scene II,Baptista,Didst thou not say he comes?,1412
+Act III,Scene II,Biondello,Who? that Petruchio came?,1413
+Act III,Scene II,Baptista,"Ay, that Petruchio came.",1414
+Act III,Scene II,Biondello,"No, sir, I say his horse comes, with him on his back.",1415
+Act III,Scene II,Baptista,"Why, that's all one.",1416
+Act III,Scene II,Biondello,"Nay, by Saint Jamy,",1417
+Act III,Scene II,Biondello,"I hold you a penny,",1418
+Act III,Scene II,Biondello,A horse and a man,1419
+Act III,Scene II,Biondello,"Is more than one,",1420
+Act III,Scene II,Biondello,And yet not many.,1421
+Act III,Scene II,[stage direction],Enter PETRUCHIO and GRUMIO,NA
+Act III,Scene II,Petruchio,"Come, where be these gallants? who's at home?",1422
+Act III,Scene II,Baptista,"You are welcome, sir.",1423
+Act III,Scene II,Petruchio,And yet I come not well.,1424
+Act III,Scene II,Baptista,And yet you halt not.,1425
+Act III,Scene II,Tranio,Not so well apparell'd,1426
+Act III,Scene II,Tranio,As I wish you were.,1427
+Act III,Scene II,Petruchio,"Were it better, I should rush in thus.",1428
+Act III,Scene II,Petruchio,But where is Kate? where is my lovely bride?,1429
+Act III,Scene II,Petruchio,"How does my father? Gentles, methinks you frown:",1430
+Act III,Scene II,Petruchio,"And wherefore gaze this goodly company,",1431
+Act III,Scene II,Petruchio,"As if they saw some wondrous monument,",1432
+Act III,Scene II,Petruchio,Some comet or unusual prodigy?,1433
+Act III,Scene II,Baptista,"Why, sir, you know this is your wedding-day:",1434
+Act III,Scene II,Baptista,"First were we sad, fearing you would not come;",1435
+Act III,Scene II,Baptista,"Now sadder, that you come so unprovided.",1436
+Act III,Scene II,Baptista,"Fie, doff this habit, shame to your estate,",1437
+Act III,Scene II,Baptista,An eye-sore to our solemn festival!,1438
+Act III,Scene II,Tranio,"And tells us, what occasion of import",1439
+Act III,Scene II,Tranio,"Hath all so long detain'd you from your wife,",1440
+Act III,Scene II,Tranio,And sent you hither so unlike yourself?,1441
+Act III,Scene II,Petruchio,"Tedious it were to tell, and harsh to hear:",1442
+Act III,Scene II,Petruchio,"Sufficeth I am come to keep my word,",1443
+Act III,Scene II,Petruchio,Though in some part enforced to digress;,1444
+Act III,Scene II,Petruchio,"Which, at more leisure, I will so excuse",1445
+Act III,Scene II,Petruchio,As you shall well be satisfied withal.,1446
+Act III,Scene II,Petruchio,But where is Kate? I stay too long from her:,1447
+Act III,Scene II,Petruchio,"The morning wears, 'tis time we were at church.",1448
+Act III,Scene II,Tranio,See not your bride in these unreverent robes:,1449
+Act III,Scene II,Tranio,Go to my chamber; Put on clothes of mine.,1450
+Act III,Scene II,Petruchio,"Not I, believe me: thus I'll visit her.",1451
+Act III,Scene II,Baptista,"But thus, I trust, you will not marry her.",1452
+Act III,Scene II,Petruchio,"Good sooth, even thus; therefore ha' done with words:",1453
+Act III,Scene II,Petruchio,"To me she's married, not unto my clothes:",1454
+Act III,Scene II,Petruchio,"Could I repair what she will wear in me,",1455
+Act III,Scene II,Petruchio,"As I can change these poor accoutrements,",1456
+Act III,Scene II,Petruchio,'Twere well for Kate and better for myself.,1457
+Act III,Scene II,Petruchio,"But what a fool am I to chat with you,",1458
+Act III,Scene II,Petruchio,"When I should bid good morrow to my bride,",1459
+Act III,Scene II,Petruchio,And seal the title with a lovely kiss!,1460
+Act III,Scene II,[stage direction],Exeunt PETRUCHIO and GRUMIO,NA
+Act III,Scene II,Tranio,He hath some meaning in his mad attire:,1461
+Act III,Scene II,Tranio,"We will persuade him, be it possible,",1462
+Act III,Scene II,Tranio,To put on better ere he go to church.,1463
+Act III,Scene II,Baptista,"I'll after him, and see the event of this.",1464
+Act III,Scene II,[stage direction],"Exeunt BAPTISTA, GREMIO, and attendants",NA
+Act III,Scene II,Tranio,But to her love concerneth us to add,1465
+Act III,Scene II,Tranio,"Her father's liking: which to bring to pass,",1466
+Act III,Scene II,Tranio,"As I before unparted to your worship,",1467
+Act III,Scene II,Tranio,"I am to get a man,--whate'er he be,",1468
+Act III,Scene II,Tranio,"It skills not much. we'll fit him to our turn,--",1469
+Act III,Scene II,Tranio,And he shall be Vincentio of Pisa;,1470
+Act III,Scene II,Tranio,And make assurance here in Padua,1471
+Act III,Scene II,Tranio,Of greater sums than I have promised.,1472
+Act III,Scene II,Tranio,"So shall you quietly enjoy your hope,",1473
+Act III,Scene II,Tranio,And marry sweet Bianca with consent.,1474
+Act III,Scene II,Lucentio,Were it not that my fellow-school-master,1475
+Act III,Scene II,Lucentio,"Doth watch Bianca's steps so narrowly,",1476
+Act III,Scene II,Lucentio,"'Twere good, methinks, to steal our marriage;",1477
+Act III,Scene II,Lucentio,"Which once perform'd, let all the world say no,",1478
+Act III,Scene II,Lucentio,"I'll keep mine own, despite of all the world.",1479
+Act III,Scene II,Tranio,"That by degrees we mean to look into,",1480
+Act III,Scene II,Tranio,And watch our vantage in this business:,1481
+Act III,Scene II,Tranio,"We'll over-reach the greybeard, Gremio,",1482
+Act III,Scene II,Tranio,"The narrow-prying father, Minola,",1483
+Act III,Scene II,Tranio,"The quaint musician, amorous Licio;",1484
+Act III,Scene II,Tranio,"All for my master's sake, Lucentio.",1485
+Act III,Scene II,[stage direction],Re-enter GREMIO,NA
+Act III,Scene II,Tranio,"Signior Gremio, came you from the church?",1486
+Act III,Scene II,Gremio,As willingly as e'er I came from school.,1487
+Act III,Scene II,Tranio,And is the bride and bridegroom coming home?,1488
+Act III,Scene II,Gremio,"A bridegroom say you? 'tis a groom indeed,",1489
+Act III,Scene II,Gremio,"A grumbling groom, and that the girl shall find.",1490
+Act III,Scene II,Tranio,"Curster than she? why, 'tis impossible.",1491
+Act III,Scene II,Gremio,"Why he's a devil, a devil, a very fiend.",1492
+Act III,Scene II,Tranio,"Why, she's a devil, a devil, the devil's dam.",1493
+Act III,Scene II,Gremio,"Tut, she's a lamb, a dove, a fool to him!",1494
+Act III,Scene II,Gremio,"I'll tell you, Sir Lucentio: when the priest",1495
+Act III,Scene II,Gremio,"Should ask, if Katharina should be his wife,",1496
+Act III,Scene II,Gremio,"'Ay, by gogs-wouns,' quoth he; and swore so loud,",1497
+Act III,Scene II,Gremio,"That, all-amazed, the priest let fall the book;",1498
+Act III,Scene II,Gremio,"And, as he stoop'd again to take it up,",1499
+Act III,Scene II,Gremio,The mad-brain'd bridegroom took him such a cuff,1500
+Act III,Scene II,Gremio,That down fell priest and book and book and priest:,1501
+Act III,Scene II,Gremio,"'Now take them up,' quoth he, 'if any list.'",1502
+Act III,Scene II,Tranio,What said the wench when he rose again?,1503
+Act III,Scene II,Gremio,"Trembled and shook; for why, he stamp'd and swore,",1504
+Act III,Scene II,Gremio,As if the vicar meant to cozen him.,1505
+Act III,Scene II,Gremio,"But after many ceremonies done,",1506
+Act III,Scene II,Gremio,"He calls for wine: 'A health!' quoth he, as if",1507
+Act III,Scene II,Gremio,"He had been aboard, carousing to his mates",1508
+Act III,Scene II,Gremio,After a storm; quaff'd off the muscadel,1509
+Act III,Scene II,Gremio,And threw the sops all in the sexton's face;,1510
+Act III,Scene II,Gremio,Having no other reason,1511
+Act III,Scene II,Gremio,But that his beard grew thin and hungerly,1512
+Act III,Scene II,Gremio,And seem'd to ask him sops as he was drinking.,1513
+Act III,Scene II,Gremio,"This done, he took the bride about the neck",1514
+Act III,Scene II,Gremio,And kiss'd her lips with such a clamorous smack,1515
+Act III,Scene II,Gremio,That at the parting all the church did echo:,1516
+Act III,Scene II,Gremio,And I seeing this came thence for very shame;,1517
+Act III,Scene II,Gremio,"And after me, I know, the rout is coming.",1518
+Act III,Scene II,Gremio,Such a mad marriage never was before:,1519
+Act III,Scene II,Gremio,"Hark, hark! I hear the minstrels play.",1520
+Act III,Scene II,[stage direction],Music,NA
+Act III,Scene II,[stage direction],"Re-enter PETRUCHIO, KATHARINA, BIANCA, BAPTISTA, HORTENSIO, GRUMIO, and Train",NA
+Act III,Scene II,Petruchio,"Gentlemen and friends, I thank you for your pains:",1521
+Act III,Scene II,Petruchio,"I know you think to dine with me to-day,",1522
+Act III,Scene II,Petruchio,And have prepared great store of wedding cheer;,1523
+Act III,Scene II,Petruchio,"But so it is, my haste doth call me hence,",1524
+Act III,Scene II,Petruchio,And therefore here I mean to take my leave.,1525
+Act III,Scene II,Baptista,Is't possible you will away to-night?,1526
+Act III,Scene II,Petruchio,"I must away to-day, before night come:",1527
+Act III,Scene II,Petruchio,"Make it no wonder; if you knew my business,",1528
+Act III,Scene II,Petruchio,You would entreat me rather go than stay.,1529
+Act III,Scene II,Petruchio,"And, honest company, I thank you all,",1530
+Act III,Scene II,Petruchio,That have beheld me give away myself,1531
+Act III,Scene II,Petruchio,"To this most patient, sweet and virtuous wife:",1532
+Act III,Scene II,Petruchio,"Dine with my father, drink a health to me;",1533
+Act III,Scene II,Petruchio,For I must hence; and farewell to you all.,1534
+Act III,Scene II,Tranio,Let us entreat you stay till after dinner.,1535
+Act III,Scene II,Petruchio,It may not be.,1536
+Act III,Scene II,Gremio,Let me entreat you.,1537
+Act III,Scene II,Petruchio,It cannot be.,1538
+Act III,Scene II,Katharina,Let me entreat you.,1539
+Act III,Scene II,Petruchio,I am content.,1540
+Act III,Scene II,Katharina,Are you content to stay?,1541
+Act III,Scene II,Petruchio,I am content you shall entreat me stay;,1542
+Act III,Scene II,Petruchio,"But yet not stay, entreat me how you can.",1543
+Act III,Scene II,Katharina,"Now, if you love me, stay.",1544
+Act III,Scene II,Petruchio,"Grumio, my horse.",1545
+Act III,Scene II,Grumio,"Ay, sir, they be ready: the oats have eaten the horses.",1546
+Act III,Scene II,Katharina,"Nay, then,",1547
+Act III,Scene II,Katharina,"Do what thou canst, I will not go to-day;",1548
+Act III,Scene II,Katharina,"No, nor to-morrow, not till I please myself.",1549
+Act III,Scene II,Katharina,"The door is open, sir; there lies your way;",1550
+Act III,Scene II,Katharina,You may be jogging whiles your boots are green;,1551
+Act III,Scene II,Katharina,"For me, I'll not be gone till I please myself:",1552
+Act III,Scene II,Katharina,"'Tis like you'll prove a jolly surly groom,",1553
+Act III,Scene II,Katharina,That take it on you at the first so roundly.,1554
+Act III,Scene II,Petruchio,"O Kate, content thee; prithee, be not angry.",1555
+Act III,Scene II,Katharina,I will be angry: what hast thou to do?,1556
+Act III,Scene II,Katharina,"Father, be quiet; he shall stay my leisure.",1557
+Act III,Scene II,Gremio,"Ay, marry, sir, now it begins to work.",1558
+Act III,Scene II,Katarina,"Gentlemen, forward to the bridal dinner:",1559
+Act III,Scene II,Katarina,"I see a woman may be made a fool,",1560
+Act III,Scene II,Katarina,If she had not a spirit to resist.,1561
+Act III,Scene II,Petruchio,"They shall go forward, Kate, at thy command.",1562
+Act III,Scene II,Petruchio,"Obey the bride, you that attend on her;",1563
+Act III,Scene II,Petruchio,"Go to the feast, revel and domineer,",1564
+Act III,Scene II,Petruchio,"Carouse full measure to her maidenhead,",1565
+Act III,Scene II,Petruchio,"Be mad and merry, or go hang yourselves:",1566
+Act III,Scene II,Petruchio,"But for my bonny Kate, she must with me.",1567
+Act III,Scene II,Petruchio,"Nay, look not big, nor stamp, nor stare, nor fret;",1568
+Act III,Scene II,Petruchio,I will be master of what is mine own:,1569
+Act III,Scene II,Petruchio,"She is my goods, my chattels; she is my house,",1570
+Act III,Scene II,Petruchio,"My household stuff, my field, my barn,",1571
+Act III,Scene II,Petruchio,"My horse, my ox, my ass, my any thing;",1572
+Act III,Scene II,Petruchio,"And here she stands, touch her whoever dare;",1573
+Act III,Scene II,Petruchio,I'll bring mine action on the proudest he,1574
+Act III,Scene II,Petruchio,"That stops my way in Padua. Grumio,",1575
+Act III,Scene II,Petruchio,"Draw forth thy weapon, we are beset with thieves;",1576
+Act III,Scene II,Petruchio,"Rescue thy mistress, if thou be a man.",1577
+Act III,Scene II,Petruchio,"Fear not, sweet wench, they shall not touch",1578
+Act III,Scene II,Petruchio,"thee, Kate:",1579
+Act III,Scene II,Petruchio,I'll buckler thee against a million.,1580
+Act III,Scene II,[stage direction],"Exeunt PETRUCHIO, KATHARINA, and GRUMIO",NA
+Act III,Scene II,Baptista,"Nay, let them go, a couple of quiet ones.",1581
+Act III,Scene II,Gremio,"Went they not quickly, I should die with laughing.",1582
+Act III,Scene II,Tranio,Of all mad matches never was the like.,1583
+Act III,Scene II,Lucentio,"Mistress, what's your opinion of your sister?",1584
+Act III,Scene II,Bianca,"That, being mad herself, she's madly mated.",1585
+Act III,Scene II,Gremio,"I warrant him, Petruchio is Kated.",1586
+Act III,Scene II,Baptista,"Neighbours and friends, though bride and",1587
+Act III,Scene II,Baptista,bridegroom wants,1588
+Act III,Scene II,Baptista,"For to supply the places at the table,",1589
+Act III,Scene II,Baptista,You know there wants no junkets at the feast.,1590
+Act III,Scene II,Baptista,"Lucentio, you shall supply the bridegroom's place:",1591
+Act III,Scene II,Baptista,And let Bianca take her sister's room.,1592
+Act III,Scene II,Tranio,Shall sweet Bianca practise how to bride it?,1593
+Act III,Scene II,Baptista,"She shall, Lucentio. Come, gentlemen, let's go.",1594
+Act III,Scene II,[stage direction],Exeunt,NA
+Act IV,Scene I,[stage direction],Enter GRUMIO,NA
+Act IV,Scene I,Grumio,"Fie, fie on all tired jades, on all mad masters, and",1595
+Act IV,Scene I,Grumio,all foul ways! Was ever man so beaten? was ever,1596
+Act IV,Scene I,Grumio,man so rayed? was ever man so weary? I am sent,1597
+Act IV,Scene I,Grumio,"before to make a fire, and they are coming after to",1598
+Act IV,Scene I,Grumio,"warm them. Now, were not I a little pot and soon",1599
+Act IV,Scene I,Grumio,"hot, my very lips might freeze to my teeth, my",1600
+Act IV,Scene I,Grumio,"tongue to the roof of my mouth, my heart in my",1601
+Act IV,Scene I,Grumio,"belly, ere I should come by a fire to thaw me: but",1602
+Act IV,Scene I,Grumio,"I, with blowing the fire, shall warm myself; for,",1603
+Act IV,Scene I,Grumio,"considering the weather, a taller man than I will",1604
+Act IV,Scene I,Grumio,"take cold. Holla, ho! Curtis.",1605
+Act IV,Scene I,[stage direction],Enter CURTIS,NA
+Act IV,Scene I,Curtis,Who is that calls so coldly?,1606
+Act IV,Scene I,Grumio,"A piece of ice: if thou doubt it, thou mayst slide",1607
+Act IV,Scene I,Grumio,from my shoulder to my heel with no greater a run,1608
+Act IV,Scene I,Grumio,but my head and my neck. A fire good Curtis.,1609
+Act IV,Scene I,Curtis,"Is my master and his wife coming, Grumio?",1610
+Act IV,Scene I,Grumio,"O, ay, Curtis, ay: and therefore fire, fire; cast",1611
+Act IV,Scene I,Grumio,on no water.,1612
+Act IV,Scene I,Curtis,Is she so hot a shrew as she's reported?,1613
+Act IV,Scene I,Grumio,"She was, good Curtis, before this frost: but, thou",1614
+Act IV,Scene I,Grumio,"knowest, winter tames man, woman and beast; for it",1615
+Act IV,Scene I,Grumio,hath tamed my old master and my new mistress and,1616
+Act IV,Scene I,Grumio,"myself, fellow Curtis.",1617
+Act IV,Scene I,Curtis,"Away, you three-inch fool! I am no beast.",1618
+Act IV,Scene I,Grumio,"Am I but three inches? why, thy horn is a foot; and",1619
+Act IV,Scene I,Grumio,so long am I at the least. But wilt thou make a,1620
+Act IV,Scene I,Grumio,"fire, or shall I complain on thee to our mistress,",1621
+Act IV,Scene I,Grumio,"whose hand, she being now at hand, thou shalt soon",1622
+Act IV,Scene I,Grumio,"feel, to thy cold comfort, for being slow in thy hot office?",1623
+Act IV,Scene I,Curtis,"I prithee, good Grumio, tell me, how goes the world?",1624
+Act IV,Scene I,Grumio,"A cold world, Curtis, in every office but thine; and",1625
+Act IV,Scene I,Grumio,"therefore fire: do thy duty, and have thy duty; for",1626
+Act IV,Scene I,Grumio,my master and mistress are almost frozen to death.,1627
+Act IV,Scene I,Curtis,"There's fire ready; and therefore, good Grumio, the news.",1628
+Act IV,Scene I,Grumio,"Why, 'Jack, boy! ho! boy!' and as much news as",1629
+Act IV,Scene I,Grumio,will thaw.,1630
+Act IV,Scene I,Curtis,"Come, you are so full of cony-catching!",1631
+Act IV,Scene I,Grumio,"Why, therefore fire; for I have caught extreme cold.",1632
+Act IV,Scene I,Grumio,"Where's the cook? is supper ready, the house",1633
+Act IV,Scene I,Grumio,"trimmed, rushes strewed, cobwebs swept; the",1634
+Act IV,Scene I,Grumio,"serving-men in their new fustian, their white",1635
+Act IV,Scene I,Grumio,"stockings, and every officer his wedding-garment on?",1636
+Act IV,Scene I,Grumio,"Be the jacks fair within, the jills fair without,",1637
+Act IV,Scene I,Grumio,"the carpets laid, and every thing in order?",1638
+Act IV,Scene I,Curtis,"All ready; and therefore, I pray thee, news.",1639
+Act IV,Scene I,Grumio,"First, know, my horse is tired; my master and",1640
+Act IV,Scene I,Grumio,mistress fallen out.,1641
+Act IV,Scene I,Curtis,How?,1642
+Act IV,Scene I,Grumio,Out of their saddles into the dirt; and thereby,1643
+Act IV,Scene I,Grumio,hangs a tale.,1644
+Act IV,Scene I,Curtis,"Let's ha't, good Grumio.",1645
+Act IV,Scene I,Grumio,Lend thine ear.,1646
+Act IV,Scene I,Curtis,Here.,1647
+Act IV,Scene I,Grumio,There.,1648
+Act IV,Scene I,[stage direction],Strikes him,NA
+Act IV,Scene I,Curtis,"This is to feel a tale, not to hear a tale.",1649
+Act IV,Scene I,Grumio,And therefore 'tis called a sensible tale: and this,1650
+Act IV,Scene I,Grumio,"cuff was but to knock at your ear, and beseech",1651
+Act IV,Scene I,Grumio,"listening. Now I begin: Imprimis, we came down a",1652
+Act IV,Scene I,Grumio,"foul hill, my master riding behind my mistress,--",1653
+Act IV,Scene I,Curtis,Both of one horse?,1654
+Act IV,Scene I,Grumio,What's that to thee?,1655
+Act IV,Scene I,Curtis,"Why, a horse.",1656
+Act IV,Scene I,Grumio,"Tell thou the tale: but hadst thou not crossed me,",1657
+Act IV,Scene I,Grumio,thou shouldst have heard how her horse fell and she,1658
+Act IV,Scene I,Grumio,under her horse; thou shouldst have heard in how,1659
+Act IV,Scene I,Grumio,"miry a place, how she was bemoiled, how he left her",1660
+Act IV,Scene I,Grumio,"with the horse upon her, how he beat me because",1661
+Act IV,Scene I,Grumio,"her horse stumbled, how she waded through the dirt",1662
+Act IV,Scene I,Grumio,"to pluck him off me, how he swore, how she prayed,",1663
+Act IV,Scene I,Grumio,"that never prayed before, how I cried, how the",1664
+Act IV,Scene I,Grumio,"horses ran away, how her bridle was burst, how I",1665
+Act IV,Scene I,Grumio,"lost my crupper, with many things of worthy memory,",1666
+Act IV,Scene I,Grumio,which now shall die in oblivion and thou return,1667
+Act IV,Scene I,Grumio,unexperienced to thy grave.,1668
+Act IV,Scene I,Curtis,By this reckoning he is more shrew than she.,1669
+Act IV,Scene I,Grumio,Ay; and that thou and the proudest of you all shall,1670
+Act IV,Scene I,Grumio,find when he comes home. But what talk I of this?,1671
+Act IV,Scene I,Grumio,"Call forth Nathaniel, Joseph, Nicholas, Philip,",1672
+Act IV,Scene I,Grumio,"Walter, Sugarsop and the rest: let their heads be",1673
+Act IV,Scene I,Grumio,sleekly combed their blue coats brushed and their,1674
+Act IV,Scene I,Grumio,garters of an indifferent knit: let them curtsy,1675
+Act IV,Scene I,Grumio,with their left legs and not presume to touch a hair,1676
+Act IV,Scene I,Grumio,of my master's horse-tail till they kiss their,1677
+Act IV,Scene I,Grumio,hands. Are they all ready?,1678
+Act IV,Scene I,Curtis,They are.,1679
+Act IV,Scene I,Grumio,Call them forth.,1680
+Act IV,Scene I,Curtis,"Do you hear, ho? you must meet my master to",1681
+Act IV,Scene I,Curtis,countenance my mistress.,1682
+Act IV,Scene I,Grumio,"Why, she hath a face of her own.",1683
+Act IV,Scene I,Curtis,Who knows not that?,1684
+Act IV,Scene I,Grumio,"Thou, it seems, that calls for company to",1685
+Act IV,Scene I,Grumio,countenance her.,1686
+Act IV,Scene I,Curtis,I call them forth to credit her.,1687
+Act IV,Scene I,Grumio,"Why, she comes to borrow nothing of them.",1688
+Act IV,Scene I,[stage direction],Enter four or five Serving-men,NA
+Act IV,Scene I,Nathaniel,"Welcome home, Grumio!",1689
+Act IV,Scene I,Philip,"How now, Grumio!",1690
+Act IV,Scene I,Joseph,"What, Grumio!",1691
+Act IV,Scene I,Nicholas,Fellow Grumio!,1692
+Act IV,Scene I,Nathaniel,"How now, old lad?",1693
+Act IV,Scene I,Grumio,"Welcome, you;--how now, you;-- what, you;--fellow,",1694
+Act IV,Scene I,Grumio,"you;--and thus much for greeting. Now, my spruce",1695
+Act IV,Scene I,Grumio,"companions, is all ready, and all things neat?",1696
+Act IV,Scene I,Nathaniel,All things is ready. How near is our master?,1697
+Act IV,Scene I,Grumio,"E'en at hand, alighted by this; and therefore be",1698
+Act IV,Scene I,Grumio,"not--Cock's passion, silence! I hear my master.",1699
+Act IV,Scene I,[stage direction],Enter PETRUCHIO and KATHARINA,NA
+Act IV,Scene I,Petruchio,"Where be these knaves? What, no man at door",1700
+Act IV,Scene I,Petruchio,To hold my stirrup nor to take my horse!,1701
+Act IV,Scene I,Petruchio,"Where is Nathaniel, Gregory, Philip?",1702
+Act IV,Scene I,Petruchio,"ALL SERVING-MEN	Here, here, sir; here, sir.",1703
+Act IV,Scene I,Petruchio,"Here, sir! here, sir! here, sir! here, sir!",1704
+Act IV,Scene I,Petruchio,You logger-headed and unpolish'd grooms!,1705
+Act IV,Scene I,Petruchio,"What, no attendance? no regard? no duty?",1706
+Act IV,Scene I,Petruchio,Where is the foolish knave I sent before?,1707
+Act IV,Scene I,Grumio,"Here, sir; as foolish as I was before.",1708
+Act IV,Scene I,Petruchio,You peasant swain! you whoreson malt-horse drudge!,1709
+Act IV,Scene I,Petruchio,"Did I not bid thee meet me in the park,",1710
+Act IV,Scene I,Petruchio,And bring along these rascal knaves with thee?,1711
+Act IV,Scene I,Grumio,"Nathaniel's coat, sir, was not fully made,",1712
+Act IV,Scene I,Grumio,And Gabriel's pumps were all unpink'd i' the heel;,1713
+Act IV,Scene I,Grumio,"There was no link to colour Peter's hat,",1714
+Act IV,Scene I,Grumio,And Walter's dagger was not come from sheathing:,1715
+Act IV,Scene I,Grumio,"There were none fine but Adam, Ralph, and Gregory;",1716
+Act IV,Scene I,Grumio,"The rest were ragged, old, and beggarly;",1717
+Act IV,Scene I,Grumio,"Yet, as they are, here are they come to meet you.",1718
+Act IV,Scene I,Petruchio,"Go, rascals, go, and fetch my supper in.",1719
+Act IV,Scene I,[stage direction],Exeunt Servants,NA
+Act IV,Scene I,[stage direction],Singing,NA
+Act IV,Scene I,Petruchio,Where is the life that late I led--,1720
+Act IV,Scene I,Petruchio,"Where are those--Sit down, Kate, and welcome.--",1721
+Act IV,Scene I,Petruchio,"Sound, sound, sound, sound!",1722
+Act IV,Scene I,[stage direction],Re-enter Servants with supper,NA
+Act IV,Scene I,Petruchio,"Why, when, I say? Nay, good sweet Kate, be merry.",1723
+Act IV,Scene I,Petruchio,"Off with my boots, you rogues! you villains, when?",1724
+Act IV,Scene I,[stage direction],Sings,NA
+Act IV,Scene I,Petruchio,"It was the friar of orders grey,",1725
+Act IV,Scene I,Petruchio,As he forth walked on his way:--,1726
+Act IV,Scene I,Petruchio,"Out, you rogue! you pluck my foot awry:",1727
+Act IV,Scene I,Petruchio,"Take that, and mend the plucking off the other.",1728
+Act IV,Scene I,[stage direction],Strikes him,NA
+Act IV,Scene I,Petruchio,"Be merry, Kate. Some water, here; what, ho!",1729
+Act IV,Scene I,Petruchio,"Where's my spaniel Troilus? Sirrah, get you hence,",1730
+Act IV,Scene I,Petruchio,And bid my cousin Ferdinand come hither:,1731
+Act IV,Scene I,Petruchio,"One, Kate, that you must kiss, and be acquainted with.",1732
+Act IV,Scene I,Petruchio,Where are my slippers? Shall I have some water?,1733
+Act IV,Scene I,[stage direction],Enter one with water,NA
+Act IV,Scene I,Petruchio,"Come, Kate, and wash, and welcome heartily.",1734
+Act IV,Scene I,Petruchio,You whoreson villain! will you let it fall?,1735
+Act IV,Scene I,[stage direction],Strikes him,NA
+Act IV,Scene I,Katharina,"Patience, I pray you; 'twas a fault unwilling.",1736
+Act IV,Scene I,Petruchio,"A whoreson beetle-headed, flap-ear'd knave!",1737
+Act IV,Scene I,Petruchio,"Come, Kate, sit down; I know you have a stomach.",1738
+Act IV,Scene I,Petruchio,"Will you give thanks, sweet Kate; or else shall I?",1739
+Act IV,Scene I,Petruchio,What's this? mutton?,1740
+Act IV,Scene I,First Servant,Ay.,1741
+Act IV,Scene I,Petruchio,Who brought it?,1742
+Act IV,Scene I,Peter,I.,1743
+Act IV,Scene I,Petruchio,'Tis burnt; and so is all the meat.,1744
+Act IV,Scene I,Petruchio,What dogs are these! Where is the rascal cook?,1745
+Act IV,Scene I,Petruchio,"How durst you, villains, bring it from the dresser,",1746
+Act IV,Scene I,Petruchio,And serve it thus to me that love it not?,1747
+Act IV,Scene I,Petruchio,"Theretake it to you, trenchers, cups, and all;",1748
+Act IV,Scene I,[stage direction],"Throws the meat,  &amp; c. about the stage",NA
+Act IV,Scene I,Petruchio,You heedless joltheads and unmanner'd slaves!,1749
+Act IV,Scene I,Petruchio,"What, do you grumble? I'll be with you straight.",1750
+Act IV,Scene I,Katharina,"I pray you, husband, be not so disquiet:",1751
+Act IV,Scene I,Katharina,"The meat was well, if you were so contented.",1752
+Act IV,Scene I,Petruchio,"I tell thee, Kate, 'twas burnt and dried away;",1753
+Act IV,Scene I,Petruchio,"And I expressly am forbid to touch it,",1754
+Act IV,Scene I,Petruchio,"For it engenders choler, planteth anger;",1755
+Act IV,Scene I,Petruchio,"And better 'twere that both of us did fast,",1756
+Act IV,Scene I,Petruchio,"Since, of ourselves, ourselves are choleric,",1757
+Act IV,Scene I,Petruchio,Than feed it with such over-roasted flesh.,1758
+Act IV,Scene I,Petruchio,"Be patient; to-morrow 't shall be mended,",1759
+Act IV,Scene I,Petruchio,"And, for this night, we'll fast for company:",1760
+Act IV,Scene I,Petruchio,"Come, I will bring thee to thy bridal chamber.",1761
+Act IV,Scene I,[stage direction],Exeunt,NA
+Act IV,Scene I,[stage direction],Re-enter Servants severally,NA
+Act IV,Scene I,Nathaniel,"Peter, didst ever see the like?",1762
+Act IV,Scene I,Peter,He kills her in her own humour.,1763
+Act IV,Scene I,[stage direction],Re-enter CURTIS,NA
+Act IV,Scene I,Grumio,Where is he?,1764
+Act IV,Scene I,Curtis,"In her chamber, making a sermon of continency to her;",1765
+Act IV,Scene I,Curtis,"And rails, and swears, and rates, that she, poor soul,",1766
+Act IV,Scene I,Curtis,"Knows not which way to stand, to look, to speak,",1767
+Act IV,Scene I,Curtis,And sits as one new-risen from a dream.,1768
+Act IV,Scene I,Curtis,"Away, away! for he is coming hither.",1769
+Act IV,Scene I,[stage direction],Exeunt,NA
+Act IV,Scene I,[stage direction],Re-enter PETRUCHIO,NA
+Act IV,Scene I,Petruchio,"Thus have I politicly begun my reign,",1770
+Act IV,Scene I,Petruchio,And 'tis my hope to end successfully.,1771
+Act IV,Scene I,Petruchio,My falcon now is sharp and passing empty;,1772
+Act IV,Scene I,Petruchio,"And till she stoop she must not be full-gorged,",1773
+Act IV,Scene I,Petruchio,For then she never looks upon her lure.,1774
+Act IV,Scene I,Petruchio,"Another way I have to man my haggard,",1775
+Act IV,Scene I,Petruchio,"To make her come and know her keeper's call,",1776
+Act IV,Scene I,Petruchio,"That is, to watch her, as we watch these kites",1777
+Act IV,Scene I,Petruchio,That bate and beat and will not be obedient.,1778
+Act IV,Scene I,Petruchio,"She eat no meat to-day, nor none shall eat;",1779
+Act IV,Scene I,Petruchio,"Last night she slept not, nor to-night she shall not;",1780
+Act IV,Scene I,Petruchio,"As with the meat, some undeserved fault",1781
+Act IV,Scene I,Petruchio,I'll find about the making of the bed;,1782
+Act IV,Scene I,Petruchio,"And here I'll fling the pillow, there the bolster,",1783
+Act IV,Scene I,Petruchio,"This way the coverlet, another way the sheets:",1784
+Act IV,Scene I,Petruchio,"Ay, and amid this hurly I intend",1785
+Act IV,Scene I,Petruchio,That all is done in reverend care of her;,1786
+Act IV,Scene I,Petruchio,And in conclusion she shall watch all night:,1787
+Act IV,Scene I,Petruchio,And if she chance to nod I'll rail and brawl,1788
+Act IV,Scene I,Petruchio,And with the clamour keep her still awake.,1789
+Act IV,Scene I,Petruchio,This is a way to kill a wife with kindness;,1790
+Act IV,Scene I,Petruchio,And thus I'll curb her mad and headstrong humour.,1791
+Act IV,Scene I,Petruchio,"He that knows better how to tame a shrew,",1792
+Act IV,Scene I,Petruchio,Now let him speak: 'tis charity to show.,1793
+Act IV,Scene I,[stage direction],Exit,NA
+Act IV,Scene II,[stage direction],Enter TRANIO and HORTENSIO,NA
+Act IV,Scene II,Tranio,"Is't possible, friend Licio, that Mistress Bianca",1794
+Act IV,Scene II,Tranio,Doth fancy any other but Lucentio?,1795
+Act IV,Scene II,Tranio,"I tell you, sir, she bears me fair in hand.",1796
+Act IV,Scene II,Hortensio,"Sir, to satisfy you in what I have said,",1797
+Act IV,Scene II,Hortensio,Stand by and mark the manner of his teaching.,1798
+Act IV,Scene II,[stage direction],Enter BIANCA and LUCENTIO,NA
+Act IV,Scene II,Lucentio,"Now, mistress, profit you in what you read?",1799
+Act IV,Scene II,Bianca,"What, master, read you? first resolve me that.",1800
+Act IV,Scene II,Lucentio,"I read that I profess, the Art to Love.",1801
+Act IV,Scene II,Bianca,"And may you prove, sir, master of your art!",1802
+Act IV,Scene II,Lucentio,"While you, sweet dear, prove mistress of my heart!",1803
+Act IV,Scene II,Hortensio,"Quick proceeders, marry! Now, tell me, I pray,",1804
+Act IV,Scene II,Hortensio,You that durst swear at your mistress Bianca,1805
+Act IV,Scene II,Hortensio,Loved none in the world so well as Lucentio.,1806
+Act IV,Scene II,Tranio,O despiteful love! unconstant womankind!,1807
+Act IV,Scene II,Tranio,"I tell thee, Licio, this is wonderful.",1808
+Act IV,Scene II,Hortensio,"Mistake no more: I am not Licio,",1809
+Act IV,Scene II,Hortensio,"Nor a musician, as I seem to be;",1810
+Act IV,Scene II,Hortensio,"But one that scorn to live in this disguise,",1811
+Act IV,Scene II,Hortensio,"For such a one as leaves a gentleman,",1812
+Act IV,Scene II,Hortensio,And makes a god of such a cullion:,1813
+Act IV,Scene II,Hortensio,"Know, sir, that I am call'd Hortensio.",1814
+Act IV,Scene II,Tranio,"Signior Hortensio, I have often heard",1815
+Act IV,Scene II,Tranio,Of your entire affection to Bianca;,1816
+Act IV,Scene II,Tranio,"And since mine eyes are witness of her lightness,",1817
+Act IV,Scene II,Tranio,"I will with you, if you be so contented,",1818
+Act IV,Scene II,Tranio,Forswear Bianca and her love for ever.,1819
+Act IV,Scene II,Hortensio,"See, how they kiss and court! Signior Lucentio,",1820
+Act IV,Scene II,Hortensio,"Here is my hand, and here I firmly vow",1821
+Act IV,Scene II,Hortensio,"Never to woo her no more, but do forswear her,",1822
+Act IV,Scene II,Hortensio,As one unworthy all the former favours,1823
+Act IV,Scene II,Hortensio,That I have fondly flatter'd her withal.,1824
+Act IV,Scene II,Tranio,"And here I take the unfeigned oath,",1825
+Act IV,Scene II,Tranio,Never to marry with her though she would entreat:,1826
+Act IV,Scene II,Tranio,"Fie on her! see, how beastly she doth court him!",1827
+Act IV,Scene II,Hortensio,Would all the world but he had quite forsworn!,1828
+Act IV,Scene II,Hortensio,"For me, that I may surely keep mine oath,",1829
+Act IV,Scene II,Hortensio,"I will be married to a wealthy widow,",1830
+Act IV,Scene II,Hortensio,"Ere three days pass, which hath as long loved me",1831
+Act IV,Scene II,Hortensio,As I have loved this proud disdainful haggard.,1832
+Act IV,Scene II,Hortensio,"And so farewell, Signior Lucentio.",1833
+Act IV,Scene II,Hortensio,"Kindness in women, not their beauteous looks,",1834
+Act IV,Scene II,Hortensio,"Shall win my love: and so I take my leave,",1835
+Act IV,Scene II,Hortensio,In resolution as I swore before.,1836
+Act IV,Scene II,[stage direction],Exit,NA
+Act IV,Scene II,Tranio,"Mistress Bianca, bless you with such grace",1837
+Act IV,Scene II,Tranio,As 'longeth to a lover's blessed case!,1838
+Act IV,Scene II,Tranio,"Nay, I have ta'en you napping, gentle love,",1839
+Act IV,Scene II,Tranio,And have forsworn you with Hortensio.,1840
+Act IV,Scene II,Bianca,"Tranio, you jest: but have you both forsworn me?",1841
+Act IV,Scene II,Tranio,"Mistress, we have.",1842
+Act IV,Scene II,Lucentio,Then we are rid of Licio.,1843
+Act IV,Scene II,Tranio,"I' faith, he'll have a lusty widow now,",1844
+Act IV,Scene II,Tranio,That shall be wood and wedded in a day.,1845
+Act IV,Scene II,Bianca,God give him joy!,1846
+Act IV,Scene II,Tranio,"Ay, and he'll tame her.",1847
+Act IV,Scene II,Bianca,"He says so, Tranio.",1848
+Act IV,Scene II,Tranio,"Faith, he is gone unto the taming-school.",1849
+Act IV,Scene II,Bianca,"The taming-school! what, is there such a place?",1850
+Act IV,Scene II,Tranio,"Ay, mistress, and Petruchio is the master;",1851
+Act IV,Scene II,Tranio,"That teacheth tricks eleven and twenty long,",1852
+Act IV,Scene II,Tranio,To tame a shrew and charm her chattering tongue.,1853
+Act IV,Scene II,[stage direction],Enter BIONDELLO,NA
+Act IV,Scene II,Biondello,"O master, master, I have watch'd so long",1854
+Act IV,Scene II,Biondello,That I am dog-weary: but at last I spied,1855
+Act IV,Scene II,Biondello,"An ancient angel coming down the hill,",1856
+Act IV,Scene II,Biondello,Will serve the turn.,1857
+Act IV,Scene II,Tranio,"What is he, Biondello?",1858
+Act IV,Scene II,Biondello,"Master, a mercatante, or a pedant,",1859
+Act IV,Scene II,Biondello,"I know not what; but format in apparel,",1860
+Act IV,Scene II,Biondello,In gait and countenance surely like a father.,1861
+Act IV,Scene II,Lucentio,"And what of him, Tranio?",1862
+Act IV,Scene II,Tranio,"If he be credulous and trust my tale,",1863
+Act IV,Scene II,Tranio,"I'll make him glad to seem Vincentio,",1864
+Act IV,Scene II,Tranio,"And give assurance to Baptista Minola,",1865
+Act IV,Scene II,Tranio,As if he were the right Vincentio,1866
+Act IV,Scene II,Tranio,"Take in your love, and then let me alone.",1867
+Act IV,Scene II,[stage direction],Exeunt LUCENTIO and BIANCA,NA
+Act IV,Scene II,[stage direction],Enter a Pedant,NA
+Act IV,Scene II,Pedant,"God save you, sir!",1868
+Act IV,Scene II,Tranio,"And you, sir! you are welcome.",1869
+Act IV,Scene II,Tranio,"Travel you far on, or are you at the farthest?",1870
+Act IV,Scene II,Pedant,"Sir, at the farthest for a week or two:",1871
+Act IV,Scene II,Pedant,"But then up farther, and as for as Rome;",1872
+Act IV,Scene II,Pedant,"And so to Tripoli, if God lend me life.",1873
+Act IV,Scene II,Tranio,"What countryman, I pray?",1874
+Act IV,Scene II,Pedant,Of Mantua.,1875
+Act IV,Scene II,Tranio,"Of Mantua, sir? marry, God forbid!",1876
+Act IV,Scene II,Tranio,"And come to Padua, careless of your life?",1877
+Act IV,Scene II,Pedant,"My life, sir! how, I pray? for that goes hard.",1878
+Act IV,Scene II,Tranio,'Tis death for any one in Mantua,1879
+Act IV,Scene II,Tranio,To come to Padua. Know you not the cause?,1880
+Act IV,Scene II,Tranio,"Your ships are stay'd at Venice, and the duke,",1881
+Act IV,Scene II,Tranio,"For private quarrel 'twixt your duke and him,",1882
+Act IV,Scene II,Tranio,Hath publish'd and proclaim'd it openly:,1883
+Act IV,Scene II,Tranio,"'Tis, marvel, but that you are but newly come,",1884
+Act IV,Scene II,Tranio,You might have heard it else proclaim'd about.,1885
+Act IV,Scene II,Pedant,"Alas! sir, it is worse for me than so;",1886
+Act IV,Scene II,Pedant,For I have bills for money by exchange,1887
+Act IV,Scene II,Pedant,From Florence and must here deliver them.,1888
+Act IV,Scene II,Tranio,"Well, sir, to do you courtesy,",1889
+Act IV,Scene II,Tranio,"This will I do, and this I will advise you:",1890
+Act IV,Scene II,Tranio,"First, tell me, have you ever been at Pisa?",1891
+Act IV,Scene II,Pedant,"Ay, sir, in Pisa have I often been,",1892
+Act IV,Scene II,Pedant,Pisa renowned for grave citizens.,1893
+Act IV,Scene II,Tranio,Among them know you one Vincentio?,1894
+Act IV,Scene II,Pedant,"I know him not, but I have heard of him;",1895
+Act IV,Scene II,Pedant,A merchant of incomparable wealth.,1896
+Act IV,Scene II,Tranio,"He is my father, sir; and, sooth to say,",1897
+Act IV,Scene II,Tranio,In countenance somewhat doth resemble you.,1898
+Act IV,Scene II,Biondello,"[Aside]  As much as an apple doth an oyster,",1899
+Act IV,Scene II,Biondello,and all one.,1900
+Act IV,Scene II,Tranio,"To save your life in this extremity,",1901
+Act IV,Scene II,Tranio,This favour will I do you for his sake;,1902
+Act IV,Scene II,Tranio,And think it not the worst of an your fortunes,1903
+Act IV,Scene II,Tranio,That you are like to Sir Vincentio.,1904
+Act IV,Scene II,Tranio,"His name and credit shall you undertake,",1905
+Act IV,Scene II,Tranio,And in my house you shall be friendly lodged:,1906
+Act IV,Scene II,Tranio,Look that you take upon you as you should;,1907
+Act IV,Scene II,Tranio,"You understand me, sir: so shall you stay",1908
+Act IV,Scene II,Tranio,Till you have done your business in the city:,1909
+Act IV,Scene II,Tranio,"If this be courtesy, sir, accept of it.",1910
+Act IV,Scene II,Pedant,"O sir, I do; and will repute you ever",1911
+Act IV,Scene II,Pedant,The patron of my life and liberty.,1912
+Act IV,Scene II,Tranio,Then go with me to make the matter good.,1913
+Act IV,Scene II,Tranio,"This, by the way, I let you understand;",1914
+Act IV,Scene II,Tranio,"my father is here look'd for every day,",1915
+Act IV,Scene II,Tranio,To pass assurance of a dower in marriage,1916
+Act IV,Scene II,Tranio,'Twixt me and one Baptista's daughter here:,1917
+Act IV,Scene II,Tranio,In all these circumstances I'll instruct you:,1918
+Act IV,Scene II,Tranio,Go with me to clothe you as becomes you.,1919
+Act IV,Scene II,[stage direction],Exeunt,NA
+Act IV,Scene III,[stage direction],Enter KATHARINA and GRUMIO,NA
+Act IV,Scene III,Grumio,"No, no, forsooth; I dare not for my life.",1920
+Act IV,Scene III,Katharina,"The more my wrong, the more his spite appears:",1921
+Act IV,Scene III,Katharina,"What, did he marry me to famish me?",1922
+Act IV,Scene III,Katharina,"Beggars, that come unto my father's door,",1923
+Act IV,Scene III,Katharina,Upon entreaty have a present aims;,1924
+Act IV,Scene III,Katharina,"If not, elsewhere they meet with charity:",1925
+Act IV,Scene III,Katharina,"But I, who never knew how to entreat,",1926
+Act IV,Scene III,Katharina,"Nor never needed that I should entreat,",1927
+Act IV,Scene III,Katharina,"Am starved for meat, giddy for lack of sleep,",1928
+Act IV,Scene III,Katharina,With oath kept waking and with brawling fed:,1929
+Act IV,Scene III,Katharina,"And that which spites me more than all these wants,",1930
+Act IV,Scene III,Katharina,He does it under name of perfect love;,1931
+Act IV,Scene III,Katharina,"As who should say, if I should sleep or eat,",1932
+Act IV,Scene III,Katharina,'Twere deadly sickness or else present death.,1933
+Act IV,Scene III,Katharina,I prithee go and get me some repast;,1934
+Act IV,Scene III,Katharina,"I care not what, so it be wholesome food.",1935
+Act IV,Scene III,Grumio,What say you to a neat's foot?,1936
+Act IV,Scene III,Katharina,'Tis passing good: I prithee let me have it.,1937
+Act IV,Scene III,Grumio,I fear it is too choleric a meat.,1938
+Act IV,Scene III,Grumio,How say you to a fat tripe finely broil'd?,1939
+Act IV,Scene III,Katharina,"I like it well: good Grumio, fetch it me.",1940
+Act IV,Scene III,Grumio,I cannot tell; I fear 'tis choleric.,1941
+Act IV,Scene III,Grumio,What say you to a piece of beef and mustard?,1942
+Act IV,Scene III,Katharina,A dish that I do love to feed upon.,1943
+Act IV,Scene III,Grumio,"Ay, but the mustard is too hot a little.",1944
+Act IV,Scene III,Katharina,"Why then, the beef, and let the mustard rest.",1945
+Act IV,Scene III,Grumio,"Nay then, I will not: you shall have the mustard,",1946
+Act IV,Scene III,Grumio,Or else you get no beef of Grumio.,1947
+Act IV,Scene III,Katharina,"Then both, or one, or any thing thou wilt.",1948
+Act IV,Scene III,Grumio,"Why then, the mustard without the beef.",1949
+Act IV,Scene III,Katharina,"Go, get thee gone, thou false deluding slave,",1950
+Act IV,Scene III,[stage direction],Beats him,NA
+Act IV,Scene III,Katharina,That feed'st me with the very name of meat:,1951
+Act IV,Scene III,Katharina,"Sorrow on thee and all the pack of you,",1952
+Act IV,Scene III,Katharina,That triumph thus upon my misery!,1953
+Act IV,Scene III,Katharina,"Go, get thee gone, I say.",1954
+Act IV,Scene III,[stage direction],Enter PETRUCHIO and HORTENSIO with meat,NA
+Act IV,Scene III,Petruchio,"How fares my Kate? What, sweeting, all amort?",1955
+Act IV,Scene III,Hortensio,"Mistress, what cheer?",1956
+Act IV,Scene III,Katharina,"Faith, as cold as can be.",1957
+Act IV,Scene III,Petruchio,Pluck up thy spirits; look cheerfully upon me.,1958
+Act IV,Scene III,Petruchio,Here love; thou see'st how diligent I am,1959
+Act IV,Scene III,Petruchio,To dress thy meat myself and bring it thee:,1960
+Act IV,Scene III,Petruchio,"I am sure, sweet Kate, this kindness merits thanks.",1961
+Act IV,Scene III,Petruchio,"What, not a word? Nay, then thou lovest it not;",1962
+Act IV,Scene III,Petruchio,And all my pains is sorted to no proof.,1963
+Act IV,Scene III,Petruchio,"Here, take away this dish.",1964
+Act IV,Scene III,Katharina,"I pray you, let it stand.",1965
+Act IV,Scene III,Petruchio,The poorest service is repaid with thanks;,1966
+Act IV,Scene III,Petruchio,"And so shall mine, before you touch the meat.",1967
+Act IV,Scene III,Katharina,"I thank you, sir.",1968
+Act IV,Scene III,Hortensio,"Signior Petruchio, fie! you are to blame.",1969
+Act IV,Scene III,Hortensio,"Come, mistress Kate, I'll bear you company.",1970
+Act IV,Scene III,Petruchio,"[Aside]  Eat it up all, Hortensio, if thou lovest me.",1971
+Act IV,Scene III,Petruchio,Much good do it unto thy gentle heart!,1972
+Act IV,Scene III,Petruchio,"Kate, eat apace: and now, my honey love,",1973
+Act IV,Scene III,Petruchio,Will we return unto thy father's house,1974
+Act IV,Scene III,Petruchio,"And revel it as bravely as the best,",1975
+Act IV,Scene III,Petruchio,"With silken coats and caps and golden rings,",1976
+Act IV,Scene III,Petruchio,With ruffs and cuffs and fardingales and things;,1977
+Act IV,Scene III,Petruchio,"With scarfs and fans and double change of bravery,",1978
+Act IV,Scene III,Petruchio,"With amber bracelets, beads and all this knavery.",1979
+Act IV,Scene III,Petruchio,"What, hast thou dined? The tailor stays thy leisure,",1980
+Act IV,Scene III,Petruchio,To deck thy body with his ruffling treasure.,1981
+Act IV,Scene III,[stage direction],Enter Tailor,NA
+Act IV,Scene III,Petruchio,"Come, tailor, let us see these ornaments;",1982
+Act IV,Scene III,Petruchio,Lay forth the gown.,1983
+Act IV,Scene III,[stage direction],Enter Haberdasher,NA
+Act IV,Scene III,Petruchio,"What news with you, sir?",1984
+Act IV,Scene III,Haberdasher,Here is the cap your worship did bespeak.,1985
+Act IV,Scene III,Petruchio,"Why, this was moulded on a porringer;",1986
+Act IV,Scene III,Petruchio,"A velvet dish: fie, fie! 'tis lewd and filthy:",1987
+Act IV,Scene III,Petruchio,"Why, 'tis a cockle or a walnut-shell,",1988
+Act IV,Scene III,Petruchio,"A knack, a toy, a trick, a baby's cap:",1989
+Act IV,Scene III,Petruchio,"Away with it! come, let me have a bigger.",1990
+Act IV,Scene III,Katharina,"I'll have no bigger: this doth fit the time,",1991
+Act IV,Scene III,Katharina,And gentlewomen wear such caps as these,1992
+Act IV,Scene III,Petruchio,"When you are gentle, you shall have one too,",1993
+Act IV,Scene III,Petruchio,And not till then.,1994
+Act IV,Scene III,Hortensio,[Aside]  That will not be in haste.,1995
+Act IV,Scene III,Katharina,"Why, sir, I trust I may have leave to speak;",1996
+Act IV,Scene III,Katharina,"And speak I will; I am no child, no babe:",1997
+Act IV,Scene III,Katharina,"Your betters have endured me say my mind,",1998
+Act IV,Scene III,Katharina,"And if you cannot, best you stop your ears.",1999
+Act IV,Scene III,Katharina,"My tongue will tell the anger of my heart,",2000
+Act IV,Scene III,Katharina,"Or else my heart concealing it will break,",2001
+Act IV,Scene III,Katharina,"And rather than it shall, I will be free",2002
+Act IV,Scene III,Katharina,"Even to the uttermost, as I please, in words.",2003
+Act IV,Scene III,Petruchio,"Why, thou say'st true; it is a paltry cap,",2004
+Act IV,Scene III,Petruchio,"A custard-coffin, a bauble, a silken pie:",2005
+Act IV,Scene III,Petruchio,"I love thee well, in that thou likest it not.",2006
+Act IV,Scene III,Katharina,"Love me or love me not, I like the cap;",2007
+Act IV,Scene III,Katharina,"And it I will have, or I will have none.",2008
+Act IV,Scene III,[stage direction],Exit Haberdasher,NA
+Act IV,Scene III,Petruchio,"Thy gown? why, ay: come, tailor, let us see't.",2009
+Act IV,Scene III,Petruchio,"O mercy, God! what masquing stuff is here?",2010
+Act IV,Scene III,Petruchio,What's this? a sleeve? 'tis like a demi-cannon:,2011
+Act IV,Scene III,Petruchio,"What, up and down, carved like an apple-tart?",2012
+Act IV,Scene III,Petruchio,"Here's snip and nip and cut and slish and slash,",2013
+Act IV,Scene III,Petruchio,Like to a censer in a barber's shop:,2014
+Act IV,Scene III,Petruchio,"Why, what, i' devil's name, tailor, call'st thou this?",2015
+Act IV,Scene III,Hortensio,[Aside]  I see she's like to have neither cap nor gown.,2016
+Act IV,Scene III,Tailor,"You bid me make it orderly and well,",2017
+Act IV,Scene III,Tailor,According to the fashion and the time.,2018
+Act IV,Scene III,Petruchio,"Marry, and did; but if you be remember'd,",2019
+Act IV,Scene III,Petruchio,I did not bid you mar it to the time.,2020
+Act IV,Scene III,Petruchio,"Go, hop me over every kennel home,",2021
+Act IV,Scene III,Petruchio,"For you shall hop without my custom, sir:",2022
+Act IV,Scene III,Petruchio,I'll none of it: hence! make your best of it.,2023
+Act IV,Scene III,Katharina,"I never saw a better-fashion'd gown,",2024
+Act IV,Scene III,Katharina,"More quaint, more pleasing, nor more commendable:",2025
+Act IV,Scene III,Katharina,Belike you mean to make a puppet of me.,2026
+Act IV,Scene III,Petruchio,"Why, true; he means to make a puppet of thee.",2027
+Act IV,Scene III,Tailor,She says your worship means to make,2028
+Act IV,Scene III,Tailor,a puppet of her.,2029
+Act IV,Scene III,Petruchio,"O monstrous arrogance! Thou liest, thou thread,",2030
+Act IV,Scene III,Petruchio,"thou thimble,",2031
+Act IV,Scene III,Petruchio,"Thou yard, three-quarters, half-yard, quarter, nail!",2032
+Act IV,Scene III,Petruchio,"Thou flea, thou nit, thou winter-cricket thou!",2033
+Act IV,Scene III,Petruchio,Braved in mine own house with a skein of thread?,2034
+Act IV,Scene III,Petruchio,"Away, thou rag, thou quantity, thou remnant;",2035
+Act IV,Scene III,Petruchio,Or I shall so be-mete thee with thy yard,2036
+Act IV,Scene III,Petruchio,As thou shalt think on prating whilst thou livest!,2037
+Act IV,Scene III,Petruchio,"I tell thee, I, that thou hast marr'd her gown.",2038
+Act IV,Scene III,Tailor,Your worship is deceived; the gown is made,2039
+Act IV,Scene III,Tailor,Just as my master had direction:,2040
+Act IV,Scene III,Tailor,Grumio gave order how it should be done.,2041
+Act IV,Scene III,Grumio,I gave him no order; I gave him the stuff.,2042
+Act IV,Scene III,Tailor,But how did you desire it should be made?,2043
+Act IV,Scene III,Grumio,"Marry, sir, with needle and thread.",2044
+Act IV,Scene III,Tailor,But did you not request to have it cut?,2045
+Act IV,Scene III,Grumio,Thou hast faced many things.,2046
+Act IV,Scene III,Tailor,I have.,2047
+Act IV,Scene III,Grumio,Face not me: thou hast braved many men; brave not,2048
+Act IV,Scene III,Grumio,me; I will neither be faced nor braved. I say unto,2049
+Act IV,Scene III,Grumio,"thee, I bid thy master cut out the gown; but I did",2050
+Act IV,Scene III,Grumio,"not bid him cut it to pieces: ergo, thou liest.",2051
+Act IV,Scene III,Tailor,"Why, here is the note of the fashion to testify",2052
+Act IV,Scene III,Petruchio,Read it.,2053
+Act IV,Scene III,Grumio,"The note lies in's throat, if he say I said so.",2054
+Act IV,Scene III,Tailor,"[Reads]  'Imprimis, a loose-bodied gown:'",2055
+Act IV,Scene III,Grumio,"Master, if ever I said loose-bodied gown, sew me in",2056
+Act IV,Scene III,Grumio,"the skirts of it, and beat me to death with a bottom",2057
+Act IV,Scene III,Grumio,of brown thread: I said a gown.,2058
+Act IV,Scene III,Petruchio,Proceed.,2059
+Act IV,Scene III,Tailor,[Reads]  'With a small compassed cape:',2060
+Act IV,Scene III,Grumio,I confess the cape.,2061
+Act IV,Scene III,Tailor,[Reads]  'With a trunk sleeve:',2062
+Act IV,Scene III,Grumio,I confess two sleeves.,2063
+Act IV,Scene III,Tailor,[Reads]  'The sleeves curiously cut.',2064
+Act IV,Scene III,Petruchio,"Ay, there's the villany.",2065
+Act IV,Scene III,Grumio,"Error i' the bill, sir; error i' the bill.",2066
+Act IV,Scene III,Grumio,I commanded the sleeves should be cut out and,2067
+Act IV,Scene III,Grumio,"sewed up again; and that I'll prove upon thee,",2068
+Act IV,Scene III,Grumio,though thy little finger be armed in a thimble.,2069
+Act IV,Scene III,Tailor,This is true that I say: an I had thee,2070
+Act IV,Scene III,Tailor,"in place where, thou shouldst know it.",2071
+Act IV,Scene III,Grumio,I am for thee straight: take thou the,2072
+Act IV,Scene III,Grumio,"bill, give me thy mete-yard, and spare not me.",2073
+Act IV,Scene III,Hortensio,"God-a-mercy, Grumio! then he shall have no odds.",2074
+Act IV,Scene III,Petruchio,"Well, sir, in brief, the gown is not for me.",2075
+Act IV,Scene III,Grumio,"You are i' the right, sir: 'tis for my mistress.",2076
+Act IV,Scene III,Petruchio,"Go, take it up unto thy master's use.",2077
+Act IV,Scene III,Grumio,"Villain, not for thy life: take up my mistress'",2078
+Act IV,Scene III,Grumio,gown for thy master's use!,2079
+Act IV,Scene III,Petruchio,"Why, sir, what's your conceit in that?",2080
+Act IV,Scene III,Grumio,"O, sir, the conceit is deeper than you think for:",2081
+Act IV,Scene III,Grumio,Take up my mistress' gown to his master's use!,2082
+Act IV,Scene III,Grumio,"O, fie, fie, fie!",2083
+Act IV,Scene III,Petruchio,"[Aside]  Hortensio, say thou wilt see the tailor paid.",2084
+Act IV,Scene III,Petruchio,"Go take it hence; be gone, and say no more.",2085
+Act IV,Scene III,Hortensio,"Tailor, I'll pay thee for thy gown tomorrow:",2086
+Act IV,Scene III,Hortensio,Take no unkindness of his hasty words:,2087
+Act IV,Scene III,Hortensio,Away! I say; commend me to thy master.,2088
+Act IV,Scene III,[stage direction],Exit Tailor,NA
+Act IV,Scene III,Petruchio,"Well, come, my Kate; we will unto your father's",2089
+Act IV,Scene III,Petruchio,Even in these honest mean habiliments:,2090
+Act IV,Scene III,Petruchio,"Our purses shall be proud, our garments poor;",2091
+Act IV,Scene III,Petruchio,For 'tis the mind that makes the body rich;,2092
+Act IV,Scene III,Petruchio,"And as the sun breaks through the darkest clouds,",2093
+Act IV,Scene III,Petruchio,So honour peereth in the meanest habit.,2094
+Act IV,Scene III,Petruchio,"What is the jay more precious than the lark,",2095
+Act IV,Scene III,Petruchio,Because his fathers are more beautiful?,2096
+Act IV,Scene III,Petruchio,"Or is the adder better than the eel,",2097
+Act IV,Scene III,Petruchio,Because his painted skin contents the eye?,2098
+Act IV,Scene III,Petruchio,"O, no, good Kate; neither art thou the worse",2099
+Act IV,Scene III,Petruchio,For this poor furniture and mean array.,2100
+Act IV,Scene III,Petruchio,if thou account'st it shame. lay it on me;,2101
+Act IV,Scene III,Petruchio,"And therefore frolic: we will hence forthwith,",2102
+Act IV,Scene III,Petruchio,To feast and sport us at thy father's house.,2103
+Act IV,Scene III,Petruchio,"Go, call my men, and let us straight to him;",2104
+Act IV,Scene III,Petruchio,And bring our horses unto Long-lane end;,2105
+Act IV,Scene III,Petruchio,"There will we mount, and thither walk on foot",2106
+Act IV,Scene III,Petruchio,"Let's see; I think 'tis now some seven o'clock,",2107
+Act IV,Scene III,Petruchio,And well we may come there by dinner-time.,2108
+Act IV,Scene III,Katharina,"I dare assure you, sir, 'tis almost two;",2109
+Act IV,Scene III,Katharina,And 'twill be supper-time ere you come there.,2110
+Act IV,Scene III,Petruchio,It shall be seven ere I go to horse:,2111
+Act IV,Scene III,Petruchio,"Look, what I speak, or do, or think to do,",2112
+Act IV,Scene III,Petruchio,"You are still crossing it. Sirs, let't alone:",2113
+Act IV,Scene III,Petruchio,"I will not go to-day; and ere I do,",2114
+Act IV,Scene III,Petruchio,It shall be what o'clock I say it is.,2115
+Act IV,Scene III,Hortensio,"[Aside]  Why, so this gallant will command the sun.",2116
+Act IV,Scene III,[stage direction],Exeunt,NA
+Act IV,Scene IV,[stage direction],"Enter TRANIO, and the Pedant dressed like VINCENTIO",NA
+Act IV,Scene IV,Tranio,"Sir, this is the house: please it you that I call?",2117
+Act IV,Scene IV,Pedant,"Ay, what else? and but I be deceived",2118
+Act IV,Scene IV,Pedant,"Signior Baptista may remember me,",2119
+Act IV,Scene IV,Pedant,"Near twenty years ago, in Genoa,",2120
+Act IV,Scene IV,Pedant,Where we were lodgers at the Pegasus.,2121
+Act IV,Scene IV,Tranio,"'Tis well; and hold your own, in any case,",2122
+Act IV,Scene IV,Tranio,With such austerity as 'longeth to a father.,2123
+Act IV,Scene IV,Pedant,I warrant you.,2124
+Act IV,Scene IV,[stage direction],Enter BIONDELLO,NA
+Act IV,Scene IV,Pedant,"But, sir, here comes your boy;",2125
+Act IV,Scene IV,Pedant,'Twere good he were school'd.,2126
+Act IV,Scene IV,Tranio,"Fear you not him. Sirrah Biondello,",2127
+Act IV,Scene IV,Tranio,"Now do your duty throughly, I advise you:",2128
+Act IV,Scene IV,Tranio,Imagine 'twere the right Vincentio.,2129
+Act IV,Scene IV,Biondello,"Tut, fear not me.",2130
+Act IV,Scene IV,Tranio,But hast thou done thy errand to Baptista?,2131
+Act IV,Scene IV,Biondello,"I told him that your father was at Venice,",2132
+Act IV,Scene IV,Biondello,And that you look'd for him this day in Padua.,2133
+Act IV,Scene IV,Tranio,Thou'rt a tall fellow: hold thee that to drink.,2134
+Act IV,Scene IV,Tranio,"Here comes Baptista: set your countenance, sir.",2135
+Act IV,Scene IV,[stage direction],Enter BAPTISTA and LUCENTIO,NA
+Act IV,Scene IV,Tranio,"Signior Baptista, you are happily met.",2136
+Act IV,Scene IV,[stage direction],To the Pedant,NA
+Act IV,Scene IV,Tranio,"Sir, this is the gentleman I told you of:",2137
+Act IV,Scene IV,Tranio,"I pray you stand good father to me now,",2138
+Act IV,Scene IV,Tranio,Give me Bianca for my patrimony.,2139
+Act IV,Scene IV,Pedant,Soft son!,2140
+Act IV,Scene IV,Pedant,"Sir, by your leave: having come to Padua",2141
+Act IV,Scene IV,Pedant,"To gather in some debts, my son Lucentio",2142
+Act IV,Scene IV,Pedant,Made me acquainted with a weighty cause,2143
+Act IV,Scene IV,Pedant,Of love between your daughter and himself:,2144
+Act IV,Scene IV,Pedant,"And, for the good report I hear of you",2145
+Act IV,Scene IV,Pedant,And for the love he beareth to your daughter,2146
+Act IV,Scene IV,Pedant,"And she to him, to stay him not too long,",2147
+Act IV,Scene IV,Pedant,"I am content, in a good father's care,",2148
+Act IV,Scene IV,Pedant,To have him match'd; and if you please to like,2149
+Act IV,Scene IV,Pedant,"No worse than I, upon some agreement",2150
+Act IV,Scene IV,Pedant,Me shall you find ready and willing,2151
+Act IV,Scene IV,Pedant,With one consent to have her so bestow'd;,2152
+Act IV,Scene IV,Pedant,"For curious I cannot be with you,",2153
+Act IV,Scene IV,Pedant,"Signior Baptista, of whom I hear so well.",2154
+Act IV,Scene IV,Baptista,"Sir, pardon me in what I have to say:",2155
+Act IV,Scene IV,Baptista,Your plainness and your shortness please me well.,2156
+Act IV,Scene IV,Baptista,"Right true it is, your son Lucentio here",2157
+Act IV,Scene IV,Baptista,"Doth love my daughter and she loveth him,",2158
+Act IV,Scene IV,Baptista,Or both dissemble deeply their affections:,2159
+Act IV,Scene IV,Baptista,"And therefore, if you say no more than this,",2160
+Act IV,Scene IV,Baptista,That like a father you will deal with him,2161
+Act IV,Scene IV,Baptista,"And pass my daughter a sufficient dower,",2162
+Act IV,Scene IV,Baptista,"The match is made, and all is done:",2163
+Act IV,Scene IV,Baptista,Your son shall have my daughter with consent.,2164
+Act IV,Scene IV,Tranio,"I thank you, sir. Where then do you know best",2165
+Act IV,Scene IV,Tranio,We be affied and such assurance ta'en,2166
+Act IV,Scene IV,Tranio,As shall with either part's agreement stand?,2167
+Act IV,Scene IV,Baptista,"Not in my house, Lucentio; for, you know,",2168
+Act IV,Scene IV,Baptista,"Pitchers have ears, and I have many servants:",2169
+Act IV,Scene IV,Baptista,"Besides, old Gremio is hearkening still;",2170
+Act IV,Scene IV,Baptista,And happily we might be interrupted.,2171
+Act IV,Scene IV,Tranio,"Then at my lodging, an it like you:",2172
+Act IV,Scene IV,Tranio,"There doth my father lie; and there, this night,",2173
+Act IV,Scene IV,Tranio,We'll pass the business privately and well.,2174
+Act IV,Scene IV,Tranio,Send for your daughter by your servant here:,2175
+Act IV,Scene IV,Tranio,My boy shall fetch the scrivener presently.,2176
+Act IV,Scene IV,Tranio,"The worst is this, that, at so slender warning,",2177
+Act IV,Scene IV,Tranio,You are like to have a thin and slender pittance.,2178
+Act IV,Scene IV,Baptista,"It likes me well. Biondello, hie you home,",2179
+Act IV,Scene IV,Baptista,And bid Bianca make her ready straight;,2180
+Act IV,Scene IV,Baptista,"And, if you will, tell what hath happened,",2181
+Act IV,Scene IV,Baptista,"Lucentio's father is arrived in Padua,",2182
+Act IV,Scene IV,Baptista,And how she's like to be Lucentio's wife.,2183
+Act IV,Scene IV,Biondello,I pray the gods she may with all my heart!,2184
+Act IV,Scene IV,Tranio,"Dally not with the gods, but get thee gone.",2185
+Act IV,Scene IV,[stage direction],Exit BIONDELLO,NA
+Act IV,Scene IV,Tranio,"Signior Baptista, shall I lead the way?",2186
+Act IV,Scene IV,Tranio,Welcome! one mess is like to be your cheer:,2187
+Act IV,Scene IV,Tranio,"Come, sir; we will better it in Pisa.",2188
+Act IV,Scene IV,Baptista,I follow you.,2189
+Act IV,Scene IV,[stage direction],"Exeunt TRANIO, Pedant, and BAPTISTA",NA
+Act IV,Scene IV,[stage direction],Re-enter BIONDELLO,NA
+Act IV,Scene IV,Biondello,Cambio!,2190
+Act IV,Scene IV,Lucentio,"What sayest thou, Biondello?",2191
+Act IV,Scene IV,Biondello,You saw my master wink and laugh upon you?,2192
+Act IV,Scene IV,Lucentio,"Biondello, what of that?",2193
+Act IV,Scene IV,Biondello,"Faith, nothing; but has left me here behind, to",2194
+Act IV,Scene IV,Biondello,expound the meaning or moral of his signs and tokens.,2195
+Act IV,Scene IV,Lucentio,"I pray thee, moralize them.",2196
+Act IV,Scene IV,Biondello,"Then thus. Baptista is safe, talking with the",2197
+Act IV,Scene IV,Biondello,deceiving father of a deceitful son.,2198
+Act IV,Scene IV,Lucentio,And what of him?,2199
+Act IV,Scene IV,Biondello,His daughter is to be brought by you to the supper.,2200
+Act IV,Scene IV,Lucentio,And then?,2201
+Act IV,Scene IV,Biondello,The old priest of Saint Luke's church is at your,2202
+Act IV,Scene IV,Biondello,command at all hours.,2203
+Act IV,Scene IV,Lucentio,And what of all this?,2204
+Act IV,Scene IV,Biondello,I cannot tell; expect they are busied about a,2205
+Act IV,Scene IV,Biondello,"counterfeit assurance: take you assurance of her,",2206
+Act IV,Scene IV,Biondello,'cum privilegio ad imprimendum solum:' to the,2207
+Act IV,Scene IV,Biondello,"church; take the priest, clerk, and some sufficient",2208
+Act IV,Scene IV,Biondello,"honest witnesses: If this be not that you look for,",2209
+Act IV,Scene IV,Biondello,"I have no more to say, But bid Bianca farewell for",2210
+Act IV,Scene IV,Biondello,ever and a day.,2211
+Act IV,Scene IV,Lucentio,"Hearest thou, Biondello?",2212
+Act IV,Scene IV,Biondello,I cannot tarry: I knew a wench married in an,2213
+Act IV,Scene IV,Biondello,afternoon as she went to the garden for parsley to,2214
+Act IV,Scene IV,Biondello,"stuff a rabbit; and so may you, sir: and so, adieu,",2215
+Act IV,Scene IV,Biondello,sir. My master hath appointed me to go to Saint,2216
+Act IV,Scene IV,Biondello,"Luke's, to bid the priest be ready to come against",2217
+Act IV,Scene IV,Biondello,you come with your appendix.,2218
+Act IV,Scene IV,[stage direction],Exit,NA
+Act IV,Scene IV,Lucentio,"I may, and will, if she be so contented:",2219
+Act IV,Scene IV,Lucentio,She will be pleased; then wherefore should I doubt?,2220
+Act IV,Scene IV,Lucentio,"Hap what hap may, I'll roundly go about her:",2221
+Act IV,Scene IV,Lucentio,It shall go hard if Cambio go without her.,2222
+Act IV,Scene IV,[stage direction],Exit,NA
+Act IV,Scene V,[stage direction],"Enter PETRUCHIO, KATHARINA, HORTENSIO, and Servants",NA
+Act IV,Scene V,Petruchio,"Come on, i' God's name; once more toward our father's.",2223
+Act IV,Scene V,Petruchio,"Good Lord, how bright and goodly shines the moon!",2224
+Act IV,Scene V,Katharina,The moon! the sun: it is not moonlight now.,2225
+Act IV,Scene V,Petruchio,I say it is the moon that shines so bright.,2226
+Act IV,Scene V,Katharina,I know it is the sun that shines so bright.,2227
+Act IV,Scene V,Petruchio,"Now, by my mother's son, and that's myself,",2228
+Act IV,Scene V,Petruchio,"It shall be moon, or star, or what I list,",2229
+Act IV,Scene V,Petruchio,Or ere I journey to your father's house.,2230
+Act IV,Scene V,Petruchio,"Go on, and fetch our horses back again.",2231
+Act IV,Scene V,Petruchio,Evermore cross'd and cross'd; nothing but cross'd!,2232
+Act IV,Scene V,Hortensio,"Say as he says, or we shall never go.",2233
+Act IV,Scene V,Katharina,"Forward, I pray, since we have come so far,",2234
+Act IV,Scene V,Katharina,"And be it moon, or sun, or what you please:",2235
+Act IV,Scene V,Katharina,"An if you please to call it a rush-candle,",2236
+Act IV,Scene V,Katharina,Henceforth I vow it shall be so for me.,2237
+Act IV,Scene V,Petruchio,I say it is the moon.,2238
+Act IV,Scene V,Katharina,I know it is the moon.,2239
+Act IV,Scene V,Petruchio,"Nay, then you lie: it is the blessed sun.",2240
+Act IV,Scene V,Katharina,"Then, God be bless'd, it is the blessed sun:",2241
+Act IV,Scene V,Katharina,"But sun it is not, when you say it is not;",2242
+Act IV,Scene V,Katharina,And the moon changes even as your mind.,2243
+Act IV,Scene V,Katharina,"What you will have it named, even that it is;",2244
+Act IV,Scene V,Katharina,And so it shall be so for Katharina.,2245
+Act IV,Scene V,Hortensio,"Petruchio, go thy ways; the field is won.",2246
+Act IV,Scene V,Petruchio,"Well, forward, forward! thus the bowl should run,",2247
+Act IV,Scene V,Petruchio,And not unluckily against the bias.,2248
+Act IV,Scene V,Petruchio,"But, soft! company is coming here.",2249
+Act IV,Scene V,[stage direction],Enter VINCENTIO,NA
+Act IV,Scene V,[stage direction],To VINCENTIO,NA
+Act IV,Scene V,Petruchio,"Good morrow, gentle mistress: where away?",2250
+Act IV,Scene V,Petruchio,"Tell me, sweet Kate, and tell me truly too,",2251
+Act IV,Scene V,Petruchio,Hast thou beheld a fresher gentlewoman?,2252
+Act IV,Scene V,Petruchio,Such war of white and red within her cheeks!,2253
+Act IV,Scene V,Petruchio,"What stars do spangle heaven with such beauty,",2254
+Act IV,Scene V,Petruchio,As those two eyes become that heavenly face?,2255
+Act IV,Scene V,Petruchio,"Fair lovely maid, once more good day to thee.",2256
+Act IV,Scene V,Petruchio,"Sweet Kate, embrace her for her beauty's sake.",2257
+Act IV,Scene V,Hortensio,"A' will make the man mad, to make a woman of him.",2258
+Act IV,Scene V,Katharina,"Young budding virgin, fair and fresh and sweet,",2259
+Act IV,Scene V,Katharina,"Whither away, or where is thy abode?",2260
+Act IV,Scene V,Katharina,Happy the parents of so fair a child;,2261
+Act IV,Scene V,Katharina,"Happier the man, whom favourable stars",2262
+Act IV,Scene V,Katharina,Allot thee for his lovely bed-fellow!,2263
+Act IV,Scene V,Petruchio,"Why, how now, Kate! I hope thou art not mad:",2264
+Act IV,Scene V,Petruchio,"This is a man, old, wrinkled, faded, wither'd,",2265
+Act IV,Scene V,Petruchio,"And not a maiden, as thou say'st he is.",2266
+Act IV,Scene V,Katharina,"Pardon, old father, my mistaking eyes,",2267
+Act IV,Scene V,Katharina,That have been so bedazzled with the sun,2268
+Act IV,Scene V,Katharina,That everything I look on seemeth green:,2269
+Act IV,Scene V,Katharina,Now I perceive thou art a reverend father;,2270
+Act IV,Scene V,Katharina,"Pardon, I pray thee, for my mad mistaking.",2271
+Act IV,Scene V,Petruchio,"Do, good old grandsire; and withal make known",2272
+Act IV,Scene V,Petruchio,"Which way thou travellest: if along with us,",2273
+Act IV,Scene V,Petruchio,We shall be joyful of thy company.,2274
+Act IV,Scene V,Vincentio,"Fair sir, and you my merry mistress,",2275
+Act IV,Scene V,Vincentio,"That with your strange encounter much amazed me,",2276
+Act IV,Scene V,Vincentio,My name is call'd Vincentio; my dwelling Pisa;,2277
+Act IV,Scene V,Vincentio,And bound I am to Padua; there to visit,2278
+Act IV,Scene V,Vincentio,"A son of mine, which long I have not seen.",2279
+Act IV,Scene V,Petruchio,What is his name?,2280
+Act IV,Scene V,Vincentio,"Lucentio, gentle sir.",2281
+Act IV,Scene V,Petruchio,Happily we met; the happier for thy son.,2282
+Act IV,Scene V,Petruchio,"And now by law, as well as reverend age,",2283
+Act IV,Scene V,Petruchio,I may entitle thee my loving father:,2284
+Act IV,Scene V,Petruchio,"The sister to my wife, this gentlewoman,",2285
+Act IV,Scene V,Petruchio,"Thy son by this hath married. Wonder not,",2286
+Act IV,Scene V,Petruchio,"Nor be grieved: she is of good esteem,",2287
+Act IV,Scene V,Petruchio,"Her dowery wealthy, and of worthy birth;",2288
+Act IV,Scene V,Petruchio,"Beside, so qualified as may beseem",2289
+Act IV,Scene V,Petruchio,The spouse of any noble gentleman.,2290
+Act IV,Scene V,Petruchio,"Let me embrace with old Vincentio,",2291
+Act IV,Scene V,Petruchio,"And wander we to see thy honest son,",2292
+Act IV,Scene V,Petruchio,Who will of thy arrival be full joyous.,2293
+Act IV,Scene V,Vincentio,"But is it true? or else is it your pleasure,",2294
+Act IV,Scene V,Vincentio,"Like pleasant travellers, to break a jest",2295
+Act IV,Scene V,Vincentio,Upon the company you overtake?,2296
+Act IV,Scene V,Hortensio,"I do assure thee, father, so it is.",2297
+Act IV,Scene V,Petruchio,"Come, go along, and see the truth hereof;",2298
+Act IV,Scene V,Petruchio,For our first merriment hath made thee jealous.,2299
+Act IV,Scene V,[stage direction],Exeunt all but HORTENSIO,NA
+Act IV,Scene V,Hortensio,"Well, Petruchio, this has put me in heart.",2300
+Act IV,Scene V,Hortensio,"Have to my widow! and if she be froward,",2301
+Act IV,Scene V,Hortensio,Then hast thou taught Hortensio to be untoward.,2302
+Act IV,Scene V,[stage direction],Exit,NA
+Act V,Scene I,[stage direction],"GREMIO discovered. Enter behind BIONDELLO, LUCENTIO, and BIANCA",NA
+Act V,Scene I,Biondello,"Softly and swiftly, sir; for the priest is ready.",2303
+Act V,Scene I,Lucentio,"I fly, Biondello: but they may chance to need thee",2304
+Act V,Scene I,Lucentio,at home; therefore leave us.,2305
+Act V,Scene I,Biondello,"Nay, faith, I'll see the church o' your back; and",2306
+Act V,Scene I,Biondello,then come back to my master's as soon as I can.,2307
+Act V,Scene I,[stage direction],"Exeunt LUCENTIO, BIANCA, and BIONDELLO",NA
+Act V,Scene I,Gremio,I marvel Cambio comes not all this while.,2308
+Act V,Scene I,[stage direction],"Enter PETRUCHIO, KATHARINA, VINCENTIO, GRUMIO, with Attendants",NA
+Act V,Scene I,Petruchio,"Sir, here's the door, this is Lucentio's house:",2309
+Act V,Scene I,Petruchio,My father's bears more toward the market-place;,2310
+Act V,Scene I,Petruchio,"Thither must I, and here I leave you, sir.",2311
+Act V,Scene I,Vincentio,You shall not choose but drink before you go:,2312
+Act V,Scene I,Vincentio,"I think I shall command your welcome here,",2313
+Act V,Scene I,Vincentio,"And, by all likelihood, some cheer is toward.",2314
+Act V,Scene I,[stage direction],Knocks,NA
+Act V,Scene I,Gremio,They're busy within; you were best knock louder.,2315
+Act V,Scene I,[stage direction],Pedant looks out of the window,NA
+Act V,Scene I,Pedant,What's he that knocks as he would beat down the gate?,2316
+Act V,Scene I,Vincentio,"Is Signior Lucentio within, sir?",2317
+Act V,Scene I,Pedant,"He's within, sir, but not to be spoken withal.",2318
+Act V,Scene I,Vincentio,"What if a man bring him a hundred pound or two, to",2319
+Act V,Scene I,Vincentio,make merry withal?,2320
+Act V,Scene I,Pedant,Keep your hundred pounds to yourself: he shall,2321
+Act V,Scene I,Pedant,"need none, so long as I live.",2322
+Act V,Scene I,Petruchio,"Nay, I told you your son was well beloved in Padua.",2323
+Act V,Scene I,Petruchio,"Do you hear, sir? To leave frivolous circumstances,",2324
+Act V,Scene I,Petruchio,"I pray you, tell Signior Lucentio that his father is",2325
+Act V,Scene I,Petruchio,"come from Pisa, and is here at the door to speak with him.",2326
+Act V,Scene I,Pedant,Thou liest: his father is come from Padua and here,2327
+Act V,Scene I,Pedant,looking out at the window.,2328
+Act V,Scene I,Vincentio,Art thou his father?,2329
+Act V,Scene I,Pedant,"Ay, sir; so his mother says, if I may believe her.",2330
+Act V,Scene I,Petruchio,"[To VINCENTIO]  Why, how now, gentleman! why, this",2331
+Act V,Scene I,Petruchio,"is flat knavery, to take upon you another man's name.",2332
+Act V,Scene I,Pedant,Lay hands on the villain: I believe a' means to,2333
+Act V,Scene I,Pedant,cozen somebody in this city under my countenance.,2334
+Act V,Scene I,[stage direction],Re-enter BIONDELLO,NA
+Act V,Scene I,Biondello,I have seen them in the church together: God send,2335
+Act V,Scene I,Biondello,'em good shipping! But who is here? mine old,2336
+Act V,Scene I,Biondello,master Vincentio! now we are undone and brought to nothing.,2337
+Act V,Scene I,Vincentio,[Seeing BIONDELLO],2338
+Act V,Scene I,Vincentio,"Come hither, crack-hemp.",2339
+Act V,Scene I,Biondello,"Hope I may choose, sir.",2340
+Act V,Scene I,Vincentio,"Come hither, you rogue. What, have you forgot me?",2341
+Act V,Scene I,Biondello,"Forgot you! no, sir: I could not forget you, for I",2342
+Act V,Scene I,Biondello,never saw you before in all my life.,2343
+Act V,Scene I,Vincentio,"What, you notorious villain, didst thou never see",2344
+Act V,Scene I,Vincentio,"thy master's father, Vincentio?",2345
+Act V,Scene I,Biondello,"What, my old worshipful old master? yes, marry, sir:",2346
+Act V,Scene I,Biondello,see where he looks out of the window.,2347
+Act V,Scene I,Vincentio,"Is't so, indeed.",2348
+Act V,Scene I,[stage direction],Beats BIONDELLO,NA
+Act V,Scene I,Biondello,"Help, help, help! here's a madman will murder me.",2349
+Act V,Scene I,[stage direction],Exit,NA
+Act V,Scene I,Pedant,"Help, son! help, Signior Baptista!",2350
+Act V,Scene I,[stage direction],Exit from above,NA
+Act V,Scene I,Petruchio,"Prithee, Kate, let's stand aside and see the end of",2351
+Act V,Scene I,Petruchio,this controversy.,2352
+Act V,Scene I,[stage direction],They retire,NA
+Act V,Scene I,[stage direction],"Re-enter Pedant below; TRANIO, BAPTISTA, and Servants",NA
+Act V,Scene I,Tranio,"Sir, what are you that offer to beat my servant?",2353
+Act V,Scene I,Vincentio,"What am I, sir! nay, what are you, sir? O immortal",2354
+Act V,Scene I,Vincentio,gods! O fine villain! A silken doublet! a velvet,2355
+Act V,Scene I,Vincentio,"hose! a scarlet cloak! and a copatain hat! O, I",2356
+Act V,Scene I,Vincentio,am undone! I am undone! while I play the good,2357
+Act V,Scene I,Vincentio,"husband at home, my son and my servant spend all at",2358
+Act V,Scene I,Vincentio,the university.,2359
+Act V,Scene I,Tranio,How now! what's the matter?,2360
+Act V,Scene I,Baptista,"What, is the man lunatic?",2361
+Act V,Scene I,Tranio,"Sir, you seem a sober ancient gentleman by your",2362
+Act V,Scene I,Tranio,"habit, but your words show you a madman. Why, sir,",2363
+Act V,Scene I,Tranio,what 'cerns it you if I wear pearl and gold? I,2364
+Act V,Scene I,Tranio,"thank my good father, I am able to maintain it.",2365
+Act V,Scene I,Vincentio,Thy father! O villain! he is a sailmaker in Bergamo.,2366
+Act V,Scene I,Baptista,"You mistake, sir, you mistake, sir. Pray, what do",2367
+Act V,Scene I,Baptista,you think is his name?,2368
+Act V,Scene I,Vincentio,His name! as if I knew not his name: I have brought,2369
+Act V,Scene I,Vincentio,"him up ever since he was three years old, and his",2370
+Act V,Scene I,Vincentio,name is Tranio.,2371
+Act V,Scene I,Pedant,"Away, away, mad ass! his name is Lucentio and he is",2372
+Act V,Scene I,Pedant,"mine only son, and heir to the lands of me, Signior Vincentio.",2373
+Act V,Scene I,Vincentio,"Lucentio! O, he hath murdered his master! Lay hold",2374
+Act V,Scene I,Vincentio,"on him, I charge you, in the duke's name. O, my",2375
+Act V,Scene I,Vincentio,"son, my son! Tell me, thou villain, where is my son Lucentio?",2376
+Act V,Scene I,Tranio,Call forth an officer.,2377
+Act V,Scene I,[stage direction],Enter one with an Officer,NA
+Act V,Scene I,Tranio,"Carry this mad knave to the gaol. Father Baptista,",2378
+Act V,Scene I,Tranio,I charge you see that he be forthcoming.,2379
+Act V,Scene I,Vincentio,Carry me to the gaol!,2380
+Act V,Scene I,Gremio,"Stay, officer: he shall not go to prison.",2381
+Act V,Scene I,Baptista,"Talk not, Signior Gremio: I say he shall go to prison.",2382
+Act V,Scene I,Gremio,"Take heed, Signior Baptista, lest you be",2383
+Act V,Scene I,Gremio,cony-catched in this business: I dare swear this,2384
+Act V,Scene I,Gremio,is the right Vincentio.,2385
+Act V,Scene I,Pedant,"Swear, if thou darest.",2386
+Act V,Scene I,Gremio,"Nay, I dare not swear it.",2387
+Act V,Scene I,Tranio,Then thou wert best say that I am not Lucentio.,2388
+Act V,Scene I,Gremio,"Yes, I know thee to be Signior Lucentio.",2389
+Act V,Scene I,Baptista,Away with the dotard! to the gaol with him!,2390
+Act V,Scene I,Vincentio,Thus strangers may be hailed and abused: O,2391
+Act V,Scene I,Vincentio,monstrous villain!,2392
+Act V,Scene I,[stage direction],"Re-enter BIONDELLO, with LUCENTIO and BIANCA",NA
+Act V,Scene I,Biondello,"O! we are spoiled and--yonder he is: deny him,",2393
+Act V,Scene I,Biondello,"forswear him, or else we are all undone.",2394
+Act V,Scene I,Lucentio,"[Kneeling]  Pardon, sweet father.",2395
+Act V,Scene I,Vincentio,Lives my sweet son?,2396
+Act V,Scene I,[stage direction],"Exeunt BIONDELLO, TRANIO, and Pedant, as fast as may be",NA
+Act V,Scene I,Bianca,"Pardon, dear father.",2397
+Act V,Scene I,Baptista,How hast thou offended?,2398
+Act V,Scene I,Baptista,Where is Lucentio?,2399
+Act V,Scene I,Lucentio,"Here's Lucentio,",2400
+Act V,Scene I,Lucentio,Right son to the right Vincentio;,2401
+Act V,Scene I,Lucentio,"That have by marriage made thy daughter mine,",2402
+Act V,Scene I,Lucentio,While counterfeit supposes bleared thine eyne.,2403
+Act V,Scene I,Gremio,"Here's packing, with a witness to deceive us all!",2404
+Act V,Scene I,Vincentio,"Where is that damned villain Tranio,",2405
+Act V,Scene I,Vincentio,That faced and braved me in this matter so?,2406
+Act V,Scene I,Baptista,"Why, tell me, is not this my Cambio?",2407
+Act V,Scene I,Bianca,Cambio is changed into Lucentio.,2408
+Act V,Scene I,Lucentio,Love wrought these miracles. Bianca's love,2409
+Act V,Scene I,Lucentio,"Made me exchange my state with Tranio,",2410
+Act V,Scene I,Lucentio,While he did bear my countenance in the town;,2411
+Act V,Scene I,Lucentio,And happily I have arrived at the last,2412
+Act V,Scene I,Lucentio,Unto the wished haven of my bliss.,2413
+Act V,Scene I,Lucentio,"What Tranio did, myself enforced him to;",2414
+Act V,Scene I,Lucentio,"Then pardon him, sweet father, for my sake.",2415
+Act V,Scene I,Vincentio,"I'll slit the villain's nose, that would have sent",2416
+Act V,Scene I,Vincentio,me to the gaol.,2417
+Act V,Scene I,Baptista,"But do you hear, sir? have you married my daughter",2418
+Act V,Scene I,Baptista,without asking my good will?,2419
+Act V,Scene I,Vincentio,"Fear not, Baptista; we will content you, go to: but",2420
+Act V,Scene I,Vincentio,"I will in, to be revenged for this villany.",2421
+Act V,Scene I,[stage direction],Exit,NA
+Act V,Scene I,Baptista,"And I, to sound the depth of this knavery.",2422
+Act V,Scene I,[stage direction],Exit,NA
+Act V,Scene I,Lucentio,"Look not pale, Bianca; thy father will not frown.",2423
+Act V,Scene I,[stage direction],Exeunt LUCENTIO and BIANCA,NA
+Act V,Scene I,Gremio,"My cake is dough; but I'll in among the rest,",2424
+Act V,Scene I,Gremio,"Out of hope of all, but my share of the feast.",2425
+Act V,Scene I,[stage direction],Exit,NA
+Act V,Scene I,Katharina,"Husband, let's follow, to see the end of this ado.",2426
+Act V,Scene I,Petruchio,"First kiss me, Kate, and we will.",2427
+Act V,Scene I,Katharina,"What, in the midst of the street?",2428
+Act V,Scene I,Petruchio,"What, art thou ashamed of me?",2429
+Act V,Scene I,Katharina,"No, sir, God forbid; but ashamed to kiss.",2430
+Act V,Scene I,Petruchio,"Why, then let's home again. Come, sirrah, let's away.",2431
+Act V,Scene I,Katharina,"Nay, I will give thee a kiss: now pray thee, love, stay.",2432
+Act V,Scene I,Petruchio,"Is not this well? Come, my sweet Kate:",2433
+Act V,Scene I,Petruchio,"Better once than never, for never too late.",2434
+Act V,Scene I,[stage direction],Exeunt,NA
+Act V,Scene II,[stage direction],"Enter BAPTISTA, VINCENTIO, GREMIO, the Pedant,  LUCENTIO, BIANCA, PETRUCHIO, KATHARINA, HORTENSIO,  and Widow, TRANIO, BIONDELLO, and GRUMIO the Serving-men with Tranio bringing in a banquet",NA
+Act V,Scene II,Lucentio,"At last, though long, our jarring notes agree:",2435
+Act V,Scene II,Lucentio,"And time it is, when raging war is done,",2436
+Act V,Scene II,Lucentio,To smile at scapes and perils overblown.,2437
+Act V,Scene II,Lucentio,"My fair Bianca, bid my father welcome,",2438
+Act V,Scene II,Lucentio,While I with self-same kindness welcome thine.,2439
+Act V,Scene II,Lucentio,"Brother Petruchio, sister Katharina,",2440
+Act V,Scene II,Lucentio,"And thou, Hortensio, with thy loving widow,",2441
+Act V,Scene II,Lucentio,"Feast with the best, and welcome to my house:",2442
+Act V,Scene II,Lucentio,"My banquet is to close our stomachs up,",2443
+Act V,Scene II,Lucentio,"After our great good cheer. Pray you, sit down;",2444
+Act V,Scene II,Lucentio,For now we sit to chat as well as eat.,2445
+Act V,Scene II,Petruchio,"Nothing but sit and sit, and eat and eat!",2446
+Act V,Scene II,Baptista,"Padua affords this kindness, son Petruchio.",2447
+Act V,Scene II,Petruchio,Padua affords nothing but what is kind.,2448
+Act V,Scene II,Hortensio,"For both our sakes, I would that word were true.",2449
+Act V,Scene II,Petruchio,"Now, for my life, Hortensio fears his widow.",2450
+Act V,Scene II,Widow,"Then never trust me, if I be afeard.",2451
+Act V,Scene II,Petruchio,"You are very sensible, and yet you miss my sense:",2452
+Act V,Scene II,Petruchio,"I mean, Hortensio is afeard of you.",2453
+Act V,Scene II,Widow,He that is giddy thinks the world turns round.,2454
+Act V,Scene II,Petruchio,Roundly replied.,2455
+Act V,Scene II,Katharina,"Mistress, how mean you that?",2456
+Act V,Scene II,Widow,Thus I conceive by him.,2457
+Act V,Scene II,Petruchio,Conceives by me! How likes Hortensio that?,2458
+Act V,Scene II,Hortensio,"My widow says, thus she conceives her tale.",2459
+Act V,Scene II,Petruchio,"Very well mended. Kiss him for that, good widow.",2460
+Act V,Scene II,Katharina,'He that is giddy thinks the world turns round:',2461
+Act V,Scene II,Katharina,"I pray you, tell me what you meant by that.",2462
+Act V,Scene II,Widow,"Your husband, being troubled with a shrew,",2463
+Act V,Scene II,Widow,Measures my husband's sorrow by his woe:,2464
+Act V,Scene II,Widow,"And now you know my meaning,",2465
+Act V,Scene II,Katharina,A very mean meaning.,2466
+Act V,Scene II,Widow,"Right, I mean you.",2467
+Act V,Scene II,Katharina,"And I am mean indeed, respecting you.",2468
+Act V,Scene II,Petruchio,"To her, Kate!",2469
+Act V,Scene II,Hortensio,"To her, widow!",2470
+Act V,Scene II,Petruchio,"A hundred marks, my Kate does put her down.",2471
+Act V,Scene II,Hortensio,That's my office.,2472
+Act V,Scene II,Petruchio,"Spoke like an officer; ha' to thee, lad!",2473
+Act V,Scene II,[stage direction],Drinks to HORTENSIO,NA
+Act V,Scene II,Baptista,How likes Gremio these quick-witted folks?,2474
+Act V,Scene II,Gremio,"Believe me, sir, they butt together well.",2475
+Act V,Scene II,Bianca,"Head, and butt! an hasty-witted body",2476
+Act V,Scene II,Bianca,Would say your head and butt were head and horn.,2477
+Act V,Scene II,Vincentio,"Ay, mistress bride, hath that awaken'd you?",2478
+Act V,Scene II,Bianca,"Ay, but not frighted me; therefore I'll sleep again.",2479
+Act V,Scene II,Petruchio,"Nay, that you shall not: since you have begun,",2480
+Act V,Scene II,Petruchio,Have at you for a bitter jest or two!,2481
+Act V,Scene II,Bianca,Am I your bird? I mean to shift my bush;,2482
+Act V,Scene II,Bianca,And then pursue me as you draw your bow.,2483
+Act V,Scene II,Bianca,You are welcome all.,2484
+Act V,Scene II,[stage direction],"Exeunt BIANCA, KATHARINA, and Widow",NA
+Act V,Scene II,Petruchio,"She hath prevented me. Here, Signior Tranio.",2485
+Act V,Scene II,Petruchio,"This bird you aim'd at, though you hit her not;",2486
+Act V,Scene II,Petruchio,Therefore a health to all that shot and miss'd.,2487
+Act V,Scene II,Tranio,"O, sir, Lucentio slipp'd me like his greyhound,",2488
+Act V,Scene II,Tranio,Which runs himself and catches for his master.,2489
+Act V,Scene II,Petruchio,"A good swift simile, but something currish.",2490
+Act V,Scene II,Tranio,"'Tis well, sir, that you hunted for yourself:",2491
+Act V,Scene II,Tranio,'Tis thought your deer does hold you at a bay.,2492
+Act V,Scene II,Baptista,"O ho, Petruchio! Tranio hits you now.",2493
+Act V,Scene II,Lucentio,"I thank thee for that gird, good Tranio.",2494
+Act V,Scene II,Hortensio,"Confess, confess, hath he not hit you here?",2495
+Act V,Scene II,Petruchio,"A' has a little gall'd me, I confess;",2496
+Act V,Scene II,Petruchio,"And, as the jest did glance away from me,",2497
+Act V,Scene II,Petruchio,'Tis ten to one it maim'd you two outright.,2498
+Act V,Scene II,Baptista,"Now, in good sadness, son Petruchio,",2499
+Act V,Scene II,Baptista,I think thou hast the veriest shrew of all.,2500
+Act V,Scene II,Petruchio,"Well, I say no: and therefore for assurance",2501
+Act V,Scene II,Petruchio,Let's each one send unto his wife;,2502
+Act V,Scene II,Petruchio,And he whose wife is most obedient,2503
+Act V,Scene II,Petruchio,"To come at first when he doth send for her,",2504
+Act V,Scene II,Petruchio,Shall win the wager which we will propose.,2505
+Act V,Scene II,Hortensio,Content. What is the wager?,2506
+Act V,Scene II,Lucentio,Twenty crowns.,2507
+Act V,Scene II,Petruchio,Twenty crowns!,2508
+Act V,Scene II,Petruchio,"I'll venture so much of my hawk or hound,",2509
+Act V,Scene II,Petruchio,But twenty times so much upon my wife.,2510
+Act V,Scene II,Lucentio,A hundred then.,2511
+Act V,Scene II,Hortensio,Content.,2512
+Act V,Scene II,Petruchio,A match! 'tis done.,2513
+Act V,Scene II,Hortensio,Who shall begin?,2514
+Act V,Scene II,Lucentio,That will I.,2515
+Act V,Scene II,Lucentio,"Go, Biondello, bid your mistress come to me.",2516
+Act V,Scene II,Biondello,I go.,2517
+Act V,Scene II,[stage direction],Exit,NA
+Act V,Scene II,Baptista,"Son, I'll be your half, Bianca comes.",2518
+Act V,Scene II,Lucentio,I'll have no halves; I'll bear it all myself.,2519
+Act V,Scene II,[stage direction],Re-enter BIONDELLO,NA
+Act V,Scene II,Lucentio,How now! what news?,2520
+Act V,Scene II,Biondello,"Sir, my mistress sends you word",2521
+Act V,Scene II,Biondello,That she is busy and she cannot come.,2522
+Act V,Scene II,Petruchio,How! she is busy and she cannot come!,2523
+Act V,Scene II,Petruchio,Is that an answer?,2524
+Act V,Scene II,Gremio,"Ay, and a kind one too:",2525
+Act V,Scene II,Gremio,"Pray God, sir, your wife send you not a worse.",2526
+Act V,Scene II,Petruchio,I hope better.,2527
+Act V,Scene II,Hortensio,"Sirrah Biondello, go and entreat my wife",2528
+Act V,Scene II,Hortensio,To come to me forthwith.,2529
+Act V,Scene II,[stage direction],Exit BIONDELLO,NA
+Act V,Scene II,Petruchio,"O, ho! entreat her!",2530
+Act V,Scene II,Petruchio,"Nay, then she must needs come.",2531
+Act V,Scene II,Hortensio,"I am afraid, sir,",2532
+Act V,Scene II,Hortensio,"Do what you can, yours will not be entreated.",2533
+Act V,Scene II,[stage direction],Re-enter BIONDELLO,NA
+Act V,Scene II,Hortensio,"Now, where's my wife?",2534
+Act V,Scene II,Biondello,She says you have some goodly jest in hand:,2535
+Act V,Scene II,Biondello,She will not come: she bids you come to her.,2536
+Act V,Scene II,Petruchio,"Worse and worse; she will not come! O vile,",2537
+Act V,Scene II,Petruchio,"Intolerable, not to be endured!",2538
+Act V,Scene II,Petruchio,"Sirrah Grumio, go to your mistress;",2539
+Act V,Scene II,Petruchio,"Say, I command her to come to me.",2540
+Act V,Scene II,[stage direction],Exit GRUMIO,NA
+Act V,Scene II,Hortensio,I know her answer.,2541
+Act V,Scene II,Petruchio,What?,2542
+Act V,Scene II,Hortensio,She will not.,2543
+Act V,Scene II,Petruchio,"The fouler fortune mine, and there an end.",2544
+Act V,Scene II,Baptista,"Now, by my holidame, here comes Katharina!",2545
+Act V,Scene II,[stage direction],Re-enter KATARINA,NA
+Act V,Scene II,Katharina,"What is your will, sir, that you send for me?",2546
+Act V,Scene II,Petruchio,"Where is your sister, and Hortensio's wife?",2547
+Act V,Scene II,Katharina,They sit conferring by the parlor fire.,2548
+Act V,Scene II,Petruchio,Go fetch them hither: if they deny to come.,2549
+Act V,Scene II,Petruchio,Swinge me them soundly forth unto their husbands:,2550
+Act V,Scene II,Petruchio,"Away, I say, and bring them hither straight.",2551
+Act V,Scene II,[stage direction],Exit KATHARINA,NA
+Act V,Scene II,Lucentio,"Here is a wonder, if you talk of a wonder.",2552
+Act V,Scene II,Hortensio,And so it is: I wonder what it bodes.,2553
+Act V,Scene II,Petruchio,"Marry, peace it bodes, and love and quiet life,",2554
+Act V,Scene II,Petruchio,And awful rule and right supremacy;,2555
+Act V,Scene II,Petruchio,"And, to be short, what not, that's sweet and happy?",2556
+Act V,Scene II,Baptista,"Now, fair befal thee, good Petruchio!",2557
+Act V,Scene II,Baptista,The wager thou hast won; and I will add,2558
+Act V,Scene II,Baptista,Unto their losses twenty thousand crowns;,2559
+Act V,Scene II,Baptista,"Another dowry to another daughter,",2560
+Act V,Scene II,Baptista,"For she is changed, as she had never been.",2561
+Act V,Scene II,Petruchio,"Nay, I will win my wager better yet",2562
+Act V,Scene II,Petruchio,"And show more sign of her obedience,",2563
+Act V,Scene II,Petruchio,Her new-built virtue and obedience.,2564
+Act V,Scene II,Petruchio,See where she comes and brings your froward wives,2565
+Act V,Scene II,Petruchio,As prisoners to her womanly persuasion.,2566
+Act V,Scene II,[stage direction],"Re-enter KATHARINA, with BIANCA and Widow",NA
+Act V,Scene II,Petruchio,"Katharina, that cap of yours becomes you not:",2567
+Act V,Scene II,Petruchio,"Off with that bauble, throw it under-foot.",2568
+Act V,Scene II,Widow,"Lord, let me never have a cause to sigh,",2569
+Act V,Scene II,Widow,Till I be brought to such a silly pass!,2570
+Act V,Scene II,Bianca,Fie! what a foolish duty call you this?,2571
+Act V,Scene II,Lucentio,I would your duty were as foolish too:,2572
+Act V,Scene II,Lucentio,"The wisdom of your duty, fair Bianca,",2573
+Act V,Scene II,Lucentio,Hath cost me an hundred crowns since supper-time.,2574
+Act V,Scene II,Bianca,"The more fool you, for laying on my duty.",2575
+Act V,Scene II,Petruchio,"Katharina, I charge thee, tell these headstrong women",2576
+Act V,Scene II,Petruchio,What duty they do owe their lords and husbands.,2577
+Act V,Scene II,Widow,"Come, come, you're mocking: we will have no telling.",2578
+Act V,Scene II,Petruchio,"Come on, I say; and first begin with her.",2579
+Act V,Scene II,Widow,She shall not.,2580
+Act V,Scene II,Petruchio,I say she shall: and first begin with her.,2581
+Act V,Scene II,Katharina,"Fie, fie! unknit that threatening unkind brow,",2582
+Act V,Scene II,Katharina,"And dart not scornful glances from those eyes,",2583
+Act V,Scene II,Katharina,"To wound thy lord, thy king, thy governor:",2584
+Act V,Scene II,Katharina,"It blots thy beauty as frosts do bite the meads,",2585
+Act V,Scene II,Katharina,"Confounds thy fame as whirlwinds shake fair buds,",2586
+Act V,Scene II,Katharina,And in no sense is meet or amiable.,2587
+Act V,Scene II,Katharina,"A woman moved is like a fountain troubled,",2588
+Act V,Scene II,Katharina,"Muddy, ill-seeming, thick, bereft of beauty;",2589
+Act V,Scene II,Katharina,"And while it is so, none so dry or thirsty",2590
+Act V,Scene II,Katharina,Will deign to sip or touch one drop of it.,2591
+Act V,Scene II,Katharina,"Thy husband is thy lord, thy life, thy keeper,",2592
+Act V,Scene II,Katharina,"Thy head, thy sovereign; one that cares for thee,",2593
+Act V,Scene II,Katharina,And for thy maintenance commits his body,2594
+Act V,Scene II,Katharina,"To painful labour both by sea and land,",2595
+Act V,Scene II,Katharina,"To watch the night in storms, the day in cold,",2596
+Act V,Scene II,Katharina,"Whilst thou liest warm at home, secure and safe;",2597
+Act V,Scene II,Katharina,And craves no other tribute at thy hands,2598
+Act V,Scene II,Katharina,"But love, fair looks and true obedience;",2599
+Act V,Scene II,Katharina,Too little payment for so great a debt.,2600
+Act V,Scene II,Katharina,Such duty as the subject owes the prince,2601
+Act V,Scene II,Katharina,Even such a woman oweth to her husband;,2602
+Act V,Scene II,Katharina,"And when she is froward, peevish, sullen, sour,",2603
+Act V,Scene II,Katharina,"And not obedient to his honest will,",2604
+Act V,Scene II,Katharina,What is she but a foul contending rebel,2605
+Act V,Scene II,Katharina,And graceless traitor to her loving lord?,2606
+Act V,Scene II,Katharina,I am ashamed that women are so simple,2607
+Act V,Scene II,Katharina,To offer war where they should kneel for peace;,2608
+Act V,Scene II,Katharina,"Or seek for rule, supremacy and sway,",2609
+Act V,Scene II,Katharina,"When they are bound to serve, love and obey.",2610
+Act V,Scene II,Katharina,"Why are our bodies soft and weak and smooth,",2611
+Act V,Scene II,Katharina,"Unapt to toil and trouble in the world,",2612
+Act V,Scene II,Katharina,But that our soft conditions and our hearts,2613
+Act V,Scene II,Katharina,Should well agree with our external parts?,2614
+Act V,Scene II,Katharina,"Come, come, you froward and unable worms!",2615
+Act V,Scene II,Katharina,"My mind hath been as big as one of yours,",2616
+Act V,Scene II,Katharina,"My heart as great, my reason haply more,",2617
+Act V,Scene II,Katharina,To bandy word for word and frown for frown;,2618
+Act V,Scene II,Katharina,"But now I see our lances are but straws,",2619
+Act V,Scene II,Katharina,"Our strength as weak, our weakness past compare,",2620
+Act V,Scene II,Katharina,That seeming to be most which we indeed least are.,2621
+Act V,Scene II,Katharina,"Then vail your stomachs, for it is no boot,",2622
+Act V,Scene II,Katharina,And place your hands below your husband's foot:,2623
+Act V,Scene II,Katharina,"In token of which duty, if he please,",2624
+Act V,Scene II,Katharina,My hand is ready; may it do him ease.,2625
+Act V,Scene II,Petruchio,"Why, there's a wench! Come on, and kiss me, Kate.",2626
+Act V,Scene II,Lucentio,"Well, go thy ways, old lad; for thou shalt ha't.",2627
+Act V,Scene II,Vincentio,'Tis a good hearing when children are toward.,2628
+Act V,Scene II,Lucentio,But a harsh hearing when women are froward.,2629
+Act V,Scene II,Petruchio,"Come, Kate, we'll to bed.",2630
+Act V,Scene II,Petruchio,"We three are married, but you two are sped.",2631
+Act V,Scene II,[stage direction],To LUCENTIO,NA
+Act V,Scene II,Petruchio,"'Twas I won the wager, though you hit the white;",2632
+Act V,Scene II,Petruchio,"And, being a winner, God give you good night!",2633
+Act V,Scene II,[stage direction],Exeunt PETRUCHIO and KATHARINA,NA
+Act V,Scene II,Hortensio,"Now, go thy ways; thou hast tamed a curst shrew.",2634
+Act V,Scene II,Lucentio,"'Tis a wonder, by your leave, she will be tamed so.",2635
+Act V,Scene II,[stage direction],Exeunt,NA
