@@ -1,4 +1,3 @@
-
 # Functions ---------------------------------------------------------------
 
 source("R/functions.R")
@@ -11,5 +10,7 @@ metadata <- readr::read_csv("data/metadata.csv")
 
 # Extract data ------------------------------------------------------------
 
-purrr::walk(.x = nrow(metadata),
-            .f = ~extract_and_save(metadata, .x))
+purrr::walk(
+  .x = 1:nrow(metadata),
+  .f = ~ extract_and_save(metadata, .x)
+)
