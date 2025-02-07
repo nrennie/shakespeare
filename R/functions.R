@@ -3,13 +3,23 @@ str_extract_between <- function(x, start, end) {
   return(stringr::str_extract(x, pattern = pattern))
 }
 
-extract_data <- function(raw_html) {
+convert_after_first_true <- function(x) {
+  if (any(x)) {
+    x[which(x)[1]:length(x)] <- TRUE
+  }
+  return(x)
+}
+
+scrape_play <- function(url) {
+  # Scrape HTML
+  raw_html <- rvest::read_html(url)
+
   # Extract elements
-  a_char <- raw_html |>
+  script <- raw_html |>
     rvest::html_elements("h3, a, i") |>
-    as.character()
-  
-  script <- tibble::tibble(raw_char = a_char) |>
+    as.character() |>
+    data.frame(raw_char = _) |>
+    tibble::as_tibble() |>
     # Remove top two title rows
     dplyr::slice(-c(1, 2)) |>
     # What Act is it?
@@ -61,13 +71,13 @@ extract_data <- function(raw_html) {
       dialogue = str_extract_between(
         raw_char, ">", "</a>"
       )
-    )  |> 
+    ) |>
     dplyr::mutate(
       stage_dir = dplyr::case_when(
         stringr::str_detect(raw_char, "<i>") ~ str_extract_between(raw_char, "<i>", "</i>"),
         TRUE ~ NA_character_
       )
-    ) |> 
+    ) |>
     dplyr::mutate(
       dialogue = dplyr::case_when(
         !is.na(stage_dir) ~ stage_dir,
@@ -77,23 +87,104 @@ extract_data <- function(raw_html) {
         !is.na(stage_dir) ~ "[stage direction]",
         TRUE ~ character
       )
-    ) |> 
+    ) |>
     dplyr::select(-c(stage_dir, raw_char)) |>
     dplyr::mutate(
       character = tidyr::replace_na(character, "Chorus")
     ) |>
+    dplyr::mutate(
+      is_epi = stringr::str_detect(dialogue, "EPILOGUE")
+    ) |>
+    dplyr::filter(!is.na(dialogue) & !is.na(is_epi)) |>
+    dplyr::mutate(
+      has_epi = convert_after_first_true(is_epi),
+      scene = dplyr::case_when(
+        has_epi ~ "Epilogue",
+        TRUE ~ scene
+      )
+    ) |>
+    dplyr::filter(!is_epi) |>
+    dplyr::select(-c(is_epi, has_epi)) |>
     tidyr::drop_na(dialogue) |>
-    dplyr::mutate(dialogue = stringr::str_trim(dialogue)) |> 
-    dplyr::mutate(is_stage_dir = (character == "[stage direction]")) |> 
-    dplyr::group_by(is_stage_dir) |> 
-    dplyr::mutate(line_number = dplyr::row_number()) |> 
-    dplyr::ungroup() |> 
+    dplyr::mutate(dialogue = stringr::str_trim(dialogue)) |>
+    dplyr::mutate(is_stage_dir = (character == "[stage direction]")) |>
+    dplyr::group_by(is_stage_dir) |>
+    dplyr::mutate(line_number = dplyr::row_number()) |>
+    dplyr::ungroup() |>
+    dplyr::mutate(
+      character = stringr::str_replace(character, "  ", " ")
+    ) |>
     dplyr::mutate(
       line_number = dplyr::case_when(
         is_stage_dir ~ NA,
         TRUE ~ line_number
       )
-    ) |> 
+    ) |>
     dplyr::select(-is_stage_dir)
   return(script)
+}
+
+scrape_sonnet <- function(url) {
+  # Scrape HTML
+  url <- "https://shakespeare.mit.edu/Poetry/sonnet.LIX.html"
+  raw_html <- rvest::read_html(url)
+  sonnet <- raw_html |>
+    rvest::html_elements("blockquote") |>
+    as.character() |>
+    data.frame(raw_char = _) |>
+    tibble::as_tibble() |>
+    tidyr::separate_longer_delim(raw_char, "<br>") |>
+    dplyr::mutate(
+      raw_char = stringr::str_remove_all(
+        string = raw_char,
+        pattern = "<blockquote>|</blockquote>|\\n"
+      )
+    ) |>
+    dplyr::filter(raw_char != "") |>
+    dplyr::mutate(line_number = dplyr::row_number()) |>
+    dplyr::rename(line = raw_char) |>
+    dplyr::mutate(line = stringr::str_trim(line))
+  return(sonnet)
+}
+
+scrape_poem <- function(url) {
+  # Scrape HTML
+  raw_html <- rvest::read_html(url)
+
+  # Process poem
+  bq_char <- raw_html |>
+    rvest::html_elements("blockquote") |>
+    as.character()
+
+  poem <- tibble::tibble(raw_char = bq_char) |>
+    dplyr::mutate(
+      stanza = dplyr::row_number()
+    ) |>
+    tidyr::separate_longer_delim(raw_char, "<br>") |>
+    dplyr::mutate(
+      raw_char = stringr::str_remove_all(
+        string = raw_char,
+        pattern = "<blockquote>|</blockquote>|\\n"
+      )
+    ) |>
+    dplyr::filter(raw_char != "") |>
+    dplyr::mutate(line_number = dplyr::row_number()) |>
+    dplyr::rename(line = raw_char)
+  return(poem)
+}
+
+extract_data <- function(url, genre) {
+  if (genre == "Sonnet") {
+    scrape_sonnet(url)
+  } else if (genre == "Poetry") {
+    scrape_poem(url)
+  } else {
+    scrape_play(url)
+  }
+}
+
+extract_and_save <- function(data, i) {
+  work <- extract_data(url = data$URL[i], genre = data$Genre[i])
+  fname <- paste0("data/", data$File[i], ".csv")
+  readr::write_csv(work, fname)
 }
