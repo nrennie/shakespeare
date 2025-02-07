@@ -121,42 +121,62 @@ scrape_play <- function(url) {
   return(script)
 }
 
+scrape_sonnet <- function(url) {
+  # Scrape HTML
+  url <- "https://shakespeare.mit.edu/Poetry/sonnet.LIX.html"
+  raw_html <- rvest::read_html(url)
+  sonnet <- raw_html |>
+    rvest::html_elements("blockquote") |>
+    as.character() |> 
+    data.frame(raw_char = _) |>
+    tibble::as_tibble() |> 
+    tidyr::separate_longer_delim(raw_char, "<br>") |> 
+    dplyr::mutate(
+      raw_char = stringr::str_remove_all(
+        string = raw_char,
+        pattern = "<blockquote>|</blockquote>|\\n"
+      )
+    ) |> 
+    dplyr::filter(raw_char != "") |>
+    dplyr::mutate(line_number = dplyr::row_number()) |>
+    dplyr::rename(line = raw_char) |> 
+    dplyr::mutate(line = stringr::str_trim(line))
+  return(sonnet)
+}
+
 scrape_poem <- function(url) {
-  # The Sonnets are a special case with more links
-  if (stringr::str_detect(url, "sonnets")) {
-    print("Sonnets")
-  } else {
-    # Scrape HTML
-    raw_html <- rvest::read_html(url)
+  # Scrape HTML
+  raw_html <- rvest::read_html(url)
 
-    # Process poem
-    bq_char <- raw_html |>
-      rvest::html_elements("blockquote") |>
-      as.character()
+  # Process poem
+  bq_char <- raw_html |>
+    rvest::html_elements("blockquote") |>
+    as.character()
 
-    poem <- tibble::tibble(raw_char = bq_char) |>
-      dplyr::mutate(
-        stanza = dplyr::row_number()
-      ) |>
-      tidyr::separate_longer_delim(raw_char, "<br>") |>
-      dplyr::mutate(
-        raw_char = stringr::str_remove_all(
-          string = raw_char,
-          pattern = "<blockquote>|</blockquote>|\\n"
-        )
-      ) |>
-      dplyr::filter(raw_char != "") |>
-      dplyr::mutate(line_number = dplyr::row_number()) |>
-      dplyr::rename(line = raw_char)
-    return(poem)
-  }
+  poem <- tibble::tibble(raw_char = bq_char) |>
+    dplyr::mutate(
+      stanza = dplyr::row_number()
+    ) |>
+    tidyr::separate_longer_delim(raw_char, "<br>") |>
+    dplyr::mutate(
+      raw_char = stringr::str_remove_all(
+        string = raw_char,
+        pattern = "<blockquote>|</blockquote>|\\n"
+      )
+    ) |>
+    dplyr::filter(raw_char != "") |>
+    dplyr::mutate(line_number = dplyr::row_number()) |>
+    dplyr::rename(line = raw_char)
+  return(poem)
 }
 
 extract_data <- function(url, genre) {
-  if (genre != "Poetry") {
-    scrape_play(url)
-  } else {
+  if (genre == "Sonnet") {
+    scrape_sonnet(url)
+  } else if (genre == "Poetry") {
     scrape_poem(url)
+  } else {
+    scrape_play(url)
   }
 }
 
